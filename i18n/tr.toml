@@ -1,0 +1,23 @@
+[search]
+other = "Ara"
+
+[share]
+other = "Paylaş"
+
+[share_twitter]
+other = "X'te paylaş"
+
+[share_facebook]
+other = "Facebook'ta paylaş"
+
+[share_linkedin]
+other = "LinkedIn'de paylaş"
+
+[share_email]
+other = "E-posta ile paylaş"
+
+[email]
+other = "E-posta"
+
+[language_menu]
+other = "Dil seçin"

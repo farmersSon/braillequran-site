@@ -1,0 +1,8 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-dark-blue" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between items-center">
+    <span class="f5 white-70">
+      &copy; {{ now.Format "2006" }} Braillequran.org
+    </span>
+    <div>{{ partial "social/follow.html" . }}</div>
+  </div>
+</footer>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" {{- if eq site.Language.LanguageDirection "rtl" }} dir="rtl" {{- end }}>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    {{ hugo.Generator }}
+    {{ $production := hugo.IsProduction }}
+    {{ $public := not .Params.private }}
+    {{ if and $production $public }}
+      <meta name="robots" content="index, follow">
+    {{ else }}
+      <meta name="robots" content="noindex, nofollow">
+    {{ end }}
+    {{ partials.Include "site-style.html" . }}
+    {{ partials.Include "site-scripts.html" . }}
+    {{ block "favicon" . }}{{ partials.IncludeCached "site-favicon.html" . }}{{ end }}
+    {{ if .OutputFormats.Get "RSS" }}
+      {{ with .OutputFormats.Get "RSS" }}
+        <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+      {{ end }}
+    {{ end }}
+    {{ if .Params.canonicalUrl }}
+      <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+    {{ else }}
+      <link rel="canonical" href="{{ .Permalink }}">
+    {{ end }}
+    {{ partial "opengraph.html" . -}}
+    {{ partial "schema.html" . -}}
+    {{ partial "twitter_cards.html" . -}}
+    {{ if hugo.IsProduction }}{{ partial "google_analytics.html" . }}{{ end }}
+    {{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
+    <style>
+      .search-wrap { position: relative; max-width: 20rem; }
+      .search-wrap input { width: 100%; padding: .5rem; border: 1px solid #ccc; border-radius: 4px; }
+      .search-results { position: absolute; top: 100%; left: 0; right: 0; background: #fff; border: 1px solid #ccc; max-height: 20rem; overflow-y: auto; z-index: 100; display: none; }
+      .search-results a { display: block; padding: .5rem; color: #333; text-decoration: none; border-bottom: 1px solid #eee; }
+      .search-results a:hover, .search-results a:focus { background: #f0f0f0; }
+    </style>
+  </head>
+  {{- $body_classes := slice "ma0" ($.Param "body_classes" | default "avenir bg-near-white") (hugo.Environment | default "production") -}}
+  {{- $body_classes = $body_classes | append (printf "is-%s" .Kind) -}}
+  {{- if .IsPage -}}
+    {{- $body_classes = $body_classes | append "is-page" -}}
+    {{- with .File -}}{{- $body_classes = $body_classes | append (printf "page-%s" .ContentBaseName) -}}{{- end -}}
+  {{- end -}}
+  {{- if .IsSection -}}{{- $body_classes = $body_classes | append "is-section" -}}{{- end -}}
+  <body class="{{ delimit $body_classes " " }}">
+    {{ block "header" . }}{{ partials.Include "site-header.html" . }}{{ end }}
+    <div class="ph3 ph4-ns flex flex-wrap justify-between items-center">
+      {{ partial "breadcrumb.html" . }}
+      <div class="search-wrap mv2" role="search" aria-label="Site search">
+        <label for="search-input" class="clip">{{ i18n "search" | default "Search" }}</label>
+        <input id="search-input" type="search" placeholder="{{ i18n "search" | default "Search" }}…" autocomplete="off" aria-controls="search-results">
+        <div id="search-results" class="search-results" role="listbox" aria-label="Search results"></div>
+      </div>
+    </div>
+    <main class="pb7" role="main">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "social-share.html" . }}
+    {{ block "footer" . }}{{ partials.IncludeCached "site-footer.html" . }}{{ end }}
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
+    <script>
+    (function(){
+      var lang = {{ .Site.Language.Lang }};
+      var input = document.getElementById('search-input');
+      var resultsEl = document.getElementById('search-results');
+      var fuse;
+      fetch('/'+lang+'/index.json')
+        .then(function(r){return r.json()})
+        .then(function(data){
+          var filtered = data.filter(function(d){return d.lang===lang});
+          fuse = new Fuse(filtered, {keys:['title','content'], threshold:0.3});
+        });
+      input.addEventListener('input', function(){
+        var q = this.value.trim();
+        if(!q || !fuse){resultsEl.style.display='none';resultsEl.innerHTML='';return;}
+        var hits = fuse.search(q, {limit:10});
+        if(!hits.length){resultsEl.style.display='none';resultsEl.innerHTML='';return;}
+        resultsEl.innerHTML = hits.map(function(h){
+          return '<a href="'+h.item.href+'" role="option">'+h.item.title+'</a>';
+        }).join('');
+        resultsEl.style.display='block';
+      });
+      document.addEventListener('click',function(e){
+        if(!e.target.closest('.search-wrap')) resultsEl.style.display='none';
+      });
+    })();
+    </script>
+  </body>
+</html>

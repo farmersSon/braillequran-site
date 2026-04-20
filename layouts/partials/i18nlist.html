@@ -1,0 +1,68 @@
+{{ if gt (len hugo.Sites) 1 }}
+<div class="relative dib mr3" data-lang-menu>
+  <button
+    type="button"
+    class="bg-transparent bn white f5 f4-ns fw4 pointer pa2 flex items-center"
+    aria-expanded="false"
+    aria-controls="lang-menu"
+    aria-label="{{ i18n "language_menu" | default "Select language" }}"
+  >
+    {{ $.Site.Language.LanguageName }}
+    <svg class="ml1" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M2 4l4 4 4-4" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+  </button>
+  <ul
+    id="lang-menu"
+    class="list pl0 ma0 absolute bg-white br2 shadow-1 z-max"
+    role="menu"
+    style="display:none; min-width:10rem; right:0; top:100%;"
+  >
+    {{ range hugo.Sites }}
+      {{ $isCurrent := eq $.Site.Language.Lang .Language.Lang }}
+      <li role="none">
+        <a
+          role="menuitem"
+          class="db pa2 no-underline dark-gray hover-bg-light-gray{{ if $isCurrent }} fw7{{ end }}"
+          href="/{{ .Language.Lang }}/"
+          {{ if $isCurrent }}aria-current="true"{{ end }}
+          lang="{{ .Language.Lang }}"
+        >{{ .Language.LanguageName }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
+<script>
+(function(){
+  document.querySelectorAll('[data-lang-menu]').forEach(function(wrap){
+    var btn = wrap.querySelector('button');
+    var menu = wrap.querySelector('[role="menu"]');
+    var items = menu.querySelectorAll('[role="menuitem"]');
+
+    function open(){
+      btn.setAttribute('aria-expanded','true');
+      menu.style.display='block';
+      items[0].focus();
+    }
+    function close(){
+      btn.setAttribute('aria-expanded','false');
+      menu.style.display='none';
+      btn.focus();
+    }
+
+    btn.addEventListener('click', function(){
+      btn.getAttribute('aria-expanded')==='true' ? close() : open();
+    });
+
+    menu.addEventListener('keydown', function(e){
+      var idx = Array.prototype.indexOf.call(items, document.activeElement);
+      if(e.key==='ArrowDown'){ e.preventDefault(); items[(idx+1)%items.length].focus(); }
+      else if(e.key==='ArrowUp'){ e.preventDefault(); items[(idx-1+items.length)%items.length].focus(); }
+      else if(e.key==='Escape'){ close(); }
+    });
+
+    document.addEventListener('click', function(e){
+      if(!wrap.contains(e.target)) { menu.style.display='none'; btn.setAttribute('aria-expanded','false'); }
+    });
+  });
+})();
+</script>
+{{ end }}

@@ -1,0 +1,9 @@
+{{- $title := .Title | urlquery -}}
+{{- $url := .Permalink -}}
+<div class="pa3 ph4-ns flex items-center justify-start" aria-label="{{ i18n "share" | default "Share this page" }}">
+  <h3 class="f6 fw6 mr3 mv0 dib">{{ i18n "share" | default "Share" }}:</h3>
+  <a class="link dim mr3" href="{{ printf "https://x.com/intent/tweet?url=%s&text=%s" $url $title | safeURL }}" target="_blank" rel="noopener" aria-label="{{ i18n "share_twitter" | default "Share on X" }}">X</a>
+  <a class="link dim mr3" href="{{ printf "https://www.facebook.com/sharer/sharer.php?u=%s" $url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ i18n "share_facebook" | default "Share on Facebook" }}">Facebook</a>
+  <a class="link dim mr3" href="{{ printf "https://www.linkedin.com/sharing/share-offsite/?url=%s" $url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ i18n "share_linkedin" | default "Share on LinkedIn" }}">LinkedIn</a>
+  <a class="link dim" href="{{ printf "mailto:?subject=%s&body=%s" $title $url | safeURL }}" aria-label="{{ i18n "share_email" | default "Share via Email" }}">{{ i18n "email" | default "Email" }}</a>
+</div>

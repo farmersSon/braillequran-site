@@ -1,0 +1,23 @@
+[search]
+other = "Suche"
+
+[share]
+other = "Teilen"
+
+[share_twitter]
+other = "Auf X teilen"
+
+[share_facebook]
+other = "Auf Facebook teilen"
+
+[share_linkedin]
+other = "Auf LinkedIn teilen"
+
+[share_email]
+other = "Per E-Mail teilen"
+
+[email]
+other = "E-Mail"
+
+[language_menu]
+other = "Sprache wählen"

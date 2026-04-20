@@ -1,0 +1,11 @@
+<nav aria-label="Breadcrumb" class="ph3 ph4-ns pv2 f6">
+  <ol class="list pl0 flex flex-wrap" style="gap: 0.25rem;">
+    {{ range .Ancestors.Reverse }}
+      <li>
+        <a href="{{ .RelPermalink }}" class="link dim mid-gray">{{ .Title | default .Site.Title }}</a>
+        <span aria-hidden="true" class="mid-gray">/</span>
+      </li>
+    {{ end }}
+    <li aria-current="page" class="dark-gray b">{{ .Title }}</li>
+  </ol>
+</nav>
