@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Permalink }}</title>
+    {{ with .OutputFormats.Canonical }}<link rel="{{ .Rel }}" href="{{ .Permalink }}">{{ end }}
+    {{ if eq .Page.Kind "home" }}
+    <script>
+      var supported = [{{ range $i, $s := hugo.Sites }}{{ if $i }},{{ end }}"{{ $s.Language.Lang }}"{{ end }}];
+      var langs = navigator.languages || [navigator.language || "en"];
+      var match = "{{ .Page.Site.Language.Lang }}";
+      for (var i = 0; i < langs.length; i++) {
+        var code = langs[i].split("-")[0].toLowerCase();
+        if (supported.indexOf(code) !== -1) { match = code; break; }
+      }
+      window.location.replace("/" + match + "/");
+    </script>
+    {{ else }}
+    <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+    {{ end }}
+    <noscript><meta http-equiv="refresh" content="0; url={{ .Permalink }}"></noscript>
+  </head>
+</html>
