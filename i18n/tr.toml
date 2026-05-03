@@ -21,3 +21,9 @@ other = "E-posta"
 
 [language_menu]
 other = "Dil seçin"
+
+[activate_dark]
+other = "Karanlık modu etkinleştir"
+
+[deactivate_dark]
+other = "Karanlık modu devre dışı bırak"

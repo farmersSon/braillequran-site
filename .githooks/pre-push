@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if ! command -v gitleaks &>/dev/null; then
+  echo "ERROR: gitleaks is not installed. Install it from https://github.com/gitleaks/gitleaks"
+  exit 1
+fi
+
+echo "Running gitleaks pre-push scan..."
+gitleaks protect --staged --verbose
