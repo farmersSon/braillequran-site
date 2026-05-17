@@ -1,0 +1,17 @@
+main:
+  - name: Ana Sayfa
+    pageRef: /
+    weight: 1
+  - name: Arapça Braille Okuma Notlar 
+    pageRef: /general_reading_notes
+    weight: 5
+  - name: Braille Noktalar
+    pageRef: /braille_dots
+    weight: 4
+  - name: Tüm Braille Semboller
+    pageRef: /all_symbols
+    weight: 7
+  - name: Kuveyt Sistemi
+    pageRef: /kuwaiti_system
+    weight: 8
+ 

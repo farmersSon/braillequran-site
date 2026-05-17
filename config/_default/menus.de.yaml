@@ -1,0 +1,4 @@
+main:
+  - name: Startseite
+    pageRef: /
+    weight: 1 

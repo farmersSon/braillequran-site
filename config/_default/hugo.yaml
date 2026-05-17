@@ -1,5 +1,5 @@
-baseURL: "https://braillequran.org/"
-title: "BrailleQuran"
+baseURL: "https://braille-quran.org/"
+title: "Braille Quran"
 theme: "ananke"
 
 defaultContentLanguage: en
@@ -11,63 +11,32 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: "BrailleQuran"
+    title: "Braille Quran"
     contentDir: content/en
     params:
-      description: "BrailleQuran – Accessible Quran Resources"
-    menus:
-      main:
-        - name: Home
-          pageRef: /
-          weight: 1
+      description: "Braille Quran – Accessible Quran Resources"
   tr:
     languageName: Türkçe
     weight: 2
-    title: "BrailleQuran"
+    title: "Braille Quran"
     contentDir: content/tr
     params:
-      description: "BrailleQuran – Erişilebilir Kur'an Kaynakları"
-    menus:
-      main:
-        - name: Ana Sayfa
-          pageRef: /
-          weight: 1
-        - name: Arapça Braille Okuma Notlar 
-          pageRef: /general_reading_notes
-          weight: 5
-        - name: Braille Noktalar
-          pageRef: /braille_dots
-          weight: 4
-        - name: Tüm Braille Semboller
-          pageRef: /all_symbols
-          weight: 7
-        - name: Kuveyt Sistemi
-          pageRef: /kuwaiti_system
-          weight: 8
+      description: "Braille Quran – Erişilebilir Kur'an Kaynakları"
   de:
     languageName: Deutsch
     weight: 3
-    title: "BrailleQuran"
+    title: "Braille Quran"
     contentDir: content/de
     params:
-      description: "BrailleQuran – Barrierefreie Koran-Ressourcen"
-    menus:
-      main:
-        - name: Startseite
-          pageRef: /
-          weight: 1
+      description: "Braille Quran – Barrierefreie Koran-Ressourcen"
   fr:
     languageName: Français
     weight: 4
-    title: "BrailleQuran"
+    title: "Braille Quran"
     contentDir: content/fr
     params:
-      description: "BrailleQuran – Ressources Coraniques Accessibles"
-    menus:
-      main:
-        - name: Accueil
-          pageRef: /
-          weight: 1
+
+      description: "Braille Quran – Ressources Coraniques Accessibles"
 
 params:
   background_color_class: "bg-dark-blue"
