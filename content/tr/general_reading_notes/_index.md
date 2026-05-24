@@ -1,17 +1,15 @@
 ---
-date: '2025-10-26T11:19:26+01:00'
 draft: false
 title: 'Okuma Notları'
 ---
 
-# Genel Açıklamalar 
+## Genel Açıklamalar 
 
-Tablolarda ayrıca şu hususlar dikkate alınmalıdır.
 
 - Braille okurken, Arapça olsa bile, *her daim soldan sağa okunmalıdır.*
 
 - Arap harfler semboller ile birlikte arka arkaya yazılmaktadır. Örnek:
-  [لَ]{lang="ar"} yazdığında, üstün Braille alfabesinde lam harfinin
+  [لَ] yazdığında, üstün Braille alfabesinde lam harfinin
   arkasına yazılır.
 
 - Bazı paragraflarda konularla ilgili olmayan kelimeler Elif cüz'ün
@@ -28,9 +26,9 @@ Tablolarda ayrıca şu hususlar dikkate alınmalıdır.
   mushaflara göre birkaç fark vardır. Şu farklar önümüzdeki dersler'de
   önemlidir:
 
-  1.  Elif yerine elif-i maksure yazılması [سَوّىهُ]{lang="ar"} Sudi
+  1.  Elif yerine elif-i maksure yazılması [سَوّىهُ] Sudi
       Arabistan'da bulunan mushaflarda ise aynı kelime şu şekilde
-      mevcud'dur: [سَوّاهُ]{lang="ar"}
+      mevcud'dur: [سَوّاهُ]
 
   2.  Hemze yerine hemze elifi'nin kullanılması
 
@@ -40,5 +38,5 @@ Tablolarda ayrıca şu hususlar dikkate alınmalıdır.
   cinsten olan harekeler yazılmamaktadır. Mushaflarda ise harekeler
   mevcutur. Bu fark ayriyeten onuncu derste
   ([\[ders10\]](#ders10){reference-type="ref" reference="ders10"})
-  bulunmaktadır. Misal:\
-  [في اَلدّينِ]{lang="ar"} $\rightarrow$
+  bulunmaktadır. Misal:
+ [في اَلدّينِ] -> 

@@ -3,14 +3,18 @@ draft: false
 title: 'Ders 7: Tenvinler'
 ---
 
+## Ders 7: Tenvinler
+
 Tenvin, nunlanmak demektir. Yalnız kelime sonlarında bulunur ve o
 kelimenin belirsiz (nekeri) isim olduğunu ifade eder. Üç çeşittir:
 
-Üstün tenvin: (İki üstün) işareti ([اً]{lang="ar"}) ⠁⠆(noktalar 2,3) olup
+## Üstün tenvin
+
+Üstün tenvin: (İki üstün) işareti ([اً]) ⠁⠆(noktalar 2,3) olup
 arkasına geldiği harf kalın ise kelimeyi 'an 'ince ise 'en 'şeklinde
 tamamlar.
 
-## Üstün tenvinler örnekler
+### Üstün tenvinler örnekler
 
 Arapca | Braille
 ---    | ---
@@ -34,11 +38,12 @@ Arapca | Braille
 مُفَصَّلاً | ⠍⠥⠋⠂⠠⠯⠂⠧⠆
 ثَلٰثاً | ⠹⠂⠇⠈⠹⠁⠆
 
+## Esre Tenvin
 
 Esre tenvin: (çift esre) arkasına geldiği harf kalın ise 'ın ', ince ise
 'in 'diye okutur. Kabartmada ⠔ile gösterilir (noktalar 3,5).
 
-## Esre tenvin misaller
+### Esre tenvin misaller
 
 Arapca | Braille
 ---    | ---
@@ -59,10 +64,12 @@ Arapca | Braille
 صِراطٍ | ⠯⠑⠗⠁⠾⠔
 مُسْتَقيمٍ | ⠍⠥⠎⠒⠞⠂⠟⠊⠍⠔
 
+## Ötre Tenvin
+
 Ötre tenvin: ⠢(noktalar 2,6) ile gösterilir. Arkasına geldiği harfi 'un
 'sesiyle tamamlar.
 
-## Ötre tenvin örnekler
+### Ötre tenvin örnekler
 
 Arapca | Braille
 ---    | ---

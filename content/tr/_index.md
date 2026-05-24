@@ -14,7 +14,7 @@ beytine selat ve selam olsun.\
 4- O, insana kalemle yazmayı öğretti.\
 5- İnsana bilmediğini öğretti. [^1]
 
-Bu kitapcıkta Arap Braille sistemi gösterilmektedir. Kuran´ı Kerimlerin
+Bu sayfada Braille sistemi gösterilmektedir. Kuran´ı Kerimlerin
 Braille baskılarında Elif cüz mevcut olsa bile, her zaman onu öğretecek
 Braille diline hakim ehil bir eğitmen bulunmaya bilinir. Ayrıca her
 dilde Braille Elif cüz bulunmamaktadır. Nitekim bu kitapcıkta gösterilen
@@ -35,7 +35,7 @@ kullanılmaktadır. Bu kitapcıkta hem Türkiye'de hemde Suudi Arabistan ve
 Kuveyt'de kullanılan iki farklı sistem gösterilmektedir. İkinci sistem
 örneğin Mescid-i Nebevi'de bulunan mushaflarda kullanılmaktadır.
 
-İnşallah bu çalışma daha fazla görme engelli kardeşlere ulaşıp
+İnşaallah bu çalışma daha fazla görme engelli kardeşlere ulaşıp
 kendilerinin Kur'an öğrenmelerine vesile olup, ümmet-i Muhammede (sav)
 büyük faydalarda ve katkıda bulunur.
 
@@ -52,7 +52,7 @@ hepinizden razı olsun!
 
 ## Giriş
 
-Bu kitapçık özellikle Türkiye'de kullanılan Kuran Braille alfabesi ve
+Burda özellikle Türkiye'de kullanılan Kuran Braille alfabesi ve
 işaretlerini göstermektedir. Türkiye'de kullanılan Arapça Braille
 sistemi altı noktalı sistemi esas almıştır. Sekiz noktalı Braille
 sistemi söz konusu değildir. Altı noktalı Braille sistem aşağıda
@@ -60,29 +60,29 @@ belirtilen şekildedir.
 
 ### Dersler
 
-1. [Ders 1: Arapça Harfler](/tr/02-lection1)
+1. [Ders 1: Arapça Harfler](/tr/tr_ism/02-lect1)
 
-2. [Ders 2: Mahreçler](/tr/02-makhraj)
+2. [Ders 2: Mahreçler](/tr/tr_ism/02-lect2)
 
-3. [Ders 3: Harekeler](/tr/02-lect3)
+3. [Ders 3: Harekeler](/tr/tr_ism/02-lect3)
 
-4. [Ders 4: Cezim ve şeddeler](/tr/02-lect4)
+4. [Ders 4: Cezim ve şeddeler](/tr/tr_ism/02-lect4)
 
-5. [Ders 5: Medler](/tr/02-lect5)
+5. [Ders 5: Medler](/tr/tr_ism/02-lect5)
 
-6. [Ders 6: Hemzeler](/tr/02-lect6)
+6. [Ders 6: Hemzeler](/tr/tr_ism/02-lect6)
 
-7. [Ders 7: Tenvinler](/tr/02-lect7)
+7. [Ders 7: Tenvinler](/tr/tr_ism/02-lect7)
 
-8. [Ders 8: Te-i Merbuta (yuvarlak te)](/tr/02-lect8)
+8. [Ders 8: Te-i Merbuta (yuvarlak te)](/tr/tr_ism/02-lect8)
 
-9. [Ders 9: Elif Uzatmalar](/tr/02-lect9)
+9. [Ders 9: Elif Uzatmalar](/tr/tr_ism/02-lect9)
 
-10. [Ders 10: ﺎﻟ (elif-lam) takısı (harfi tarif)](/tr/02-lect10)
+10. [Ders 10: ﺎﻟ (elif-lam) takısı (harfi tarif)](/tr/tr_ism/02-lect10)
 
-11. [Ders 11: Önemli açıklamalar](/tr/02-lect11)
+11. [Ders 11: Önemli açıklamalar](/tr/tr_ism/02-lect11)
 
-12. [Ders 12: Durak işaretleri](/tr/02-lect12)
+12. [Ders 12: Durak işaretleri](/tr/tr_ism/02-lect12)
 
 
 [^1]: [سورة العلق 1-5]{lang="ar"}

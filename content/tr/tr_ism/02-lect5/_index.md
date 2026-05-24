@@ -4,19 +4,19 @@ title: 'Ders 5: Medler'
 ---
 ## Ders 5: Medler (Uzatmalar)
 
-[ا]{lang="ar"}, [و]{lang="ar"} ve [ي]{lang="ar"} harfleri hareke
+[ا], [و] ve [ي] harfleri hareke
 almışlarsa asli harf görevindedirler. Eğer bir harfin arkasından
 harekesiz olarak gelmişlerse onu uzatılır.
 
-[ا]{lang="ar"} (elif) kendinden önceki harfi bir elif miktarı 'aa 'diye,
-[و]{lang="ar"} (vav) 'uu 'diye ve [ي]{lang="ar"} (ye) 'ii 'diye
+[ا] (elif) kendinden önceki harfi bir elif miktarı 'aa 'diye,
+[و] (vav) 'uu 'diye ve [ي] (ye) 'ii 'diye
 uzatırlar.
 
 Ayrıca Kuran metninde görülmeyen, fakat uzatılması gereken bazı yerler
-vardır. Bunlara gizli uzatmalar denir. [ٰ]{lang="ar"} (asar mukadder
+vardır. Bunlara gizli uzatmalar denir. [ٰ] (asar mukadder
 elif) ⠈(4. nokta) 'aa 'diye,\
-[ِ]{lang="ar"} (mukadder ye) ⠘(noktalar 4,5) 'ii 'diye\
-ve [ُ]{lang="ar"} (mukadder vav) ⠬(noktalar 2,4,5,6) 'uu 'diye bir elif
+[ِ] (mukadder ye) ⠘(noktalar 4,5) 'ii 'diye\
+ve [ُ] (mukadder vav) ⠬(noktalar 2,4,5,6) 'uu 'diye bir elif
 miktarı uzatır.
 
 ### Açık ve gizli elif meddine örnekler
