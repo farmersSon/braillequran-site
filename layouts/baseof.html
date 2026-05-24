@@ -75,7 +75,7 @@
       {{ partial "breadcrumb.html" . }}
       <div class="search-wrap mv2" role="search" aria-label="Site search">
         <label for="search-input" class="clip">{{ i18n "search" | default "Search" }}</label>
-        <input id="search-input" type="search" placeholder="{{ i18n "search" | default "Search" }}…" autocomplete="off" aria-controls="search-results">
+        <input id="search-input" type="search" placeholder="{{ i18n "search" | default "Search" }}…" autocomplete="on" aria-controls="search-results">
         <div id="search-results" class="search-results" role="listbox" aria-label="Search results"></div>
       </div>
     </div>
