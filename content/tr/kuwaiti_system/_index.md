@@ -30,32 +30,21 @@ Arap sisteminde med uzatmaların Braille şekli aynı Türk sistemindeki
 gibidir. Fakat Arap sisteminde gizli med uzatmalar bulunmamaktadır.
 Bunların yerine sadece hareke konulmaktadır.
 
-**Kelime** | **Türk Braille** | **Arap Braille Sistem**               | Sistem**
----------- | ---------------- | ----------
-هٰذا  |   |
-+-------------------+------------------------+------------------------+
-| [بِه۪]{lang="ar"}   |                        |                        |
-+-------------------+------------------------+------------------------+
-| [داوُدَ]{lang="ar"} |                        |                        |
-+-------------------+------------------------+------------------------+
+Kelime | Türk Braille | Arap Braille Sistem
+---    | ---          | ---
+هٰذا  | ⠓⠈⠮⠁ | ⠓⠂⠮⠁
+بِهِ   | ⠃⠑⠓⠘ | ⠃⠑⠓⠑
+داوُدَ | ⠙⠁⠺⠬⠙⠂ | ⠙⠁⠺⠥⠙⠂
 
-Ayrıca Arap Braille sisteminde [ا]{lang="ar"}, [ي]{lang="ar"} ve
-[و]{lang="ar"} uzatmalarından önce bulunan harflerin harekeleri o
+Ayrıca Arap Braille sisteminde ا, ي ve
+و uzatmalarından önce bulunan harflerin harekeleri o
 uzatmaların önüne yazılmaktadır.
 
-+:---------------------:+:--------------------:+:--------------------:+
-| **Misaller**                                                        |
-+-----------------------+----------------------+----------------------+
-| **Kelime**            | **Türk Braille       | **Arap Braille       |
-|                       | Sistem**             | Sistem**             |
-+-----------------------+----------------------+----------------------+
-| [كَريمُ]{lang="ar"}     |                      |                      |
-+-----------------------+----------------------+----------------------+
-| [نورِ]{lang="ar"}      |                      |                      |
-+-----------------------+----------------------+----------------------+
-| [في اَلدّينِ]{lang="ar"} |                      |                      |
-+-----------------------+----------------------+----------------------+
-
+Kelime  | Türk Braille | Arap Braille Sistem
+---     |  ---         | ---
+كَريمُ | ⠅⠂⠗⠊⠍⠥ | ⠅⠂⠗⠑⠊⠍⠥
+نورِ | ⠝⠺⠗⠑ | ⠝⠥⠺⠗⠑
+في اَلدّينِ | ⠋⠊ ⠁⠇⠠⠙⠊⠝⠑ | ⠋⠊ ⠁⠇⠠⠙⠑⠊⠝⠑
 
 ## Tenvinler
 
@@ -64,17 +53,10 @@ ayrıntı vardır. Üstün tenvin genelde elif ile birlikte yazılmaktadır.
 Türk sisteminde elif harfin sonrasında üstün tenvin yazılmaktadır, Arap
 sisteminde ise tam tersidir.
 
-+:------------------:+:----------------------:+:----------------------:+
-| **Misaller**                                                         |
-+--------------------+------------------------+------------------------+
-| **Kelime**         | **Türk Braille         | **Arap Braille         |
-|                    | Sistem**               | Sistem**               |
-+--------------------+------------------------+------------------------+
-| [يوسُفاً]{lang="ar"} |                        |                        |
-+--------------------+------------------------+------------------------+
-| [خَيْراً]{lang="ar"}  |                        |                        |
-+--------------------+------------------------+------------------------+
-
+Kelime   | Türk Braille | Arap Braille Sistem
+---      | ---          | ---
+يوسُفاً | ⠊⠺⠎⠥⠋⠁⠆ | ⠊⠺⠎⠥⠋⠆⠁
+خَيْراً  | ⠭⠂⠊⠒⠗⠁⠆ | ⠭⠂⠊⠒⠗⠆⠁
 
 ## Elif Uzatmalar
 
@@ -82,17 +64,10 @@ Elif med ve elif-i maksure iki sistem de aynı yazılır ve ayrıca arap
 sisteminde vav elif uzatması kullanılmamaktadır. Onun yerine elif
 yazılmaktadır.
 
-+:-----------------:+:----------------------:+:----------------------:+
-| **Misaller**                                                        |
-+-------------------+------------------------+------------------------+
-| **Kelime**        | **Türk Braille         | **Arap Braille         |
-|                   | Sistem**               | Sistem**               |
-+-------------------+------------------------+------------------------+
-| [صَلوٰةَ]{lang="ar"} |                        |                        |
-+-------------------+------------------------+------------------------+
-| [زَكَوٰةُ]{lang="ar"} |                        |                        |
-+-------------------+------------------------+------------------------+
-
+Kelime  | Türk Braille | Arap Braille Sistem
+---     | ---          | ---
+صَلوٰةَ | ⠯⠂⠇⠼⠡⠂ | ⠯⠂⠇⠁⠡⠂
+زَكَوٰةُ | ⠵⠂⠅⠼⠡⠥ | ⠵⠂⠅⠁⠡⠥
 
 ## Durak İşaretleri
 
