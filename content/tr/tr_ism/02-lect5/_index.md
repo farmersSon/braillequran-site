@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 5: Medler'
+description: "Kur'an Braille yazısında med (uzatma) harflerinin kullanımı – elif, vav ve ye uzatmaları."
+summary: "Med harfleri: elif, vav ve ye uzatmalarının Braille yazımı."
 ---
 ## Ders 5: Medler (Uzatmalar)
 
@@ -21,45 +23,11 @@ miktarı uzatır.
 
 ### Açık ve gizli elif meddine örnekler
 
-Arapca | Braille
----    | ---
-قالَ | ⠟⠁⠇⠂
-هٰذا | ⠓⠈⠮⠁
-كابَ | ⠅⠁⠃⠂
-جَمالُ | ⠚⠂⠍⠁⠇⠥
-ذٰلِكَ | ⠮⠈⠇⠑⠅⠂
-كِتابَ | ⠅⠑⠞⠂⠃⠂
-مالِكِ | ⠍⠁⠇⠑⠅⠑
-رَبُّنا | ⠗⠂⠠⠃⠥⠝⠁
-حاقَ | ⠱⠁⠟⠂
-قِيٰمَ | ⠟⠑⠊⠈⠍⠂
-سُبْحانَ | ⠎⠥⠃⠒⠱⠁⠝⠂
-رَحْمٰنَ | ⠗⠂⠱⠒⠍⠈⠝⠂
-سُلَيْمٰنُ | ⠎⠥⠇⠂⠊⠒⠍⠈⠝⠥
-صالِحُ | ⠯⠁⠇⠑⠱⠥
-سَمٰواتِ | ⠎⠂⠍⠈⠺⠁⠞⠑
-وَلٰكِنَّ | ⠺⠂⠇⠈⠅⠑⠠⠝⠂
-جَوابَ | ⠚⠂⠺⠁⠃⠂
-صِراطَ | ⠯⠑⠗⠁⠾⠂
-
+{{< datatable listable="true" src="tr_ism/02-lect5/elif_med" headers="Arapca|Braille" >}}
 
 ### Açık ve gizli ye meddine örnekler
 
-Arapca | Braile
----    | ---
-كَريمُ | ⠅⠂⠗⠊⠍⠥
-بِه۪ | ⠃⠑⠓⠘
-كِتابِه۪ | ⠅⠑⠞⠁⠃⠑⠓⠘
-حَفيظُ | ⠱⠂⠋⠊⠿⠥
-هٰذِه۪ | ⠓⠈⠮⠑⠓⠘
-يُحْي۪كُما | ⠊⠥⠱⠒⠊⠘⠅⠥⠍⠁
-جَليلَ | ⠚⠂⠇⠊⠇⠂
-نَبِيّ۪نَ | ⠝⠂⠃⠑⠠⠊⠘⠝⠂
-خالِدينَ | ⠭⠁⠇⠑⠙⠑⠊⠝⠂
-صادِقِنَ | ⠯⠁⠙⠑⠟⠑⠝⠂
-حَديدُ | ⠱⠂⠙⠊⠙⠥
-شَفيعُ | ⠩⠂⠋⠊⠷⠥
-فيها | ⠋⠊⠓⠁
+{{< datatable listable="true" src="tr_ism/02-lect5/ye_med" headers="Arapca|Braile" >}}
 
 **NOT:** Mushaflarda gizli vav meddini belirtirmek için farklı semboller
 kullanılmaktadır. Burada damme kullanılacaktır, med harfi sadece Braille
@@ -67,21 +35,4 @@ de belli edilecektir.
 
 ### Açık ve gizli vav meddine misaller
 
-Arapca | Braile 
----    | ---
-غُرورُ | ⠣⠥⠗⠺⠗⠥
-داَوُدَ | ⠙⠁⠺⠬⠙⠂
-نورِ | ⠝⠺⠗⠑
-لَهُ | ⠇⠂⠓⠬
-ضَعوفُ | ⠫⠂⠷⠺⠋⠥
-وُرِيَ | ⠺⠬⠗⠑⠊⠂
-صَعودَ | ⠯⠂⠷⠺⠙⠂
-سُهولَ | ⠎⠥⠓⠺⠇⠂
-رَسولَ | ⠗⠂⠎⠺⠇⠂
-غاَوُنَ | ⠣⠁⠺⠬⠝⠂
-حَبيبَهُ | ⠱⠂⠃⠊⠃⠂⠓⠬
-ماَعونَ | ⠍⠁⠷⠺⠝⠂
-طاَغوتَ | ⠾⠁⠣⠺⠞⠂
-نَفْسَهُ | ⠝⠂⠋⠒⠎⠂⠓⠬
-
-
+{{< datatable listable="true" src="tr_ism/02-lect5/vav_med" headers="Arapca|Braile" >}}

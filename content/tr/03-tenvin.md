@@ -1,7 +1,10 @@
 ---
 date: '2025-10-26T11:19:29+01:00'
 draft: false 
-title: '03 Tenvin'
+title: 'Kuveyt Sistemi – Tenvinler'
+description: "Arap ve Türk Braille sistemlerinde tenvin yazım farkları."
+summary: "İki Braille sistemde tenvin yazımının karşılaştırması."
+slug: "kuveyt-tenvinler"
 ---
 # Tenvinler
 

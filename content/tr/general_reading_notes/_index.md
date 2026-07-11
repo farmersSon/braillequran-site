@@ -1,6 +1,8 @@
 ---
 draft: false
 title: 'Okuma Notları'
+description: "Braille Kur'an okurken dikkat edilmesi gereken genel kurallar ve açıklamalar."
+summary: "Braille Kur'an okuma kuralları: yön, hareke yazımı ve önemli notlar."
 ---
 
 ## Genel Açıklamalar 

@@ -1,7 +1,10 @@
 ---
 date: '2025-10-26T11:19:28+01:00'
 draft: false 
-title: '03 Intro'
+title: 'Kuveyt Sistemi – Giriş'
+description: "Kuveyt ve Suudi Arabistan Braille sisteminin Türk sistemiyle ortak yönleri."
+summary: "Arap Braille sisteminin Türk sistemiyle birebir aynı olan noktaları."
+slug: "kuveyt-giris"
 ---
 # Ek Bilgiler
 

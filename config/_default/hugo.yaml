@@ -1,6 +1,7 @@
 baseURL: "https://braille-quran.org/"
 title: "Braille Quran"
 theme: "ananke"
+enableGitInfo: true
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
@@ -9,28 +10,28 @@ enableRobotsTXT: true
 
 languages:
   en:
-    languageName: English
+    label: English
     weight: 1
     title: "Braille Quran"
     contentDir: content/en
     params:
       description: "Braille Quran – Accessible Quran Resources"
   tr:
-    languageName: Türkçe
+    label: Türkçe
     weight: 2
-    title: "Braille Quran"
+    title: "Braille Kur'an – Görme Engelliler İçin Kur'an Kaynakları"
     contentDir: content/tr
     params:
       description: "Braille Quran – Erişilebilir Kur'an Kaynakları"
   de:
-    languageName: Deutsch
+    label: Deutsch
     weight: 3
     title: "Braille Quran"
     contentDir: content/de
     params:
       description: "Braille Quran – Barrierefreie Koran-Ressourcen"
   fr:
-    languageName: Français
+    label: Français
     weight: 4
     title: "Braille Quran"
     contentDir: content/fr

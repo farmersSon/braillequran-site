@@ -1,16 +1,9 @@
 ---
 draft: false 
 title: 'Braille noktalar'
+description: "Braille sistemindeki altı nokta yapısı ve nokta numaralandırması."
+summary: "Braille altı nokta sistemi ve nokta numaralandırma tablosu."
 ---
 # Braille noktalar 
 
-Tarif     | Şekil
----       | ---
-1\. nokta  |  ⠁
-2. nokta  | ⠂
-3. nokta  | ⠄
-4. nokta  | ⠈
-5. nokta  | ⠐
-6. nokta  | ⠠
-
-
+{{< datatable src="braille_dots/dots" headers="Tarif|Şekil" >}}

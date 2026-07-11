@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 6: Hemzeler'
+description: "Braille'de hemze çeşitleri: hemzeelif, vavhemze, yehemze ve hemze yazımı."
+summary: "Dört çeşit hemzenin Braille alfabesindeki gösterimi."
 ---
 ## Ders 6: Hemzeler
 
@@ -24,65 +26,16 @@ edinmemektir ve yukarıda belirtildiği şekilde yazılır.
 
 ### Hemzeelif örnekler
 
-Arapca | Braille
----    | ---
-أَكَلَ | ⠌⠂⠅⠂⠇⠂
-سَأَلَ | ⠎⠂⠌⠂⠇⠂
-أَحْمَدُ | ⠌⠂⠱⠒⠍⠂⠙⠥
-قَرَأَ | ⠟⠂⠗⠂⠌⠂
-جُزْأً | ⠚⠥⠵⠒⠌⠆
-أَجْمَلَ | ⠌⠂⠚⠒⠍⠂⠇⠂
-أَأَنْتُمْ | ⠌⠂⠌⠂⠝⠒⠞⠥⠍⠒
-أَإِذاَ | ⠌⠂⠌⠑⠮⠁
-أَأُنْزِلَ | ⠌⠂⠌⠥⠝⠒⠵⠑⠇⠂
-إِلَيْهِ | ⠌⠑⠇⠂⠊⠒⠓⠑
-
+{{< datatable listable="true" src="tr_ism/02-lect6/hemzeelif" headers="Arapca|Braille" >}}
 
 ### Yehemze örnekler
 
-Arapca | Braile
----    | ---
-سُئِلَ | ⠎⠥⠽⠑⠇⠂
-قُرِئَ | ⠟⠥⠗⠑⠽⠂
-لَئِنْ | ⠇⠂⠽⠑⠝⠒
-مَلَٰئِكَ | ⠍⠂⠇⠈⠽⠑⠅⠂
-جِئْتُ | ⠚⠑⠽⠒⠞⠥
-شِئْتَ | ⠩⠑⠽⠒⠞⠂
-أُولَٰئِكَ | ⠌⠥⠺⠇⠈⠽⠑⠅⠂
-يَئِسَ | ⠊⠂⠽⠑⠎⠂
-خاَطِئينَ | ⠭⠁⠾⠑⠽⠊⠝⠂
-وَراَئِ | ⠺⠂⠗⠁⠽⠑
-
+{{< datatable listable="true" src="tr_ism/02-lect6/yehemze" headers="Arapca|Braile" >}}
 
 ### Vavhemze örnekler
 
-Arapca | Braille
----    | ---
-مُؤْمِنُ | ⠍⠥⠳⠒⠍⠑⠝⠥
-مَلَؤُا | ⠍⠂⠇⠂⠳⠥⠁
-تُؤْمِنَ | ⠞⠥⠳⠒⠍⠑⠝⠥
-يَقْرَؤُ | ⠊⠂⠟⠒⠗⠂⠳⠥
-يُنَشَّؤُ | ⠊⠥⠝⠂⠠⠩⠂⠳⠥
-رُؤُسَ | ⠗⠥⠳⠬⠎⠂
-جاَؤُكَ | ⠚⠁⠳⠬⠅⠂
-يَشاَؤُنَ | ⠊⠂⠩⠁⠳⠬⠝⠂
-يَسْتَهْزِؤُنَ | ⠊⠂⠎⠒⠞⠂⠓⠒⠵⠑⠳⠬⠝⠂
-جَزاَؤُنَ | ⠚⠂⠵⠁⠳⠬⠝⠂
-أَأُنَبِّئُكُمْ | ⠌⠂⠌⠥⠝⠂⠠⠃⠑⠽⠥⠅⠥⠍⠒
-
+{{< datatable listable="true" src="tr_ism/02-lect6/vavhemze" headers="Arapca|Braille" >}}
 
 ### Hemzeler örnekler
 
-Arapca | Braille
----     | ---
-جاَءَ | ⠚⠁⠄⠂
-سَماَءِ | ⠎⠂⠍⠁⠄⠑
-شِتاَءِ | ⠩⠑⠞⠁⠄⠑
-شاَءَ | ⠩⠁⠄⠂
-بَراَءَ | ⠃⠂⠗⠁⠄⠂
-سَواَءٌ | ⠎⠂⠺⠁⠄⠢
-يَسْءَلُ | ⠊⠂⠎⠒⠄⠂⠇⠥
-نِساَءٌ | ⠝⠑⠎⠁⠄⠢
-لَأَمْلَءَنَّ | ⠇⠂⠌⠂⠍⠒⠇⠂⠄⠂⠠⠝⠂
-
-
+{{< datatable listable="true" src="tr_ism/02-lect6/hemzeler" headers="Arapca|Braille" >}}

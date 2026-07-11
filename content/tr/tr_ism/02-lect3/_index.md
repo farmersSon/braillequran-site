@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 3: Harekeler'
+description: "Braille sisteminde üstün, esre ve ötre harekelerinin yazımı ve okunuşu."
+summary: "Braille'de harekeler: üstün, esre ve ötre işaretleri."
 ---
 ## Ders 3: Harekeler
 
@@ -11,24 +13,7 @@ harfleri 'a ', ince harfleri 'e 'sesiyle okutur.
 
 ### Örnekler
 
-Arapca | Braille
----    | ---
-جَهَدَ | ⠚⠂⠓⠂⠙⠂
-حَطَبَ | ⠱⠂⠾⠂⠃⠂
-سَكَنَ | ⠎⠂⠅⠂⠝⠂
-رَقَثَ | ⠗⠂⠟⠂⠹⠂
-شَمَعَ | ⠩⠂⠍⠂⠷⠂
-وَسَطَ | ⠺⠂⠎⠂⠾⠂
-خَرَجَ | ⠭⠂⠗⠂⠚⠂
-ذَهَبَ | ⠮⠂⠓⠂⠃⠂
-جَلَسَ | ⠚⠂⠇⠂⠎⠂
-ضَحَكَ | ⠫⠂⠱⠂⠅⠂
-كَتَبَ | ⠅⠂⠞⠂⠃⠂
-حَسَدَ | ⠱⠂⠎⠂⠙⠂
-وَلَدَ | ⠺⠂⠇⠂⠙⠂
-غَرَكَ | ⠣⠂⠗⠂⠅⠂
-عَدَلَ | ⠷⠂⠙⠂⠇⠂
-تَرَكَ | ⠞⠂⠗⠂⠅⠂
+{{< datatable listable="true" src="tr_ism/02-lect3/ustun" headers="Arapca|Braille" >}}
 
 ## Esre 
 
@@ -37,25 +22,7 @@ harfleri 'ı 'sesine yakın, ince harfleri 'i 'sesiyle okutur.
 
 ### Misaller
 
-Arapca | Braille
----    | ---
-زِفِرِ | ⠵⠑⠋⠑⠗⠑
-حَمِلَ | ⠱⠂⠍⠑⠇⠂
-نَبِيِ | ⠝⠂⠃⠑⠊⠑
-مَلِكِ | ⠍⠂⠇⠑⠅⠑
-سِجِلِ | ⠎⠑⠚⠑⠇⠑
-فَضِلَ | ⠋⠂⠫⠑⠇⠂
-صَغِرِ | ⠯⠂⠣⠑⠗⠑
-كَلِمِ | ⠅⠂⠇⠑⠍⠑
-سَمِعَ | ⠎⠂⠍⠑⠷⠂
-خِصِمِ | ⠭⠑⠯⠑⠍⠑
-وَدِعَ | ⠺⠂⠙⠑⠷⠂
-دَنِزِ | ⠙⠂⠝⠑⠵⠑
-جَمِعِ | ⠚⠂⠍⠑⠷⠂
-حَسِبَ | ⠱⠂⠎⠑⠃⠂
-جَبِنِ | ⠚⠂⠃⠑⠝⠑
-يَمِنِ | ⠊⠂⠍⠑⠝⠑
-حَفِظِ | ⠱⠂⠋⠑⠿⠑
+{{< datatable listable="true" src="tr_ism/02-lect3/esre" headers="Arapca|Braille" >}}
 
 ## Ötre
 
@@ -64,29 +31,4 @@ ve ince harfleri 'u 'sesi ile okutur.\
 
 ### Örnekler
 
-Arapca | braille
----    | ---
-قُدِرُ | ⠟⠥⠙⠑⠗⠥
-سُجُدَ | ⠎⠥⠚⠥⠙⠂
-طُمِثَ | ⠾⠥⠍⠑⠹⠂
-كُتُبَ | ⠅⠥⠞⠥⠃⠂
-ضُرِبَ | ⠫⠥⠗⠑⠃⠂
-هُدِيَ | ⠓⠥⠙⠑⠊⠂
-خُتِمَ | ⠭⠥⠞⠑⠍⠂
-ظُيِنَ | ⠿⠥⠊⠑⠝⠂
-قُرُنِ | ⠟⠥⠗⠥⠝⠑
-عُيِنَ | ⠷⠥⠊⠑⠝⠂
-رُسُلَ | ⠗⠥⠎⠥⠇⠂
-حُبِذُ | ⠱⠥⠃⠑⠮⠥
-وُلِدُ | ⠺⠥⠇⠑⠙⠥
-بَطُنَ | ⠃⠂⠾⠥⠝⠂
-نَرِثُ | ⠝⠂⠗⠑⠹⠥
-حَصُدَ | ⠱⠂⠯⠥⠙⠂
-يَلِجُ | ⠊⠂⠇⠑⠚⠥
-صُتِحَ | ⠯⠥⠞⠑⠱⠂
-ضَعُفِ | ⠫⠂⠷⠥⠋⠑
-وُجِدَ | ⠺⠥⠚⠑⠙⠂
-نُزُلَ | ⠝⠥⠵⠥⠇⠂
-شُعُرَ | ⠩⠥⠷⠥⠗⠂
-
-
+{{< datatable listable="true" src="tr_ism/02-lect3/otre" headers="Arapca|braille" >}}

@@ -1,70 +1,11 @@
 ---
 title: Bütün Braille Semboller
+description: "Kur'an Braille yazısında kullanılan tüm sembollerin listesi – Arapça karşılıkları ve nokta numaraları."
+summary: "Kur'an Braille yazısında kullanılan tüm semboller ve nokta numaraları."
 ---
 
 # Bütün Braille Semboller
 
-
-Sembol Arapça | Braille | Noktalar
---- | --- | ---
- |  | 
-ا | ⠁ | 1
-ب | ⠃ | 1,2
-ت | ⠞ | 2,3,4,5
-ث | ⠹ | 1,4,5,6
-ج | ⠚ | 2,4,5
-ح | ⠱ | 1,5,6
-خ | ⠭ | 1,3,4,6
-د | ⠙ | 1,4,5
-ذ | ⠹ | 2,3,4,6
-ر | ⠗ | 1,2,3,5
-ز | ⠵ | 1,3,5,6
-س | ⠎ | 2,3,4
-ش | ⠩ | 1,4,6
-ص | ⠯ | 1,2,3,4,6
-ض | ⠫ | 1,2,4,6
-ط | ⠾ | 2,3,4,5,6
-ظ | ⠿ | 1,2,3,4,5,6
-ع | ⠷ | 1,2,3,5,6
-غ | ⠣ | 1,2,6
-ف | ⠋ | 1,2,4
-ق | ⠟ | 1,2,3,4,5
-ك | ⠅ | 1,3
-ل | ⠇ | 1,2,3
-م | ⠍ | 1,3,4
-ن | ⠝ | 1,3,4,5
-و | ⠺ | 2,4,5,6
-ه | ⠓ | 1,2,5
-ي | ⠊ | 2,4
- |  | 
-لا | ⠧ | 1,2,3,6
- |  | 
-َ | ⠂ | 2
-ِ | ⠑ | 1,5
-ُ | ⠥ | 1,3,6
- |  | 
-ْ | ⠒ | 2,5
-ْ | ⠠ | 6
- |  | 
-ا | ⠁ | 1
-ٰ | ⠈ | 4
-ي | ⠊ | 2,4
-ٰ | ⠘ | 4,5
-و | ⠺ | 2,4,5,6
-ُ | ⠬ | 3,4,6
- |  | 
-إ | ⠌ | 3,4
-ؤ | ⠳ | 1,2,5,6
-ئ | ⠽ | 1,3,4,5,6
-ء | ⠄ | 6
-ً | ⠆ | 2,3
-ٍ | ⠔ | 3,5
-ٌ | ⠢ | 2,6
- |  | 
-ة | ⠡ | 1,6
- |  | 
-آ | ⠜ | 3,4,5
-ى | ⠕ | 1,3,5
-وٰ | ⠼ | 3,4,5,6
+{{< datatable src="all_symbols/symbols" headers="Sembol Arapça|Braille|Noktalar" >}}
 
 [^1]: [سورة العلق 1-5]{lang="ar"}

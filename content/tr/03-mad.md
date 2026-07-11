@@ -1,7 +1,10 @@
 ---
 date: '2025-10-26T11:19:29+01:00'
 draft: false 
-title: '03 Mad'
+title: 'Kuveyt Sistemi – Med Uzatmalar'
+description: "Arap Braille sisteminde med (uzatma) harflerinin Türk sisteminden farkları."
+summary: "Arap ve Türk Braille sistemlerinde med uzatmaların karşılaştırması."
+slug: "kuveyt-med-uzatmalar"
 ---
 # Med Uzatmalar
 

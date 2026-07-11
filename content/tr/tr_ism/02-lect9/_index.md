@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 9: Elif Uzatmalar'
+description: "Braille'de elifmed, elif-i maksure ve vavelif uzatmalarının yazımı."
+summary: "Elif uzatmaları: elifmed, elif-i maksure ve vavelif Braille işaretleri."
 ---
 
 ## Ders 9: Elif Uzatmalar
@@ -12,18 +14,7 @@ işaretidir, bir elif miktarı 'aa 'diye uzatılarak okunur.
 
 ### Elifmed örnekler
 
-Arapca | Braille
----    | ---
-آدَمَ | ⠜⠙⠂⠍⠂
-آلَ | ⠜⠇⠂
-آمَنوا | ⠜⠍⠂⠝⠺⠁
-آخِرِ | ⠜⠭⠑⠗⠑
-قُرْآنُ | ⠟⠥⠗⠒⠜⠝⠥
-رَآ | ⠗⠂⠜
-آتِنا | ⠜⠞⠑⠝⠁
-الْآنِ | ⠁⠇⠒⠜⠝⠑
-ظَمْآنُ | ⠿⠂⠍⠒⠜⠝⠥
-آفِلينَ | ⠜⠋⠑⠇⠊⠝⠂
+{{< datatable listable="true" src="tr_ism/02-lect9/elifmed" headers="Arapca|Braille" >}}
 
 ## Elif-i Maksure
 
@@ -33,24 +24,7 @@ uzatır.
 
 ### Elif maksure örnekler
 
-Arapca | Braille
----    | ---
-عَلى | ⠷⠂⠇⠕
-هُدى | ⠓⠥⠙⠕
-عيسى | ⠷⠊⠎⠕
-موسى | ⠍⠺⠎⠕
-إِلى | ⠌⠑⠇⠕
-كُبْرى | ⠅⠥⠃⠒⠗⠕
-آسى | ⠜⠎⠕
-مَوْلىكُمْ | ⠍⠂⠺⠒⠇⠕⠅⠥⠍⠒
-يَغْشىها | ⠊⠂⠣⠒⠩⠕⠓⠁
-هَدىنا | ⠓⠂⠙⠕⠝⠁
-سَوّىهُ | ⠎⠂⠠⠺⠕⠓⠥
-سُقْيىها | ⠎⠥⠟⠒⠊⠕⠓⠁
-أَعْمى | ⠌⠂⠷⠒⠍⠕
-مَجْرىها | ⠍⠂⠚⠒⠗⠕⠓⠁
-أُخْرى | ⠌⠥⠭⠒⠗⠕
-سيمىهُم | ⠎⠊⠍⠕⠓⠥⠍
+{{< datatable listable="true" src="tr_ism/02-lect9/elif_maksure" headers="Arapca|Braille" >}}
 
 ## Vavelif
 
@@ -60,15 +34,4 @@ kullanılır.
 
 ### Vavelif örnekler
 
-Arapca | Braille
----    | ---
-صَلوٰةَ | ⠯⠂⠇⠼⠡⠂
-زَكَوٰةُ | ⠵⠂⠅⠼⠡⠥
-حَيوٰةِ | ⠱⠂⠊⠼⠡⠑
-رِبوٰا | ⠗⠑⠃⠼⠁
-نَجوٰةَ | ⠝⠂⠚⠼⠡⠂
-غَدوٰةِ | ⠣⠂⠙⠼⠡⠑
-مَنوٰةَ | ⠍⠂⠝⠼⠡⠂
-كَمِشْكوٰةٍ | ⠅⠂⠍⠑⠩⠒⠅⠼⠡⠔
-
-
+{{< datatable listable="true" src="tr_ism/02-lect9/vavelif" headers="Arapca|Braille" >}}

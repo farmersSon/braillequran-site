@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 8: Te-i Merbuta (yuvarlak te)'
+description: "Braille'de te-i merbuta (yuvarlak te) harfinin yazımı ve okunuş kuralları."
+summary: "Te-i merbuta: yuvarlak te harfinin Braille yazımı."
 ---
 
 ## Ders 8: Te-i Merbuta (yuvarlak te)
@@ -12,22 +14,4 @@ görevi yapar.
 
 ### Örnekler
 
-Arapca | braille
----    | ---
-قِراءَةٌ | ⠟⠑⠗⠁⠄⠂⠡⠢
-رَحْمَةٌ  | ⠗⠂⠱⠒⠍⠂⠡⠢
-آيَةِ   | ⠜⠊⠂⠡⠑
-غُرْفَةُ  | ⠣⠥⠗⠒⠋⠂⠡⠥
-مَكَّةَ   | ⠍⠂⠠⠅⠂⠡⠂
-سَبْعَةٌ  | ⠎⠂⠃⠒⠷⠂⠡⠢
-جَنَّةُ   | ⠚⠂⠠⠝⠂⠡⠥
-جُمْلَةٍ  | ⠚⠥⠍⠒⠇⠂⠡⠔
-عِزَّةُ   | ⠷⠑⠠⠵⠂⠡⠥
-أُمَّةً   | ⠌⠥⠠⠍⠂⠡⠆
-فاطِمَةُ | ⠋⠁⠾⠑⠍⠂⠡⠥
-واحِدَةً | ⠺⠁⠱⠑⠙⠂⠡⠆
-سَجْدَةً  | ⠎⠂⠚⠒⠙⠂⠡⠆
-حَمولَةٍ | ⠱⠂⠍⠺⠇⠂⠡⠔
-
-
-
+{{< datatable listable="true" src="tr_ism/02-lect8/temerbuta" headers="Arapca|braille" >}}

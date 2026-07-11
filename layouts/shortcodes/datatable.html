@@ -1,0 +1,39 @@
+{{- $src := .Get "src" -}}
+{{- $headers := split (.Get "headers") "|" -}}
+{{- $listable := .Get "listable" -}}
+{{- $parts := split $src "/" -}}
+{{- $data := index hugo.Data (index $parts 0) -}}
+{{- range $i, $part := $parts -}}
+  {{- if gt $i 0 -}}
+    {{- $data = index $data $part -}}
+  {{- end -}}
+{{- end -}}
+{{- $highlights := dict -}}
+{{- with $data.highlights -}}
+  {{- range . -}}
+    {{- $highlights = merge $highlights (dict (printf "%d" .index) .color) -}}
+  {{- end -}}
+{{- end -}}
+{{- if $listable }}<div class="datatable-wrap">
+<button class="toggle-list-btn f6 mb2 pa2 br2 pointer" data-label-list="{{ i18n "show_list" }}" data-label-table="{{ i18n "show_table" }}">{{ i18n "show_list" }}</button>
+{{- end }}
+<table>
+<thead>
+<tr>
+{{- range $headers }}
+<th>{{ . }}</th>
+{{- end }}
+</tr>
+</thead>
+<tbody>
+{{- range $i, $row := $data.rows }}
+{{- $color := index $highlights (printf "%d" $i) }}
+<tr{{ with $color }} style="background-color: {{ . }}"{{ end }}>
+{{- range $row }}
+<td>{{ . }}</td>
+{{- end }}
+</tr>
+{{- end }}
+</tbody>
+</table>
+{{- if $listable }}</div>{{- end }}

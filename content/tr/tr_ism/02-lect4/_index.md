@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 4: Cezim ve şeddeler'
+description: "Braille'de cezim (sükun) ve şedde işaretlerinin kullanımı."
+summary: "Cezim ve şedde: Braille'de sessiz ve çift harf işaretleri."
 ---
 ## Ders 4: Cezim ve şeddeler
 
@@ -9,24 +11,7 @@ bir önceki harfe bağlar ve yalın (harekesiz) olarak okutur.
 
 ### Örnekler
 
-Arapca | Braille
----    | ---
-عَنْ | ⠷⠂⠝⠒
-بَلْ | ⠃⠂⠇⠒
-قَدْ | ⠟⠂⠙⠒
-خَوْفِ | ⠭⠂⠺⠒⠋⠑
-كُنْ | ⠅⠥⠝⠒
-ظَحْمُ | ⠿⠂⠱⠒⠍⠥
-سِجْنُ | ⠎⠑⠚⠒⠝⠥
-مِنْكُمْ | ⠍⠑⠝⠒⠅⠥⠍⠒
-يَغْفِرُ | ⠊⠂⠣⠒⠋⠑⠗⠥
-عَلَيْهِمْ | ⠷⠂⠇⠂⠊⠒⠓⠑⠍⠒
-مَدْرَسَ | ⠍⠂⠙⠒⠗⠂⠎⠂
-فُتِحَتْ | ⠋⠥⠞⠑⠱⠂⠞⠒
-نَسْتَعِنُ | ⠝⠂⠎⠒⠞⠂⠷⠑⠝⠥
-قَيْسَرِ | ⠟⠂⠊⠒⠎⠂⠗⠑
-مَرْدِوَنْ | ⠍⠂⠗⠒⠙⠑⠺⠂⠝⠒
-عُزَيْرُ | ⠷⠥⠵⠂⠊⠒⠗⠥
+{{< datatable listable="true" src="tr_ism/02-lect4/cezim" headers="Arapca|Braille" >}}
 
 ## şedde
 
@@ -36,24 +21,4 @@ bağlanır, sonra harekeli şekilde okunur.
 
 ### Misaller
 
-
-Arapca | Braile
----    | ---
-قُدِّسَ | ⠟⠥⠠⠙⠑⠎⠂
-حَجُّ | ⠱⠂⠠⠚⠥
-كُلَّ | ⠅⠥⠠⠇⠂
-زُيِّنَ | ⠵⠥⠠⠊⠑⠝⠂
-حَقُّ | ⠱⠂⠠⠟⠥
-طُبَّعِ | ⠾⠥⠠⠃⠂⠷⠑
-مُحَمَّدُ | ⠍⠥⠱⠂⠠⠍⠂⠙⠥
-مُتَكَمِّلُ | ⠍⠥⠞⠂⠅⠂⠠⠍⠑⠇⠥
-بُثَّ | ⠃⠥⠠⠹⠂
-مُتَفَرِّقَ | ⠍⠥⠞⠂⠋⠂⠠⠗⠑⠟⠂
-جَهَنَّمُ | ⠚⠂⠓⠂⠠⠝⠂⠍⠥
-تُدَبِّرُ | ⠞⠥⠙⠂⠠⠃⠑⠗⠥
-ثُمَّ | ⠹⠥⠠⠍⠂
-يَدُعُّ | ⠊⠂⠙⠥⠠⠷⠥
-سُيِّرَ | ⠎⠥⠠⠊⠑⠗⠂
-كُذِّبَ | ⠅⠥⠠⠮⠑⠃⠂
-
-
+{{< datatable listable="true" src="tr_ism/02-lect4/sedde" headers="Arapca|Braile" >}}

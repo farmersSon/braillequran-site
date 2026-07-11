@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 7: Tenvinler'
+description: "Braille'de üstün, esre ve ötre tenvinlerin yazımı ve örnekleri."
+summary: "Tenvinler: üstün, esre ve ötre tenvin Braille işaretleri."
 ---
 
 ## Ders 7: Tenvinler
@@ -16,27 +18,7 @@ tamamlar.
 
 ### Üstün tenvinler örnekler
 
-Arapca | Braille
----    | ---
-مُحَمَّداً | ⠍⠥⠱⠂⠠⠍⠂⠙⠁⠆
-يوسُفاً | ⠊⠺⠎⠥⠋⠁⠆
-خَيْراً | ⠭⠂⠊⠒⠗⠁⠆
-عَفْواً | ⠷⠂⠋⠒⠺⠁⠆
-ثَواَباً | ⠹⠂⠺⠁⠃⠁⠆
-قَرْضاً | ⠟⠂⠗⠒⠫⠁⠆
-هُدىً | ⠓⠥⠙⠕⠆
-حَقَّاً | ⠱⠂⠠⠟⠂⠁⠆
-سَلاَماً | ⠎⠂⠧⠍⠁⠆
-حَضّاً | ⠱⠂⠠⠫⠁⠆
-مُسَمّى | ⠍⠥⠎⠂⠠⠍⠕
-هُزُواً | ⠓⠥⠵⠥⠺⠁⠆
-حَسَناً | ⠱⠂⠎⠂⠝⠁⠆
-سَيِّداً | ⠎⠂⠠⠊⠑⠙⠁⠆
-مُصَفّىً | ⠍⠥⠯⠂⠠⠋⠕⠆
-جَمَعاً | ⠚⠂⠍⠂⠷⠁⠆
-ضَلاَلاًَ | ⠫⠂⠧⠧⠆
-مُفَصَّلاً | ⠍⠥⠋⠂⠠⠯⠂⠧⠆
-ثَلٰثاً | ⠹⠂⠇⠈⠹⠁⠆
+{{< datatable listable="true" src="tr_ism/02-lect7/ustun_tenvin" headers="Arapca|Braille" >}}
 
 ## Esre Tenvin
 
@@ -45,24 +27,7 @@ Esre tenvin: (çift esre) arkasına geldiği harf kalın ise 'ın ', ince ise
 
 ### Esre tenvin misaller
 
-Arapca | Braille
----    | ---
-ذِكْرٍ | ⠮⠑⠅⠒⠗⠔
-غَيْظٍ | ⠣⠂⠊⠒⠿⠔
-جُمَلٍ | ⠚⠥⠍⠂⠇⠔
-عَمَلٍ | ⠷⠂⠍⠂⠇⠔
-حَرْفٍ | ⠱⠂⠗⠒⠋⠔
-قَمَرٍ | ⠟⠂⠍⠂⠗⠔
-شَمْسٍ | ⠩⠂⠍⠒⠎⠔
-رِزْقٍ | ⠗⠑⠵⠒⠟⠔
-سُرورٍ | ⠎⠥⠗⠺⠗⠔
-حَوْضٍ | ⠱⠂⠺⠒⠫⠔
-لَوْحٍ | ⠇⠂⠺⠒⠱⠔
-رَجُلٍ | ⠗⠂⠚⠥⠇⠔
-بِنْتٍ | ⠃⠑⠝⠒⠞⠔
-مَحْفوظٍ | ⠍⠂⠱⠒⠋⠺⠿⠔
-صِراطٍ | ⠯⠑⠗⠁⠾⠔
-مُسْتَقيمٍ | ⠍⠥⠎⠒⠞⠂⠟⠊⠍⠔
+{{< datatable listable="true" src="tr_ism/02-lect7/esre_tenvin" headers="Arapca|Braille" >}}
 
 ## Ötre Tenvin
 
@@ -71,25 +36,4 @@ Arapca | Braille
 
 ### Ötre tenvin örnekler
 
-Arapca | Braille
----    | ---
-غُرَفٌ | ⠣⠥⠗⠂⠋⠢
-لَعِبٌ | ⠇⠂⠷⠑⠃⠢
-مَجيدٌ | ⠍⠂⠚⠊⠙⠢
-قِدْرٌ | ⠟⠑⠙⠒⠗⠢
-عُمْيٌ | ⠷⠥⠍⠒⠊⠢
-قُطٌّ | ⠟⠥⠠⠾⠢
-حِفْظٌ | ⠱⠑⠋⠒⠿⠢
-بُكْمٌ | ⠃⠥⠅⠒⠍⠢
-سِراجٌ | ⠎⠑⠗⠁⠚⠢
-غَفورٌ | ⠣⠂⠋⠺⠗⠢
-رَحيمٌ | ⠗⠂⠱⠊⠍⠢
-صِدْقٌ | ⠯⠑⠙⠒⠟⠢
-صِيامٌ | ⠯⠑⠊⠁⠍⠢
-قَوْمٌ | ⠟⠂⠺⠒⠍⠢
-نوحٌ | ⠝⠺⠱⠢
-هودٌ | ⠓⠺⠙⠢
-مَوْجودٌ | ⠍⠂⠺⠒⠚⠺⠙⠢
-مُقْتَدِرٌ | ⠍⠥⠟⠒⠞⠂⠙⠑⠗⠢
-
-
+{{< datatable listable="true" src="tr_ism/02-lect7/otre_tenvin" headers="Arapca|Braille" >}}

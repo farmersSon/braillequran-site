@@ -1,6 +1,8 @@
 ---
 draft: false 
 title: 'Ders 10: ﺎﻟ (elif-lam) takısı (harfi tarif)'
+description: "Braille'de elif-lam (harfi tarif) takısının yazımı – kameri ve şemsi harfler."
+summary: "Elif-lam takısı: kameri ve şemsi harflerin Braille'de gösterimi."
 ---
 ## Ders 10: [ال] (elif-lam) takısı (harfi tarif) {#ders10}
 
@@ -19,39 +21,8 @@ harekesiz, ilk harf şeddelidir.
 
 ### Kameri harfler örnekler
 
-Arapca | Braille
----    | ---
-اَلْحَمْدُ | ⠁⠇⠒⠱⠂⠍⠒⠙⠥
-اَلْوَلَدُ | ⠁⠇⠒⠺⠂⠇⠂⠙⠥
-في اَلْبَيْتِ | ⠋⠊⠀⠁⠇⠒⠃⠂⠊⠒⠞⠑
-إِلى اَلْقَوْلِ | ⠌⠑⠇⠕⠀⠁⠇⠒⠟⠂⠺⠒⠇⠑
-اَلْخَيْرِ | ⠁⠇⠒⠭⠂⠊⠒⠗⠑
-اَلْوَقْتِ | ⠁⠇⠒⠺⠂⠟⠒⠞⠑
-اَلْأَوَّلِ | ⠁⠇⠒⠌⠂⠠⠺⠂⠇⠑
-اَلْفيلُ | ⠁⠇⠒⠋⠊⠇⠥
-اَلْكِتاَبُ | ⠁⠇⠒⠅⠑⠞⠁⠃⠥
-اَلْقِيَٰمَةُ | ⠁⠇⠒⠟⠑⠊⠈⠍⠂⠡⠥
-اَلْمُديرُ | ⠁⠇⠒⠍⠥⠙⠊⠗⠥
-وَاَلْعاَدِياَتِ | ⠺⠂⠁⠇⠒⠷⠁⠙⠑⠊⠁⠞⠑
-بِاَلْإيماَنِ | ⠃⠑⠁⠇⠒⠌⠊⠍⠁⠝⠑
-في اَلْحَقيقَةِ | ⠋⠊⠀⠁⠇⠒⠱⠂⠟⠊⠟⠂⠡⠑
-فَاَلْمُغيراَتِ | ⠋⠂⠁⠇⠒⠍⠥⠣⠊⠗⠁⠞⠑
-
+{{< datatable listable="true" src="tr_ism/02-lect10/kameri" headers="Arapca|Braille" >}}
 
 ### Şemsi harfler örnekler
 
-Arapca | Braille
----    | ---
-اَلذِّكْرُ | ⠁⠇⠠⠮⠑⠅⠒⠗⠥
-اَلصَّمَدُ | ⠁⠇⠠⠯⠂⠍⠂⠙⠥
-في اَلدّينِ | ⠋⠊⠀⠁⠇⠠⠙⠊⠝⠑
-بِاَللَّٰهِ | ⠃⠑⠁⠇⠠⠇⠈⠓⠑
-اَلضَّلاَلَةُ | ⠁⠇⠠⠫⠂⠧⠇⠂⠡⠥
-اَلتّاَئِبُ | ⠁⠇⠠⠞⠁⠽⠑⠃⠥
-اَلتَّوْرىةُ | ⠁⠇⠠⠞⠂⠺⠒⠗⠕⠡⠥
-مِنَ اَلنّاَسِ | ⠍⠑⠝⠂⠀⠁⠇⠠⠝⠁⠎⠑
-اَلطَّعاَمِ | ⠁⠇⠠⠾⠂⠷⠁⠍⠑
-اَلرّوحُ | ⠁⠇⠠⠗⠺⠱⠥
-اَلتَّوْبَةُ | ⠁⠇⠠⠞⠂⠺⠒⠃⠂⠡⠥
-
-
+{{< datatable listable="true" src="tr_ism/02-lect10/semsi" headers="Arapca|Braille" >}}

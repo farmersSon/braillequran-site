@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" {{- if eq site.Language.LanguageDirection "rtl" }} dir="rtl" {{- end }}>
+<html lang="{{ site.Language.Locale }}" {{- if eq site.Language.Direction "rtl" }} dir="rtl" {{- end }}>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -84,7 +84,7 @@
     </main>
     {{ partial "social-share.html" . }}
     {{ block "footer" . }}{{ partials.IncludeCached "site-footer.html" . }}{{ end }}
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
+    <script src="/js/fuse.min.js"></script>
     <script>
     (function(){
       var lang = {{ .Site.Language.Lang }};
@@ -127,6 +127,38 @@
         document.documentElement.classList.toggle('dark');
         localStorage.setItem('dark', document.documentElement.classList.contains('dark'));
         update();
+      });
+    })();
+    </script>
+    <script>
+    (function(){
+      document.querySelectorAll('.toggle-list-btn').forEach(function(btn){
+        btn.addEventListener('click', function(){
+          var wrap = btn.closest('.datatable-wrap');
+          var table = wrap.querySelector('table');
+          var list = wrap.querySelector('ul.table-as-list');
+          if(list){
+            list.remove();
+            table.style.display='';
+            btn.textContent=btn.dataset.labelList;
+          } else {
+            var ul=document.createElement('ul');
+            ul.className='table-as-list';
+            table.querySelectorAll('tbody tr').forEach(function(tr){
+              var cells=tr.querySelectorAll('td');
+              var last=cells[cells.length-1];
+              if(last&&last.textContent.trim()){
+                var li=document.createElement('li');
+                li.textContent=last.textContent;
+                if(tr.style.backgroundColor) li.style.backgroundColor=tr.style.backgroundColor;
+                ul.appendChild(li);
+              }
+            });
+            table.style.display='none';
+            wrap.appendChild(ul);
+            btn.textContent=btn.dataset.labelTable;
+          }
+        });
       });
     })();
     </script>

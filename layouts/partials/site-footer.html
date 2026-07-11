@@ -2,6 +2,7 @@
   <div class="flex justify-between items-center">
     <span class="f5 white-70">
       &copy; {{ now.Format "2006" }} Braillequran.org
+      {{ with .Site.Home.GitInfo }}| <span class="f7">{{ substr .Hash 0 7 }}</span>{{ end }}
     </span>
     <div>{{ partial "social/follow.html" . }}</div>
   </div>

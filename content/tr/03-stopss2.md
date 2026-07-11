@@ -1,7 +1,10 @@
 ---
 date: '2025-10-26T11:19:29+01:00'
 draft: false 
-title: '03 Stopss2'
+title: 'Kuveyt Sistemi – Durak İşaretleri'
+description: "Arap Braille sisteminde kullanılan durak işaretleri."
+summary: "Arap Braille sistemindeki durak işaretleri."
+slug: "kuveyt-durak-isaretleri"
 ---
 # Durak İşaretleri
 
