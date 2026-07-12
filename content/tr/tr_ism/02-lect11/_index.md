@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 11: Önemli açıklamalar'
-description: "Kur'an Braille yazısında vasıl, vakf, tenvin, med ve özel durumlar hakkında açıklamalar."
 summary: "Vasıl, vakf, tenvin ve özel durumlar – Kur'an Braille okuma kuralları."
 ---
 ## Ders 11: Önemli açıklamalar

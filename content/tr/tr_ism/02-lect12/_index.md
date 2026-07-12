@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 12: Durak işaretleri'
-description: "Kur'an'da durak işaretleri ve Braille yazıdaki karşılıkları."
 summary: "Kur'an durak işaretleri: vakf-ı lazım, mutlak, caiz ve diğerleri."
 ---
 ## Ders 12: Durak işaretleri

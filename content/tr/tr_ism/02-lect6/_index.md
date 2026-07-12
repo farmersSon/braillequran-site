@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 6: Hemzeler'
-description: "Braille'de hemze çeşitleri: hemzeelif, vavhemze, yehemze ve hemze yazımı."
 summary: "Dört çeşit hemzenin Braille alfabesindeki gösterimi."
 ---
 ## Ders 6: Hemzeler

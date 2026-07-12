@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 3: Vokalisierungszeichen'
-description: "Schreibung und Aussprache der Vokalisierungszeichen Fatha, Kasra und Damma im Braille-System."
 summary: "Vokalisierungszeichen in Braille: Fatha, Kasra und Damma."
 ---
 ## Lektion 3: Vokalisierungszeichen

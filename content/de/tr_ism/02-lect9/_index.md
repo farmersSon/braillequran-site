@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 9: Alif-Dehnungen'
-description: "Schreibung von Alif-Madd, Alif Maqsura und Waw-Alif-Dehnungen in Braille."
 summary: "Alif-Dehnungen: Alif-Madd, Alif Maqsura und Waw-Alif Braille-Zeichen."
 ---
 

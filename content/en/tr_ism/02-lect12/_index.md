@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lesson 12: Pause Signs'
-description: "Pause signs in the Quran and their Braille equivalents."
 summary: "Quran pause signs: Waqf Lazim, Mutlaq, Jaiz and others."
 ---
 ## Lesson 12: Pause Signs

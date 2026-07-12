@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 10 : [ال] (Alif-Lam) Article (Article défini)'
-description: "Écriture de l'Alif-Lam (article défini) en Braille – lettres lunaires et solaires."
 summary: "Article Alif-Lam : représentation des lettres lunaires et solaires en Braille."
 ---
 ## Leçon 10 : [ال] (Alif-Lam) Article (Article défini) {#ders10}

@@ -1,6 +1,5 @@
 ---
 title: Bütün Braille Semboller
-description: "Kur'an Braille yazısında kullanılan tüm sembollerin listesi – Arapça karşılıkları ve nokta numaraları."
 summary: "Kur'an Braille yazısında kullanılan tüm semboller ve nokta numaraları."
 ---
 

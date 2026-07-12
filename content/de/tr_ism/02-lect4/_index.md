@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 4: Sukun und Schadda'
-description: "Verwendung der Zeichen Sukun und Schadda im Braille-System."
 summary: "Sukun und Schadda: Zeichen für ruhende und verdoppelte Buchstaben in Braille."
 ---
 ## Lektion 4: Sukun und Schadda

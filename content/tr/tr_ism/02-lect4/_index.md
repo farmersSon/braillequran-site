@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 4: Cezim ve şeddeler'
-description: "Braille'de cezim (sükun) ve şedde işaretlerinin kullanımı."
 summary: "Cezim ve şedde: Braille'de sessiz ve çift harf işaretleri."
 ---
 ## Ders 4: Cezim ve şeddeler

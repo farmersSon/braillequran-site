@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 8: Te-i Merbuta (yuvarlak te)'
-description: "Braille'de te-i merbuta (yuvarlak te) harfinin yazımı ve okunuş kuralları."
 summary: "Te-i merbuta: yuvarlak te harfinin Braille yazımı."
 ---
 

@@ -2,7 +2,6 @@
 date: '2025-10-26T11:19:28+01:00'
 draft: false 
 title: 'Kuveyt Sistemi'
-description: "Kuveyt ve Suudi Arabistan'da kullanılan Braille sisteminin Türk Braille sistemiyle karşılaştırması."
 summary: "Kuveyt ve Suudi Arabistan'da kullanılan Braille sisteminin Türk sistemiyle farkları ve benzerlikleri."
 ---
 

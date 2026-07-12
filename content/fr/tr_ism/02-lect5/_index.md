@@ -1,7 +1,5 @@
 ---
 draft: false
-title: 'Leçon 5 : Allongements (Madd)'
-description: "Utilisation des lettres d'allongement dans le Braille coranique – allongements Alif, Waw et Ya."
 summary: "Lettres d'allongement : écriture Braille des allongements Alif, Waw et Ya."
 ---
 ## Leçon 5 : Allongements (Madd)

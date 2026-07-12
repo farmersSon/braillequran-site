@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 3: Harekeler'
-description: "Braille sisteminde üstün, esre ve ötre harekelerinin yazımı ve okunuşu."
 summary: "Braille'de harekeler: üstün, esre ve ötre işaretleri."
 ---
 ## Ders 3: Harekeler

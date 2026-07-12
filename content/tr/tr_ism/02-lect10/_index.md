@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 10: ﺎﻟ (elif-lam) takısı (harfi tarif)'
-description: "Braille'de elif-lam (harfi tarif) takısının yazımı – kameri ve şemsi harfler."
 summary: "Elif-lam takısı: kameri ve şemsi harflerin Braille'de gösterimi."
 ---
 ## Ders 10: [ال] (elif-lam) takısı (harfi tarif) {#ders10}

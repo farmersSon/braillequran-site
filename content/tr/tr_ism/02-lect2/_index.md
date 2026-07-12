@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 2: Mahreçler'
-description: "Arapça harflerin mahreçleri (çıkış yerleri) hakkında bilgi."
 summary: "Arap Braille alfabesinde mahreçler konusu."
 ---
 # Ders 2: Mahreçler

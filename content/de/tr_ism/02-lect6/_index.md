@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 6: Hamza-Varianten'
-description: "Hamza-Arten in Braille: Hamza-Alif, Waw-Hamza, Ya-Hamza und alleinstehende Hamza."
 summary: "Vier Hamza-Varianten und ihre Darstellung im Braille-Alphabet."
 ---
 ## Lektion 6: Hamza-Varianten

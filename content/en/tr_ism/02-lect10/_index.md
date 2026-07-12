@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lesson 10: [ال] (Alif-Lam) Article (Definite Article)'
-description: "Writing of the Alif-Lam (definite article) in Braille – lunar and solar letters."
 summary: "Alif-Lam article: representation of lunar and solar letters in Braille."
 ---
 ## Lesson 10: [ال] (Alif-Lam) Article (Definite Article) {#ders10}

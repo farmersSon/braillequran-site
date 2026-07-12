@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 8 : Ta Marbuta (Ta rond)'
-description: "Écriture et règles de prononciation du Ta Marbuta (Ta rond) en Braille."
 summary: "Ta Marbuta : écriture Braille du Ta rond."
 ---
 

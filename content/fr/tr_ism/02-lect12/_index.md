@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 12 : Signes de pause'
-description: "Signes de pause dans le Coran et leurs équivalents en Braille."
 summary: "Signes de pause coraniques : Waqf Lazim, Mutlaq, Jaiz et autres."
 ---
 ## Leçon 12 : Signes de pause

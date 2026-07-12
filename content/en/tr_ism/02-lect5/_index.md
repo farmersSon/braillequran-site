@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lesson 5: Elongations (Madd)'
-description: "Usage of elongation letters in Quran Braille – Alif, Waw and Ya elongations."
 summary: "Elongation letters: Braille writing of Alif, Waw and Ya elongations."
 ---
 ## Lesson 5: Elongations (Madd)

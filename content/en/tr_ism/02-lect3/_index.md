@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lesson 3: Vowel Marks'
-description: "Writing and pronunciation of Fatha, Kasra and Damma vowel marks in the Braille system."
 summary: "Vowel marks in Braille: Fatha, Kasra and Damma signs."
 ---
 ## Lesson 3: Vowel Marks

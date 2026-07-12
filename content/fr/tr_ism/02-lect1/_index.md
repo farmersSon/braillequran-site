@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 1 : Lettres arabes'
-description: "Équivalents Braille de l'alphabet arabe – lettres et numéros de points."
 summary: "Alphabet Braille arabe : tableau des lettres et numéros de points."
 ---
 

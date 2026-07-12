@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 5: Medler'
-description: "Kur'an Braille yazısında med (uzatma) harflerinin kullanımı – elif, vav ve ye uzatmaları."
 summary: "Med harfleri: elif, vav ve ye uzatmalarının Braille yazımı."
 ---
 ## Ders 5: Medler (Uzatmalar)

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 9 : Allongements Alif'
-description: "Écriture des allongements Alif-Madd, Alif Maqsura et Waw-Alif en Braille."
 summary: "Allongements Alif : signes Braille Alif-Madd, Alif Maqsura et Waw-Alif."
 ---
 

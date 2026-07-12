@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 3 : Signes de vocalisation'
-description: "Écriture et prononciation des signes de vocalisation Fatha, Kasra et Damma dans le système Braille."
 summary: "Signes de vocalisation en Braille : Fatha, Kasra et Damma."
 ---
 ## Leçon 3 : Signes de vocalisation

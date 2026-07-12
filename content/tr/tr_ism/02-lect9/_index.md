@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 9: Elif Uzatmalar'
-description: "Braille'de elifmed, elif-i maksure ve vavelif uzatmalarının yazımı."
 summary: "Elif uzatmaları: elifmed, elif-i maksure ve vavelif Braille işaretleri."
 ---
 

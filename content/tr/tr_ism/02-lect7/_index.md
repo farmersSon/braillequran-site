@@ -1,7 +1,6 @@
 ---
 draft: false 
 title: 'Ders 7: Tenvinler'
-description: "Braille'de üstün, esre ve ötre tenvinlerin yazımı ve örnekleri."
 summary: "Tenvinler: üstün, esre ve ötre tenvin Braille işaretleri."
 ---
 

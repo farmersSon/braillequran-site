@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lesson 4: Sukun and Shadda'
-description: "Usage of Sukun and Shadda marks in the Braille system."
 summary: "Sukun and Shadda: Braille signs for quiescent and doubled letters."
 ---
 ## Lesson 4: Sukun and Shadda

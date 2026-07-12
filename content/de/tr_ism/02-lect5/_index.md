@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 5: Dehnungen (Madd)'
-description: "Verwendung der Dehnungsbuchstaben im Koran-Braille – Alif-, Waw- und Ya-Dehnungen."
 summary: "Dehnungsbuchstaben: Braille-Schreibung der Alif-, Waw- und Ya-Dehnungen."
 ---
 ## Lektion 5: Dehnungen (Madd)

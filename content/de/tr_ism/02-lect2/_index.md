@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 2: Artikulationsstellen'
-description: "Informationen über die Artikulationsstellen (Mahreç) der arabischen Buchstaben."
 summary: "Artikulationsstellen im arabischen Braille-Alphabet."
 ---
 # Lektion 2: Artikulationsstellen

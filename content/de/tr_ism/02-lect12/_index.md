@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 12: Pausenzeichen'
-description: "Pausenzeichen im Koran und ihre Entsprechungen in Brailleschrift."
 summary: "Koran-Pausenzeichen: Waqf Lazim, Mutlaq, Jaiz und weitere."
 ---
 ## Lektion 12: Pausenzeichen

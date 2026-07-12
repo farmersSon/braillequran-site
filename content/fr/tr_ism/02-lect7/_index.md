@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Leçon 7 : Tanwin'
-description: "Écriture et exemples des Tanwin Fatha, Kasra et Damma en Braille."
 summary: "Tanwin : signes Braille des Tanwin Fatha, Kasra et Damma."
 ---
 

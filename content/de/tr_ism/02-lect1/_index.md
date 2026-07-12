@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lektion 1: Arabische Buchstaben'
-description: "Braille-Entsprechungen des arabischen Alphabets – Buchstaben und Punktnummern."
 summary: "Arabisches Braille-Alphabet: Tabelle der Buchstaben und Punktnummern."
 ---
 

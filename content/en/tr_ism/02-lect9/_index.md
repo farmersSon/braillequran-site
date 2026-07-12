@@ -1,7 +1,6 @@
 ---
 draft: false
 title: 'Lesson 9: Alif Elongations'
-description: "Writing of Alif-Madd, Alif Maqsura and Waw-Alif elongations in Braille."
 summary: "Alif elongations: Alif-Madd, Alif Maqsura and Waw-Alif Braille signs."
 ---
 
