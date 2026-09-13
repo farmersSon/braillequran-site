@@ -15,7 +15,7 @@
   {{- end -}}
 {{- end -}}
 {{- if $listable }}<div class="datatable-wrap">
-<button class="toggle-list-btn f6 mb2 pa2 br2 pointer" data-label-list="{{ i18n "show_list" }}" data-label-table="{{ i18n "show_table" }}">{{ i18n "show_list" }}</button>
+<button class="toggle-list-btn f6 mb2 pa2 br2 pointer" aria-label="{{ i18n "show_list" }}" data-label-list="{{ i18n "show_list" }}" data-label-table="{{ i18n "show_table" }}">{{ i18n "show_list" }}</button>
 {{- end }}
 <table>
 <thead>

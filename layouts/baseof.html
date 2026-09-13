@@ -6,7 +6,6 @@
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-    {{ hugo.Generator }}
     {{ $production := hugo.IsProduction }}
     {{ $public := not .Params.private }}
     {{ if and $production $public }}
@@ -141,6 +140,7 @@
             list.remove();
             table.style.display='';
             btn.textContent=btn.dataset.labelList;
+            btn.setAttribute('aria-label', btn.dataset.labelList);
           } else {
             var ul=document.createElement('ul');
             ul.className='table-as-list';
@@ -157,6 +157,7 @@
             table.style.display='none';
             wrap.appendChild(ul);
             btn.textContent=btn.dataset.labelTable;
+            btn.setAttribute('aria-label', btn.dataset.labelTable);
           }
         });
       });

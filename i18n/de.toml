@@ -27,3 +27,9 @@ other = "Dunkelmodus aktivieren"
 
 [deactivate_dark]
 other = "Dunkelmodus deaktivieren"
+
+[show_list]
+other = "Als Liste anzeigen"
+
+[show_table]
+other = "Als Tabelle anzeigen"

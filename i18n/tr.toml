@@ -27,3 +27,9 @@ other = "Karanlık modu etkinleştir"
 
 [deactivate_dark]
 other = "Karanlık modu devre dışı bırak"
+
+[show_list]
+other = "Liste olarak göster"
+
+[show_table]
+other = "Tablo olarak göster"

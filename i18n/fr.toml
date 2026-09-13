@@ -27,3 +27,9 @@ other = "Activer le mode sombre"
 
 [deactivate_dark]
 other = "Désactiver le mode sombre"
+
+[show_list]
+other = "Afficher en liste"
+
+[show_table]
+other = "Afficher en tableau"

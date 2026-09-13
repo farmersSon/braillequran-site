@@ -27,3 +27,9 @@ other = "Activate dark mode"
 
 [deactivate_dark]
 other = "Deactivate dark mode"
+
+[show_list]
+other = "Show as list"
+
+[show_table]
+other = "Show as table"

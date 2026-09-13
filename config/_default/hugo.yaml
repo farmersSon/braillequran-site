@@ -7,6 +7,7 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 enableRobotsTXT: true
+disableHugoGeneratorInject: true
 
 languages:
   en:
