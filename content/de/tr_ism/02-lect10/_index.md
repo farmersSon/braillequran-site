@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 10
 title: 'Lektion 10: [ال] (Alif-Lam) Artikel (Bestimmungswort)'
 summary: "Alif-Lam Artikel: Darstellung der Mond- und Sonnenbuchstaben in Braille."
 ---

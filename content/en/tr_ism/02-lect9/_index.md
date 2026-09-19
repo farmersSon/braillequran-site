@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 9
 title: 'Lesson 9: Alif Elongations'
 summary: "Alif elongations: Alif-Madd, Alif Maqsura and Waw-Alif Braille signs."
 ---

@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 3
 title: 'Leçon 3 : Signes de vocalisation'
 summary: "Signes de vocalisation en Braille : Fatha, Kasra et Damma."
 ---

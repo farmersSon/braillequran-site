@@ -83,6 +83,8 @@
     </div>
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
+      {{ partial "lesson-bookmark.html" . }}
+      {{ partial "lesson-nav.html" . }}
     </main>
     {{ partial "social-share.html" . }}
     {{ block "footer" . }}{{ partials.IncludeCached "site-footer.html" . }}{{ end }}

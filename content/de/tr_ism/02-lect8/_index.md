@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 8
 title: 'Lektion 8: Ta Marbuta (rundes Ta)'
 summary: "Ta Marbuta: Braille-Schreibung des runden Ta."
 ---

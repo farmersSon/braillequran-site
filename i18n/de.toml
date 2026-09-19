@@ -33,3 +33,15 @@ other = "Als Liste anzeigen"
 
 [show_table]
 other = "Als Tabelle anzeigen"
+
+[lesson_nav]
+other = "Lektionsnavigation"
+
+[prev_lesson]
+other = "Vorherige Lektion"
+
+[next_lesson]
+other = "Nächste Lektion"
+
+[resume_lesson]
+other = "Weiterlesen, wo du aufgehört hast"

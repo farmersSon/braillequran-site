@@ -1,4 +1,5 @@
 ---
+weight: 8
 draft: false
 title: 'Leçon 8 : Ta Marbuta (Ta rond)'
 summary: "Ta Marbuta : écriture Braille du Ta rond."
