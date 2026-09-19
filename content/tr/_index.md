@@ -7,6 +7,8 @@ description: "BrailleQuran – Erişilebilir Kur'an Kaynakları"
 *Rabbi yessir velâ tuassir, Rabbi temmim bi'l-hayr.*\
 Rabbim, kolaylaştır, zorlaştırma. Rabbim, hayırla tamamla.
 
+{{< resume-lesson >}}
+
 [Önsöz: Niye Braillequran?](/tr/onsoz)
 
 ## Giriş

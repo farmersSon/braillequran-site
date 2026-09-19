@@ -1,0 +1,14 @@
+{{- /* Home page link back to the lesson last opened in this browser. Hidden until one exists. */ -}}
+<p id="resume-lesson" class="mb4" hidden><a id="resume-lesson-link" href="">{{ i18n "resume_lesson" }}</a></p>
+<script>
+  (function(){
+    var wrap = document.getElementById('resume-lesson');
+    var link = document.getElementById('resume-lesson-link');
+    var saved;
+    try { saved = JSON.parse(localStorage.getItem('last-lesson')); } catch (e) { return; }
+    if (!saved || !saved.href || saved.lang !== {{ .Page.Site.Language.Lang }}) return;
+    link.href = saved.href;
+    if (saved.title) link.textContent = link.textContent + ': ' + saved.title;
+    wrap.hidden = false;
+  })();
+</script>
