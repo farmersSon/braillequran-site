@@ -1,6 +1,6 @@
 # BrailleQuran Website
 
-A multilingual Hugo static site for [braillequran.org](https://braillequran.org).
+A multilingual Hugo static site for [umektumacademy.com](https://umektumacademy.com).
 
 Supports English, Turkish (Türkçe), German (Deutsch), and French (Français).
 
@@ -32,7 +32,7 @@ The dev server runs at `http://localhost:1313/` with live reload.
 config/
   _default/hugo.yaml       # Shared config (languages, menus, params)
   development/hugo.yaml    # Dev overrides (baseURL → localhost)
-  production/hugo.yaml     # Prod overrides (baseURL → braillequran.org)
+  production/hugo.yaml     # Prod overrides (baseURL → umektumacademy.com)
 
 content/
   en/                      # English content
@@ -71,7 +71,7 @@ To add a new environment (e.g. staging):
 ```bash
 mkdir config/staging
 cat > config/staging/hugo.yaml <<EOF
-baseURL: "https://staging.braillequran.org/"
+baseURL: "https://staging.umektumacademy.com/"
 EOF
 hugo --environment staging
 ```
@@ -149,7 +149,7 @@ The following layouts override the Ananke theme:
 | File | Purpose |
 |------|---------|
 | `layouts/baseof.html` | Injects breadcrumbs and search bar into every page |
-| `layouts/partials/site-footer.html` | Custom footer with "© {year} Braillequran.org" |
+| `layouts/partials/site-footer.html` | Custom footer with "© {year} umektumacademy.com" |
 | `layouts/partials/i18nlist.html` | Language switcher showing all languages (not just translated pages) |
 | `layouts/partials/breadcrumb.html` | Accessible breadcrumb trail |
 | `layouts/shortcodes/sections.html` | Lists child sections and pages |
@@ -190,4 +190,4 @@ Output goes to `public/`. Deploy the contents of that directory to your web serv
 
 ## License
 
-© Braillequran.org
+© umektumacademy.com
