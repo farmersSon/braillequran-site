@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 11
 title: 'Lektion 11: Wichtige Erläuterungen'
 summary: "Wasl, Waqf, Tanwin und Sonderfälle – Regeln zum Lesen des Korans in Braille."
 ---

@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 1
 title: 'Leçon 1 : Lettres arabes'
 summary: "Alphabet Braille arabe : tableau des lettres et numéros de points."
 ---

@@ -33,3 +33,15 @@ other = "Liste olarak göster"
 
 [show_table]
 other = "Tablo olarak göster"
+
+[lesson_nav]
+other = "Ders gezinmesi"
+
+[prev_lesson]
+other = "Önceki ders"
+
+[next_lesson]
+other = "Sonraki ders"
+
+[resume_lesson]
+other = "Kaldığın yerden devam et"

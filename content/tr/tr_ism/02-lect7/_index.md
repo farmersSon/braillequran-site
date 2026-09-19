@@ -1,4 +1,5 @@
 ---
+weight: 7
 draft: false 
 title: 'Ders 7: Tenvinler'
 summary: "Tenvinler: üstün, esre ve ötre tenvin Braille işaretleri."

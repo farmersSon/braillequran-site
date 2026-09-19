@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 2
 title: "Leçon 2 : Points d'articulation"
 summary: "Points d'articulation dans l'alphabet Braille arabe."
 ---

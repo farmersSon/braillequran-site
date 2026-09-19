@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 12
 title: 'Lektion 12: Pausenzeichen'
 summary: "Koran-Pausenzeichen: Waqf Lazim, Mutlaq, Jaiz und weitere."
 ---

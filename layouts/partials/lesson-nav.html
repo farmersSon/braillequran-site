@@ -1,0 +1,22 @@
+{{- /* Previous/next links between lessons: sibling sections below a top-level section, ordered by weight. */ -}}
+{{- if and .IsSection .Parent (eq .Parent.Kind "section") -}}
+  {{- $siblings := .Parent.Sections.ByWeight -}}
+  {{- $prev := false -}}
+  {{- $next := false -}}
+  {{- range $i, $p := $siblings -}}
+    {{- if eq $p $ -}}
+      {{- if gt $i 0 }}{{ $prev = index $siblings (sub $i 1) }}{{ end -}}
+      {{- if lt $i (sub (len $siblings) 1) }}{{ $next = index $siblings (add $i 1) }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if or $prev $next }}
+<nav aria-label="{{ i18n "lesson_nav" }}" class="ph3 ph5-l pv4 center measure-wide f4 lh-copy flex flex-wrap justify-between" style="gap: 1rem;">
+  {{- with $prev }}
+  <a href="{{ .RelPermalink }}" rel="prev"><span aria-hidden="true">← </span>{{ i18n "prev_lesson" }}{{ with .Title }}: {{ . }}{{ end }}</a>
+  {{- end }}
+  {{- with $next }}
+  <a href="{{ .RelPermalink }}" rel="next" class="ml-auto">{{ i18n "next_lesson" }}{{ with .Title }}: {{ . }}{{ end }}<span aria-hidden="true"> →</span></a>
+  {{- end }}
+</nav>
+  {{- end -}}
+{{- end -}}

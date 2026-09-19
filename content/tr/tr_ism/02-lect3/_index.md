@@ -1,4 +1,5 @@
 ---
+weight: 3
 draft: false 
 title: 'Ders 3: Harekeler'
 summary: "Braille'de harekeler: üstün, esre ve ötre işaretleri."
