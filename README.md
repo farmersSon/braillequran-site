@@ -47,8 +47,8 @@ layouts/
     site-footer.html       # Footer with copyright
     i18nlist.html          # Language switcher
   shortcodes/
-    sections.html          # Auto-lists child sections/pages
     ar.html                # Marks inline Arabic text (lang="ar", dir="rtl")
+    sections.html          # Auto-lists child sections/pages
   _default/
     index.json             # JSON search index template
 
@@ -153,8 +153,8 @@ The following layouts override the Ananke theme:
 | `layouts/partials/site-footer.html` | Custom footer with "© {year} Braillequran.org" |
 | `layouts/partials/i18nlist.html` | Language switcher showing all languages (not just translated pages) |
 | `layouts/partials/breadcrumb.html` | Accessible breadcrumb trail |
-| `layouts/shortcodes/sections.html` | Lists child sections and pages |
 | `layouts/shortcodes/ar.html` | Wraps Arabic text in `<span lang="ar" dir="rtl">` so screen readers use an Arabic voice. Usage: `{{</* ar */>}}بسم الله{{</* /ar */>}}` |
+| `layouts/shortcodes/sections.html` | Lists child sections and pages |
 | `layouts/_default/index.json` | Generates per-language JSON index for search |
 
 ## Search
