@@ -32,12 +32,6 @@
     {{ if hugo.IsProduction }}{{ partial "google_analytics.html" . }}{{ end }}
     {{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
     <style>
-      .search-wrap { position: relative; max-width: 20rem; }
-      .search-wrap input { width: 100%; padding: .5rem; border: 1px solid #ccc; border-radius: 4px; }
-      .search-results { position: absolute; top: 100%; left: 0; right: 0; background: #fff; border: 1px solid #ccc; max-height: 20rem; overflow-y: auto; z-index: 100; display: none; }
-      .search-results a { display: block; padding: .5rem; color: #333; text-decoration: none; border-bottom: 1px solid #eee; }
-      .search-results a:hover, .search-results a:focus { background: #f0f0f0; }
-
       html.dark body { background: #1a1a2e; color: #e0e0e0; }
       html.dark .bg-near-white { background-color: #1a1a2e !important; }
       html.dark .bg-dark-blue, html.dark .bg-black { background-color: #0d0d1a !important; }
@@ -46,10 +40,6 @@
       html.dark .mid-gray { color: #b0b0b0 !important; }
       html.dark .white-70 { color: rgba(255,255,255,.8) !important; }
       html.dark a:not([class*="white"]) { color: #8ab4f8; }
-      html.dark .search-wrap input { background: #2a2a3e; color: #e0e0e0; border-color: #555; }
-      html.dark .search-results { background: #2a2a3e; border-color: #555; }
-      html.dark .search-results a { color: #e0e0e0; border-color: #444; }
-      html.dark .search-results a:hover, html.dark .search-results a:focus { background: #3a3a4e; }
       html.dark .bg-white { background-color: #2a2a3e !important; }
       html.dark .hover-bg-light-gray:hover { background-color: #3a3a4e !important; }
     </style>
@@ -72,45 +62,12 @@
     {{ block "header" . }}{{ partials.Include "site-header.html" . }}{{ end }}
     <div class="ph3 ph4-ns flex flex-wrap justify-between items-center">
       {{ partial "breadcrumb.html" . }}
-      <div class="search-wrap mv2" role="search" aria-label="Site search">
-        <label for="search-input" class="clip">{{ i18n "search" | default "Search" }}</label>
-        <input id="search-input" type="search" placeholder="{{ i18n "search" | default "Search" }}…" autocomplete="on" aria-controls="search-results">
-        <div id="search-results" class="search-results" role="listbox" aria-label="Search results"></div>
-      </div>
     </div>
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>
     {{ partial "social-share.html" . }}
     {{ block "footer" . }}{{ partials.IncludeCached "site-footer.html" . }}{{ end }}
-    <script src="/js/fuse.min.js"></script>
-    <script>
-    (function(){
-      var lang = {{ .Site.Language.Lang }};
-      var input = document.getElementById('search-input');
-      var resultsEl = document.getElementById('search-results');
-      var fuse;
-      fetch('/'+lang+'/index.json')
-        .then(function(r){return r.json()})
-        .then(function(data){
-          var filtered = data.filter(function(d){return d.lang===lang});
-          fuse = new Fuse(filtered, {keys:['title','content'], threshold:0.3});
-        });
-      input.addEventListener('input', function(){
-        var q = this.value.trim();
-        if(!q || !fuse){resultsEl.style.display='none';resultsEl.innerHTML='';return;}
-        var hits = fuse.search(q, {limit:10});
-        if(!hits.length){resultsEl.style.display='none';resultsEl.innerHTML='';return;}
-        resultsEl.innerHTML = hits.map(function(h){
-          return '<a href="'+h.item.href+'" role="option">'+h.item.title+'</a>';
-        }).join('');
-        resultsEl.style.display='block';
-      });
-      document.addEventListener('click',function(e){
-        if(!e.target.closest('.search-wrap')) resultsEl.style.display='none';
-      });
-    })();
-    </script>
     <script>
     (function(){
       var btn = document.getElementById('dark-toggle');
