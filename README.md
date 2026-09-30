@@ -1,6 +1,6 @@
 # BrailleQuran Website
 
-A multilingual Hugo static site for [braillequran.org](https://braillequran.org).
+A multilingual Hugo static site for [umektumacademy.com](https://umektumacademy.com).
 
 Supports English, Turkish (Türkçe), German (Deutsch), and French (Français).
 
@@ -32,7 +32,7 @@ The dev server runs at `http://localhost:1313/` with live reload.
 config/
   _default/hugo.yaml       # Shared config (languages, menus, params)
   development/hugo.yaml    # Dev overrides (baseURL → localhost)
-  production/hugo.yaml     # Prod overrides (baseURL → braillequran.org)
+  production/hugo.yaml     # Prod overrides (baseURL → umektumacademy.com)
 
 content/
   en/                      # English content
@@ -41,13 +41,15 @@ content/
   fr/                      # French content
 
 layouts/
-  baseof.html              # Base template (breadcrumbs, dark mode, table/list toggle)
+  baseof.html              # Base template (breadcrumbs, search)
   partials/
     breadcrumb.html        # Breadcrumb navigation
     site-footer.html       # Footer with copyright
     i18nlist.html          # Language switcher
   shortcodes/
     sections.html          # Auto-lists child sections/pages
+  _default/
+    index.json             # JSON search index template
 
 i18n/
   en.toml, tr.toml,       # UI string translations
@@ -69,7 +71,7 @@ To add a new environment (e.g. staging):
 ```bash
 mkdir config/staging
 cat > config/staging/hugo.yaml <<EOF
-baseURL: "https://staging.braillequran.org/"
+baseURL: "https://staging.umektumacademy.com/"
 EOF
 hugo --environment staging
 ```
@@ -146,11 +148,26 @@ The following layouts override the Ananke theme:
 
 | File | Purpose |
 |------|---------|
-| `layouts/baseof.html` | Injects breadcrumbs, dark mode styles and the dark mode / table-list toggle scripts into every page |
-| `layouts/partials/site-footer.html` | Custom footer with "© {year} Braillequran.org" |
+| `layouts/baseof.html` | Injects breadcrumbs and search bar into every page |
+| `layouts/partials/site-footer.html` | Custom footer with "© {year} umektumacademy.com" |
 | `layouts/partials/i18nlist.html` | Language switcher showing all languages (not just translated pages) |
 | `layouts/partials/breadcrumb.html` | Accessible breadcrumb trail |
 | `layouts/shortcodes/sections.html` | Lists child sections and pages |
+| `layouts/_default/index.json` | Generates per-language JSON index for search |
+
+## Search
+
+Client-side search powered by [Fuse.js](https://www.fusejs.io/). Each language gets its own `index.json` at build time. The search bar filters results to the current language only.
+
+The JSON output is enabled via `outputs.home` in `config/_default/hugo.yaml`:
+
+```yaml
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+```
 
 ## Adding a New Language
 
@@ -173,4 +190,4 @@ Output goes to `public/`. Deploy the contents of that directory to your web serv
 
 ## License
 
-© Braillequran.org
+© umektumacademy.com
