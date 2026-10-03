@@ -117,11 +117,11 @@ languages:
 
 ### 2. Create the UI strings file
 
-Create `i18n/<lang>.toml` with the search label translation:
+Create `i18n/<lang>.toml` with the UI string translations. Copy `i18n/en.toml` and translate every `other` value, e.g.:
 
 ```toml
-[search]
-other = "بحث"
+[show_list]
+other = "عرض كقائمة"
 ```
 
 The Ananke theme already ships with UI translations for many languages in `themes/ananke/i18n/`. Your `i18n/<lang>.toml` file only needs to contain strings that are missing or that you want to override.
@@ -167,7 +167,7 @@ For each language, ensure:
 - [ ] `content/<lang>/_index.md` — Home page
 - [ ] Every `_index.md` in every section (e.g. `about/_index.md`, `resources/_index.md`)
 - [ ] Every leaf page (e.g. `about/mission.md`, `resources/downloads.md`)
-- [ ] `i18n/<lang>.toml` — UI string for "Search"
+- [ ] `i18n/<lang>.toml` — all UI strings from `i18n/en.toml` translated
 - [ ] Menu name in `config/_default/hugo.yaml` — translated "Home" link
 
 ## File Format Reference
