@@ -1,4 +1,5 @@
 ---
+weight: 6
 draft: false 
 title: 'Ders 6: Hemzeler'
 summary: "Dört çeşit hemzenin Braille alfabesindeki gösterimi."

@@ -1,0 +1,15 @@
+{{- /* Header link back to the lesson last opened in this browser. Hidden until one exists; not rendered on lesson pages, which store themselves as the last lesson. */ -}}
+{{- if not (and .IsSection .Parent (eq .Parent.Kind "section")) }}
+<a id="resume-lesson" class="resume-lesson dib white f5 f4-ns fw4 no-underline ba b--white-60 br2 pv1 ph2 mr3" href="" hidden>{{ i18n "resume_lesson" }}</a>
+<script>
+  (function(){
+    var link = document.getElementById('resume-lesson');
+    var saved;
+    try { saved = JSON.parse(localStorage.getItem('last-lesson')); } catch (e) { return; }
+    if (!saved || !saved.href || saved.lang !== {{ .Site.Language.Lang }}) return;
+    link.href = saved.href;
+    if (saved.title) link.textContent = link.textContent + ': ' + saved.title;
+    link.hidden = false;
+  })();
+</script>
+{{- end -}}

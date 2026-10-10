@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 4
 title: 'Leçon 4 : Sukun et Shadda'
 summary: "Sukun et Shadda : signes Braille pour les lettres quiescentes et doublées."
 ---

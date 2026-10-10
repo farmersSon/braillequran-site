@@ -1,4 +1,5 @@
 ---
+weight: 4
 draft: false 
 title: 'Ders 4: Cezim ve şeddeler'
 summary: "Cezim ve şedde: Braille'de sessiz ve çift harf işaretleri."

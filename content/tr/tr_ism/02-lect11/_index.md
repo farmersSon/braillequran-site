@@ -1,4 +1,5 @@
 ---
+weight: 11
 draft: false 
 title: 'Ders 11: Önemli açıklamalar'
 summary: "Vasıl, vakf, tenvin ve özel durumlar – Kur'an Braille okuma kuralları."

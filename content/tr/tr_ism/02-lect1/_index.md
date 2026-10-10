@@ -1,4 +1,5 @@
 ---
+weight: 1
 draft: false
 title: 'Ders 1: Arapça Harfler'
 summary: "Arap Braille alfabesi: harfler ve nokta numaraları tablosu."

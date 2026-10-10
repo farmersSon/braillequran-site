@@ -1,0 +1,14 @@
+{{- /* Remembers the lesson last opened in this browser and offers it again on the home page. */ -}}
+{{- if and .IsSection .Parent (eq .Parent.Kind "section") }}
+<script>
+  (function(){
+    try {
+      localStorage.setItem('last-lesson', JSON.stringify({
+        lang: {{ .Site.Language.Lang }},
+        href: {{ .RelPermalink }},
+        title: {{ .Title }}
+      }));
+    } catch (e) {}
+  })();
+</script>
+{{- end -}}

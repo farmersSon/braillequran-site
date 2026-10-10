@@ -1,4 +1,5 @@
 ---
+weight: 12
 draft: false 
 title: 'Ders 12: Durak işaretleri'
 summary: "Kur'an durak işaretleri: vakf-ı lazım, mutlak, caiz ve diğerleri."

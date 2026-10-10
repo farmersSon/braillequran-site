@@ -1,4 +1,5 @@
 ---
+weight: 10
 draft: false 
 title: 'Ders 10: ﺎﻟ (elif-lam) takısı (harfi tarif)'
 summary: "Elif-lam takısı: kameri ve şemsi harflerin Braille'de gösterimi."

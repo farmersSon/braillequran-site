@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 11
 title: 'Lesson 11: Important Notes'
 summary: "Wasl, Waqf, Tanwin and special cases – Quran Braille reading rules."
 ---

@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 10
 title: 'Lesson 10: [ال] (Alif-Lam) Article (Definite Article)'
 summary: "Alif-Lam article: representation of lunar and solar letters in Braille."
 ---

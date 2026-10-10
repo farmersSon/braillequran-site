@@ -1,4 +1,5 @@
 ---
+weight: 2
 draft: false 
 title: 'Ders 2: Mahreçler'
 summary: "Arap Braille alfabesinde mahreçler konusu."

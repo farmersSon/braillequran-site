@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 1
 title: 'Lesson 1: Arabic Letters'
 summary: "Arabic Braille alphabet: table of letters and dot numbers."
 ---

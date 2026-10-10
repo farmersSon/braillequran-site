@@ -1,4 +1,5 @@
 ---
+weight: 9
 draft: false
 title: 'Leçon 9 : Allongements Alif'
 summary: "Allongements Alif : signes Braille Alif-Madd, Alif Maqsura et Waw-Alif."

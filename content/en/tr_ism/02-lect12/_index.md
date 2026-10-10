@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 12
 title: 'Lesson 12: Pause Signs'
 summary: "Quran pause signs: Waqf Lazim, Mutlaq, Jaiz and others."
 ---

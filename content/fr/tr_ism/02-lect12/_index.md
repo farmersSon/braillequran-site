@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 12
 title: 'Leçon 12 : Signes de pause'
 summary: "Signes de pause coraniques : Waqf Lazim, Mutlaq, Jaiz et autres."
 ---

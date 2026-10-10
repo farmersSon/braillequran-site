@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 5
 title: 'Lektion 5: Dehnungen (Madd)'
 summary: "Dehnungsbuchstaben: Braille-Schreibung der Alif-, Waw- und Ya-Dehnungen."
 ---

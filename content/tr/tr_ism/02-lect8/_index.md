@@ -1,4 +1,5 @@
 ---
+weight: 8
 draft: false 
 title: 'Ders 8: Te-i Merbuta (yuvarlak te)'
 summary: "Te-i merbuta: yuvarlak te harfinin Braille yazımı."

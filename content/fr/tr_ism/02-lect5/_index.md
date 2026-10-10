@@ -1,4 +1,5 @@
 ---
+weight: 5
 draft: false
 summary: "Lettres d'allongement : écriture Braille des allongements Alif, Waw et Ya."
 ---

@@ -1,4 +1,5 @@
 ---
+weight: 9
 draft: false 
 title: 'Ders 9: Elif Uzatmalar'
 summary: "Elif uzatmaları: elifmed, elif-i maksure ve vavelif Braille işaretleri."

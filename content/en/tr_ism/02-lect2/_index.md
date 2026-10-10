@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 2
 title: 'Lesson 2: Articulation Points'
 summary: "Articulation points in the Arabic Braille alphabet."
 ---

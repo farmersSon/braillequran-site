@@ -1,4 +1,5 @@
 ---
+weight: 5
 draft: false 
 title: 'Ders 5: Medler'
 summary: "Med harfleri: elif, vav ve ye uzatmalarının Braille yazımı."

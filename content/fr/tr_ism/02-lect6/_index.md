@@ -1,4 +1,5 @@
 ---
+weight: 6
 draft: false
 title: 'Leçon 6 : Variantes de Hamza'
 summary: "Quatre variantes de Hamza et leur représentation dans l'alphabet Braille."

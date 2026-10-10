@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 4
 title: 'Lektion 4: Sukun und Schadda'
 summary: "Sukun und Schadda: Zeichen für ruhende und verdoppelte Buchstaben in Braille."
 ---

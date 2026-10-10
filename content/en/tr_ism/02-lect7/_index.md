@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 7
 title: 'Lesson 7: Tanwin'
 summary: "Tanwin: Fatha, Kasra and Damma Tanwin Braille signs."
 ---

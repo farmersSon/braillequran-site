@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 5
 title: 'Lesson 5: Elongations (Madd)'
 summary: "Elongation letters: Braille writing of Alif, Waw and Ya elongations."
 ---

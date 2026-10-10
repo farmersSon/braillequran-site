@@ -1,5 +1,6 @@
 ---
 draft: false
+weight: 3
 title: 'Lesson 3: Vowel Marks'
 summary: "Vowel marks in Braille: Fatha, Kasra and Damma signs."
 ---
