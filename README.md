@@ -48,9 +48,9 @@ layouts/
     lesson-bookmark.html   # Stores the lesson last opened (localStorage)
     site-footer.html       # Footer with copyright
     i18nlist.html          # Language switcher
+    resume-lesson.html     # Header link back to the last opened lesson
   shortcodes/
     ar.html                # Marks inline Arabic text (lang="ar", dir="rtl")
-    resume-lesson.html     # Home page link back to the last opened lesson
     sections.html          # Auto-lists child sections/pages
   _default/
     index.json             # JSON search index template
@@ -159,7 +159,7 @@ The following layouts override the Ananke theme:
 | `layouts/shortcodes/ar.html` | Wraps Arabic text in `<span lang="ar" dir="rtl">` so screen readers use an Arabic voice. Usage: `{{</* ar */>}}بسم الله{{</* /ar */>}}` |
 | `layouts/partials/lesson-nav.html` | Previous/next links below each lesson, ordered by `weight` |
 | `layouts/partials/lesson-bookmark.html` | Remembers the lesson last opened, in `localStorage` |
-| `layouts/shortcodes/resume-lesson.html` | Home page link back to that lesson. Usage: `{{</* resume-lesson */>}}` |
+| `layouts/partials/resume-lesson.html` | Header link back to that lesson, right after the language switcher; not shown on lesson pages |
 | `layouts/shortcodes/sections.html` | Lists child sections and pages |
 | `layouts/_default/index.json` | Generates per-language JSON index for search |
 
