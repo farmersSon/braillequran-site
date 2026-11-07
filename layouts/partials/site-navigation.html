@@ -20,7 +20,20 @@
         title="{{ i18n "activate_dark" | default "Activate dark mode" }}"
       >☀️</button>
       {{ if .Site.Menus.main }}
-        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <button
+          id="main-menu-toggle"
+          type="button"
+          class="main-menu-toggle bg-transparent bn white f5 pointer pa2 items-center"
+          aria-expanded="false"
+          aria-controls="main-menu"
+          aria-label="{{ i18n "open_menu" | default "Open menu" }}"
+          title="{{ i18n "open_menu" | default "Open menu" }}"
+          data-label-open="{{ i18n "open_menu" | default "Open menu" }}"
+          data-label-close="{{ i18n "close_menu" | default "Close menu" }}"
+        >
+          <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 5h16M2 10h16M2 15h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <ul id="main-menu" class="main-menu {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3" "pr3" }}">
             <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
@@ -34,3 +47,51 @@
     </div>
   </div>
 </nav>
+<script>
+(function(){
+  var btn = document.getElementById('main-menu-toggle');
+  var menu = document.getElementById('main-menu');
+  if (!btn || !menu) return;
+  var desktop = window.matchMedia('(min-width: 60em)');
+
+  function setExpanded(expanded){
+    btn.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+    menu.classList.toggle('is-open', expanded);
+    var label = expanded ? btn.dataset.labelClose : btn.dataset.labelOpen;
+    btn.setAttribute('aria-label', label);
+    btn.setAttribute('title', label);
+  }
+
+  btn.addEventListener('click', function(){
+    var expanded = btn.getAttribute('aria-expanded') !== 'true';
+    setExpanded(expanded);
+    if (expanded) {
+      var first = menu.querySelector('a');
+      if (first) first.focus();
+    }
+  });
+
+  menu.addEventListener('click', function(e){
+    if (e.target.closest('a')) setExpanded(false);
+  });
+
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'Escape' && btn.getAttribute('aria-expanded') === 'true') {
+      setExpanded(false);
+      btn.focus();
+    }
+  });
+
+  document.addEventListener('click', function(e){
+    if (desktop.matches) return;
+    if (!btn.contains(e.target) && !menu.contains(e.target)) setExpanded(false);
+  });
+
+  function sync(){
+    if (desktop.matches) menu.classList.remove('is-open');
+    setExpanded(false);
+  }
+
+  if (desktop.addEventListener) desktop.addEventListener('change', sync);
+})();
+</script>

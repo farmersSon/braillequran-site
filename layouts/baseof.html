@@ -47,10 +47,19 @@
       .resume-lesson:hover { border-color: #fff; }
       .resume-lesson:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
 
+      .main-menu-toggle { display: none; }
+      @media screen and (max-width: 59.999em) {
+        .js .main-menu-toggle { display: inline-flex; }
+        .js .main-menu { display: none; width: 100%; }
+        .js .main-menu.is-open { display: block; }
+        .js .main-menu li { display: block; padding-top: .5rem; padding-bottom: .5rem; }
+      }
+
       /* Arabic script looks smaller than Latin text at the same size. */
       [lang="ar"] { font-size: 1.6em; }
     </style>
     <script>
+      document.documentElement.classList.add('js');
       (function(){
         var d = localStorage.getItem('dark') === 'true' ||
           (!localStorage.getItem('dark') && window.matchMedia('(prefers-color-scheme: dark)').matches);

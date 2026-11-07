@@ -19,6 +19,12 @@ other = "Email"
 [language_menu]
 other = "Select language"
 
+[open_menu]
+other = "Open menu"
+
+[close_menu]
+other = "Close menu"
+
 [activate_dark]
 other = "Activate dark mode"
 

@@ -19,6 +19,12 @@ other = "E-posta"
 [language_menu]
 other = "Dil seçin"
 
+[open_menu]
+other = "Menüyü aç"
+
+[close_menu]
+other = "Menüyü kapat"
+
 [activate_dark]
 other = "Karanlık modu etkinleştir"
 

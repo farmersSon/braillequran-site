@@ -19,6 +19,12 @@ other = "E-mail"
 [language_menu]
 other = "Choisir la langue"
 
+[open_menu]
+other = "Ouvrir le menu"
+
+[close_menu]
+other = "Fermer le menu"
+
 [activate_dark]
 other = "Activer le mode sombre"
 
