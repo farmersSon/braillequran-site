@@ -6,7 +6,7 @@ summary: "Cezim ve şedde: Braille'de sessiz ve çift harf işaretleri."
 ---
 ## Ders 4: Cezim ve şeddeler
 
-Cezm (Sükun): harfin arkasına konan ⠠(noktalar 2,5) işareti olup o harfi
+Cezm (Sükun): harfin arkasına konan ⠠(noktalar 2 5) işareti olup o harfi
 bir önceki harfe bağlar ve yalın (harekesiz) olarak okutur.
 
 ### Örnekler

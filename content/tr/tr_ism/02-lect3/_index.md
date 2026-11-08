@@ -17,7 +17,7 @@ harfleri 'a ', ince harfleri 'e 'sesiyle okutur.
 
 ## Esre 
 
-Esre (Kesra) harfin arkasına konan ⠑(noktalar 1,5) işaretidir. Kalın
+Esre (Kesra) harfin arkasına konan ⠑(noktalar 1 5) işaretidir. Kalın
 harfleri 'ı 'sesine yakın, ince harfleri 'i 'sesiyle okutur.
 
 ### Misaller
@@ -26,7 +26,7 @@ harfleri 'ı 'sesine yakın, ince harfleri 'i 'sesiyle okutur.
 
 ## Ötre
 
-Ötre (damme) harfin arkasına konan ⠥(noktalar 1,3,6) işaretidir. Kalın
+Ötre (damme) harfin arkasına konan ⠥(noktalar 1 3 6) işaretidir. Kalın
 ve ince harfleri 'u 'sesi ile okutur.\
 
 ### Örnekler

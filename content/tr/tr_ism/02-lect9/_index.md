@@ -9,7 +9,7 @@ summary: "Elif uzatmaları: elifmed, elif-i maksure ve vavelif Braille işaretle
 
 ## Elifmed
 
-Mushafta elif üzerinde dik üstündür. Kabartmada ⠜(noktalar 3,4,5)
+Mushafta elif üzerinde dik üstündür. Kabartmada ⠜(noktalar 3 4 5)
 işaretidir, bir elif miktarı 'aa 'diye uzatılarak okunur.
 
 ### Elifmed örnekler
@@ -19,7 +19,7 @@ işaretidir, bir elif miktarı 'aa 'diye uzatılarak okunur.
 ## Elif-i Maksure
 
 Mushafta açık ye veya diş üzeri asar şeklindedir. Kabartmada ⠕(noktalar
-1,3,5) ile gösterilir. Arkasına geldiği harfi bir elif miktarı 'aa 'diye
+1 3 5) ile gösterilir. Arkasına geldiği harfi bir elif miktarı 'aa 'diye
 uzatır.
 
 ### Elif maksure örnekler
@@ -29,7 +29,7 @@ uzatır.
 ## Vavelif
 
 Mushafta vav üzeri asar şeklinde yazılıp arkasına geldiği harfi 'aa
-'diye uzatır ve ⠼(noktalar 3,4,5,6) şeklinde yazılır. Birkaç kelimede
+'diye uzatır ve ⠼(noktalar 3 4 5 6) şeklinde yazılır. Birkaç kelimede
 kullanılır.
 
 ### Vavelif örnekler

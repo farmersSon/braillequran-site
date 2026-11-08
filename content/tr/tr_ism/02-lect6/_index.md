@@ -10,11 +10,11 @@ Arap alfabesindeki elif harfi hareke aldığında hemze olarak
 adlandırılır. Kelime içindeki görünümlerine göre dört çeşit hemze
 vardır:
 
-*  Hemzeelif: [إ] ⠌ (noktalar 3,4)
+*  Hemzeelif: [إ] ⠌ (noktalar 3 4)
 
-*  Vavhemzeelif: [ؤ] ⠳ (noktalar 1,2,5,6)
+*  Vavhemzeelif: [ؤ] ⠳ (noktalar 1 2 5 6)
 
-*  Yehemzeelif: [ئ] ⠽ (noktalar 1,3,4,5,6) ve
+*  Yehemzeelif: [ئ] ⠽ (noktalar 1 3 4 5 6) ve
 
 *  Hemze: [ء] ⠄ (3. nokta)
 

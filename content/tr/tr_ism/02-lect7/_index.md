@@ -12,7 +12,7 @@ kelimenin belirsiz (nekeri) isim olduğunu ifade eder. Üç çeşittir:
 
 ## Üstün tenvin
 
-Üstün tenvin: (İki üstün) işareti ([اً]) ⠁⠆(noktalar 2,3) olup
+Üstün tenvin: (İki üstün) işareti ([اً]) ⠁⠆(noktalar 2 3) olup
 arkasına geldiği harf kalın ise kelimeyi 'an 'ince ise 'en 'şeklinde
 tamamlar.
 
@@ -23,7 +23,7 @@ tamamlar.
 ## Esre Tenvin
 
 Esre tenvin: (çift esre) arkasına geldiği harf kalın ise 'ın ', ince ise
-'in 'diye okutur. Kabartmada ⠔ile gösterilir (noktalar 3,5).
+'in 'diye okutur. Kabartmada ⠔ile gösterilir (noktalar 3 5).
 
 ### Esre tenvin misaller
 
@@ -31,7 +31,7 @@ Esre tenvin: (çift esre) arkasına geldiği harf kalın ise 'ın ', ince ise
 
 ## Ötre Tenvin
 
-Ötre tenvin: ⠢(noktalar 2,6) ile gösterilir. Arkasına geldiği harfi 'un
+Ötre tenvin: ⠢(noktalar 2 6) ile gösterilir. Arkasına geldiği harfi 'un
 'sesiyle tamamlar.
 
 ### Ötre tenvin örnekler

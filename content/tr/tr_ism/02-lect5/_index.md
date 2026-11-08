@@ -17,8 +17,8 @@ uzatırlar.
 Ayrıca Kuran metninde görülmeyen, fakat uzatılması gereken bazı yerler
 vardır. Bunlara gizli uzatmalar denir. [ٰ] (asar mukadder
 elif) ⠈(4. nokta) 'aa 'diye,\
-[ِ] (mukadder ye) ⠘(noktalar 4,5) 'ii 'diye\
-ve [ُ] (mukadder vav) ⠬(noktalar 2,4,5,6) 'uu 'diye bir elif
+[ِ] (mukadder ye) ⠘(noktalar 4 5) 'ii 'diye\
+ve [ُ] (mukadder vav) ⠬(noktalar 2 4 5 6) 'uu 'diye bir elif
 miktarı uzatır.
 
 ### Açık ve gizli elif meddine örnekler
