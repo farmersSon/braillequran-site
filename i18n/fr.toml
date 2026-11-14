@@ -48,3 +48,9 @@ other = "Leçon suivante"
 
 [resume_lesson]
 other = "Reprendre où vous vous êtes arrêté"
+
+[show_dots]
+other = "Afficher les points Braille"
+
+[hide_dots]
+other = "Masquer les points Braille"

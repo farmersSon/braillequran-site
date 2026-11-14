@@ -48,3 +48,9 @@ other = "Sonraki ders"
 
 [resume_lesson]
 other = "Kaldığın yerden devam et"
+
+[show_dots]
+other = "Braille noktalarını göster"
+
+[hide_dots]
+other = "Braille noktalarını gizle"

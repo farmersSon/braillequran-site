@@ -58,6 +58,8 @@
         .js .main-menu li { display: block; padding-top: .5rem; padding-bottom: .5rem; }
       }
 
+      .js .col-hidden .col-toggle { display: none; }
+
       /* Arabic script looks smaller than Latin text at the same size. */
       [lang="ar"] { font-size: 1.6em; }
     </style>
@@ -109,6 +111,19 @@
     </script>
     <script>
     (function(){
+      document.querySelectorAll('.toggle-col-btn').forEach(function(btn){
+        btn.addEventListener('click', function(){
+          var wrap = btn.closest('.datatable-wrap');
+          var hidden = wrap.classList.toggle('col-hidden');
+          var label = hidden ? btn.dataset.labelShow : btn.dataset.labelHide;
+          btn.textContent = label;
+          btn.setAttribute('aria-label', label);
+        });
+      });
+    })();
+    </script>
+    <script>
+    (function(){
       document.querySelectorAll('.toggle-list-btn').forEach(function(btn){
         btn.addEventListener('click', function(){
           var wrap = btn.closest('.datatable-wrap');
@@ -124,7 +139,8 @@
             ul.className='table-as-list';
             table.querySelectorAll('tbody tr').forEach(function(tr){
               var cells=tr.querySelectorAll('td');
-              var last=cells[cells.length-1];
+              var lc=parseInt(wrap.dataset.listCol,10);
+              var last=lc?cells[lc-1]:cells[cells.length-1];
               if(last&&last.textContent.trim()){
                 var li=document.createElement('li');
                 li.textContent=last.textContent;

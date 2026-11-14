@@ -7,4 +7,4 @@ summary: "Arabic Braille alphabet: table of letters and dot numbers."
 
 ## Lesson 1: Arabic Letters
 
-{{< datatable listable="true" src="tr_ism/02-lect1/alphabet" headers="Arabic|Braille Form|Braille Dots" >}}
+{{< datatable listable="true" hidecol="3" listcol="2" src="tr_ism/02-lect1/alphabet" headers="Arabic|Braille Form|Braille Dots" >}}

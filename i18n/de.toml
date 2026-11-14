@@ -48,3 +48,9 @@ other = "Nächste Lektion"
 
 [resume_lesson]
 other = "Weiterlesen, wo du aufgehört hast"
+
+[show_dots]
+other = "Braille-Punkte anzeigen"
+
+[hide_dots]
+other = "Braille-Punkte ausblenden"

@@ -1,6 +1,8 @@
 {{- $src := .Get "src" -}}
 {{- $headers := split (.Get "headers") "|" -}}
 {{- $listable := .Get "listable" -}}
+{{- $hidecol := int (.Get "hidecol" | default 0) -}}
+{{- $listcol := int (.Get "listcol" | default 0) -}}
 {{- $parts := split $src "/" -}}
 {{- $data := index hugo.Data (index $parts 0) -}}
 {{- range $i, $part := $parts -}}
@@ -14,14 +16,18 @@
     {{- $highlights = merge $highlights (dict (printf "%d" .index) .color) -}}
   {{- end -}}
 {{- end -}}
-{{- if $listable }}<div class="datatable-wrap">
+{{- if or $listable $hidecol }}<div class="datatable-wrap{{ if $hidecol }} col-hidden{{ end }}"{{ if $listcol }} data-list-col="{{ $listcol }}"{{ end }}>{{ end }}
+{{- if $hidecol }}
+<button class="toggle-col-btn f6 mb2 mr2 pa2 br2 pointer" aria-label="{{ i18n "show_dots" }}" data-label-show="{{ i18n "show_dots" }}" data-label-hide="{{ i18n "hide_dots" }}">{{ i18n "show_dots" }}</button>
+{{- end }}
+{{- if $listable }}
 <button class="toggle-list-btn f6 mb2 pa2 br2 pointer" aria-label="{{ i18n "show_list" }}" data-label-list="{{ i18n "show_list" }}" data-label-table="{{ i18n "show_table" }}">{{ i18n "show_list" }}</button>
 {{- end }}
 <table>
 <thead>
 <tr>
-{{- range $headers }}
-<th scope="col">{{ . }}</th>
+{{- range $i, $h := $headers }}
+<th scope="col"{{ if eq (add $i 1) $hidecol }} class="col-toggle"{{ end }}>{{ . }}</th>
 {{- end }}
 </tr>
 </thead>
@@ -29,11 +35,11 @@
 {{- range $i, $row := $data.rows }}
 {{- $color := index $highlights (printf "%d" $i) }}
 <tr{{ with $color }} style="background-color: {{ . }}"{{ end }}>
-{{- range $row }}
-<td>{{ if findRE `[\x{0600}-\x{06FF}]` (string .) 1 }}<span lang="ar" dir="rtl">{{ . }}</span>{{ else }}{{ . }}{{ end }}</td>
+{{- range $j, $cell := $row }}
+<td{{ if eq (add $j 1) $hidecol }} class="col-toggle"{{ end }}>{{ with $cell }}{{ if findRE `[\x{0600}-\x{06FF}]` (string .) 1 }}<span lang="ar" dir="rtl">{{ . }}</span>{{ else }}{{ . }}{{ end }}{{ end }}</td>
 {{- end }}
 </tr>
 {{- end }}
 </tbody>
 </table>
-{{- if $listable }}</div>{{- end }}
+{{- if or $listable $hidecol }}</div>{{- end }}

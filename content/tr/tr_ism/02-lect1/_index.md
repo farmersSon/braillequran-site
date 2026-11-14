@@ -7,4 +7,4 @@ summary: "Arap Braille alfabesi: harfler ve nokta numaraları tablosu."
 
 ## Ders 1: Arapça Harfler
 
-{{< datatable listable="true" src="tr_ism/02-lect1/alphabet" headers="Arapça|Braille şekli|Braille noktalar" >}}
+{{< datatable listable="true" hidecol="3" listcol="2" src="tr_ism/02-lect1/alphabet" headers="Arapça|Braille şekli|Braille noktalar" >}}

@@ -48,3 +48,9 @@ other = "Next lesson"
 
 [resume_lesson]
 other = "Continue where you left off"
+
+[show_dots]
+other = "Show Braille dots"
+
+[hide_dots]
+other = "Hide Braille dots"
