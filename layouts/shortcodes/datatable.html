@@ -21,7 +21,7 @@
 <thead>
 <tr>
 {{- range $headers }}
-<th>{{ . }}</th>
+<th scope="col">{{ . }}</th>
 {{- end }}
 </tr>
 </thead>
@@ -30,7 +30,7 @@
 {{- $color := index $highlights (printf "%d" $i) }}
 <tr{{ with $color }} style="background-color: {{ . }}"{{ end }}>
 {{- range $row }}
-<td>{{ . }}</td>
+<td>{{ if findRE `[\x{0600}-\x{06FF}]` (string .) 1 }}<span lang="ar" dir="rtl">{{ . }}</span>{{ else }}{{ . }}{{ end }}</td>
 {{- end }}
 </tr>
 {{- end }}
