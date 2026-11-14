@@ -58,7 +58,8 @@
         .js .main-menu li { display: block; padding-top: .5rem; padding-bottom: .5rem; }
       }
 
-      .js .col-hidden .col-toggle { display: none; }
+      .toggle-col-btn { display: none; }
+      .js .toggle-col-btn:not([hidden]) { display: inline-block; }
 
       /* Arabic script looks smaller than Latin text at the same size. */
       [lang="ar"] { font-size: 1.6em; }
@@ -111,13 +112,35 @@
     </script>
     <script>
     (function(){
+      // The whole table is replaced by a freshly built one (with or without the
+      // column) so screen readers never see a table whose size changed in place.
       document.querySelectorAll('.toggle-col-btn').forEach(function(btn){
-        btn.addEventListener('click', function(){
-          var wrap = btn.closest('.datatable-wrap');
-          var hidden = wrap.classList.toggle('col-hidden');
-          var label = hidden ? btn.dataset.labelShow : btn.dataset.labelHide;
+        var wrap = btn.closest('.datatable-wrap');
+        var idx = parseInt(wrap.dataset.hideCol, 10) - 1;
+        var pristine = wrap.querySelector('table').cloneNode(true);
+        var shown = false;
+        function build(){
+          var t = pristine.cloneNode(true);
+          if(!shown){
+            Array.prototype.forEach.call(t.rows, function(tr){
+              tr.removeChild(tr.cells[idx]);
+            });
+          }
+          return t;
+        }
+        function render(){
+          var old = wrap.querySelector('table');
+          var t = build();
+          t.style.display = old.style.display; // stay hidden while the list is shown
+          old.parentNode.replaceChild(t, old);
+          var label = shown ? btn.dataset.labelHide : btn.dataset.labelShow;
           btn.textContent = label;
           btn.setAttribute('aria-label', label);
+        }
+        render();
+        btn.addEventListener('click', function(){
+          shown = !shown;
+          render();
         });
       });
     })();
@@ -129,8 +152,10 @@
           var wrap = btn.closest('.datatable-wrap');
           var table = wrap.querySelector('table');
           var list = wrap.querySelector('ul.table-as-list');
+          var colBtn = wrap.querySelector('.toggle-col-btn');
           if(list){
             list.remove();
+            if(colBtn) colBtn.hidden = false;
             table.style.display='';
             btn.textContent=btn.dataset.labelList;
             btn.setAttribute('aria-label', btn.dataset.labelList);
@@ -149,6 +174,7 @@
               }
             });
             table.style.display='none';
+            if(colBtn) colBtn.hidden = true;
             wrap.appendChild(ul);
             btn.textContent=btn.dataset.labelTable;
             btn.setAttribute('aria-label', btn.dataset.labelTable);
