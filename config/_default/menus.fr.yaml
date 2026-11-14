@@ -2,5 +2,15 @@ main:
   - name: Accueil
     pageRef: /
     weight: 1
-
-
+  - name: Notes de lecture Braille arabe
+    pageRef: /general_reading_notes
+    weight: 5
+  - name: Points Braille
+    pageRef: /braille_dots
+    weight: 4
+  - name: Tous les symboles Braille
+    pageRef: /all_symbols
+    weight: 7
+  - name: Système koweïtien
+    pageRef: /kuwaiti_system
+    weight: 8

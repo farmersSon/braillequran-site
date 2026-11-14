@@ -1,6 +1,7 @@
 ---
 weight: 5
 draft: false
+title: 'Leçon 5 : Allongements (Madd)'
 summary: "Lettres d'allongement : écriture Braille des allongements Alif, Waw et Ya."
 ---
 ## Leçon 5 : Allongements (Madd)

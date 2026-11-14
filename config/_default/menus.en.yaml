@@ -2,3 +2,15 @@ main:
   - name: Home
     pageRef: /
     weight: 1
+  - name: Arabic Braille Reading Notes
+    pageRef: /general_reading_notes
+    weight: 5
+  - name: Braille Dots
+    pageRef: /braille_dots
+    weight: 4
+  - name: All Braille Symbols
+    pageRef: /all_symbols
+    weight: 7
+  - name: Kuwaiti System
+    pageRef: /kuwaiti_system
+    weight: 8

@@ -1,4 +1,16 @@
 main:
   - name: Startseite
     pageRef: /
-    weight: 1 
+    weight: 1
+  - name: Arabische Braille-Lesehinweise
+    pageRef: /general_reading_notes
+    weight: 5
+  - name: Braille-Punkte
+    pageRef: /braille_dots
+    weight: 4
+  - name: Alle Braille-Symbole
+    pageRef: /all_symbols
+    weight: 7
+  - name: Kuwait-System
+    pageRef: /kuwaiti_system
+    weight: 8
