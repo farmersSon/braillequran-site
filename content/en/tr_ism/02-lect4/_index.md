@@ -6,7 +6,7 @@ summary: "Sukun and Shadda: Braille signs for quiescent and doubled letters."
 ---
 ## Lesson 4: Sukun and Shadda
 
-Sukun: The sign ⠠(dots 2,5) placed after the letter. It connects the letter to the previous one and makes it pronounced without a vowel (quiescent).
+Sukun: The sign ⠠(dots 2 5) placed after the letter. It connects the letter to the previous one and makes it pronounced without a vowel (quiescent).
 
 ### Examples
 

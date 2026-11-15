@@ -11,7 +11,7 @@ Tanwin bedeutet Nunation. Es kommt nur am Wortende vor und zeigt an, dass das Wo
 
 ## Fatha-Tanwin
 
-Fatha-Tanwin: (Doppel-Fatha) Das Zeichen ([اً]) ⠁⠆(Punkte 2,3). Wenn der vorangehende Buchstabe emphatisch ist, wird das Wort mit 'an' abgeschlossen, wenn nicht-emphatisch mit 'en'.
+Fatha-Tanwin: (Doppel-Fatha) Das Zeichen ([اً]) ⠁⠆(Punkte 2 3). Wenn der vorangehende Buchstabe emphatisch ist, wird das Wort mit 'an' abgeschlossen, wenn nicht-emphatisch mit 'en'.
 
 ### Fatha-Tanwin Beispiele
 
@@ -19,7 +19,7 @@ Fatha-Tanwin: (Doppel-Fatha) Das Zeichen ([اً]) ⠁⠆(Punkte 2,3). Wenn der v
 
 ## Kasra-Tanwin
 
-Kasra-Tanwin: (Doppel-Kasra) Wenn der vorangehende Buchstabe emphatisch ist, wird er als 'ın' ausgesprochen, wenn nicht-emphatisch als 'in'. In Braille wird es mit ⠔(Punkte 3,5) dargestellt.
+Kasra-Tanwin: (Doppel-Kasra) Wenn der vorangehende Buchstabe emphatisch ist, wird er als 'ın' ausgesprochen, wenn nicht-emphatisch als 'in'. In Braille wird es mit ⠔(Punkte 3 5) dargestellt.
 
 ### Kasra-Tanwin Beispiele
 
@@ -27,7 +27,7 @@ Kasra-Tanwin: (Doppel-Kasra) Wenn der vorangehende Buchstabe emphatisch ist, wir
 
 ## Damma-Tanwin
 
-Damma-Tanwin: Wird mit ⠢(Punkte 2,6) dargestellt. Es lässt den vorangehenden Buchstaben mit 'un' aussprechen.
+Damma-Tanwin: Wird mit ⠢(Punkte 2 6) dargestellt. Es lässt den vorangehenden Buchstaben mit 'un' aussprechen.
 
 ### Damma-Tanwin Beispiele
 

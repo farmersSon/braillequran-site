@@ -6,7 +6,7 @@ summary: "Sukun et Shadda : signes Braille pour les lettres quiescentes et doubl
 ---
 ## Leçon 4 : Sukun et Shadda
 
-Sukun : Le signe ⠠(points 2,5) placé après la lettre. Il relie la lettre à la précédente et la fait prononcer sans voyelle (quiescente).
+Sukun : Le signe ⠠(points 2 5) placé après la lettre. Il relie la lettre à la précédente et la fait prononcer sans voyelle (quiescente).
 
 ### Exemples
 

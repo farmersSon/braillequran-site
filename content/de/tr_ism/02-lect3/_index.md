@@ -16,7 +16,7 @@ Fatha: Das Zeichen ⠂(Punkt 2), das nach dem Buchstaben gesetzt wird. Es lässt
 
 ## Kasra
 
-Kasra: Das Zeichen ⠑(Punkte 1,5), das nach dem Buchstaben gesetzt wird. Es lässt emphatische Buchstaben mit einem 'ı'-ähnlichen Laut und nicht-emphatische mit 'i' aussprechen.
+Kasra: Das Zeichen ⠑(Punkte 1 5), das nach dem Buchstaben gesetzt wird. Es lässt emphatische Buchstaben mit einem 'ı'-ähnlichen Laut und nicht-emphatische mit 'i' aussprechen.
 
 ### Beispiele
 
@@ -24,7 +24,7 @@ Kasra: Das Zeichen ⠑(Punkte 1,5), das nach dem Buchstaben gesetzt wird. Es lä
 
 ## Damma
 
-Damma: Das Zeichen ⠥(Punkte 1,3,6), das nach dem Buchstaben gesetzt wird. Es lässt sowohl emphatische als auch nicht-emphatische Buchstaben mit 'u' aussprechen.
+Damma: Das Zeichen ⠥(Punkte 1 3 6), das nach dem Buchstaben gesetzt wird. Es lässt sowohl emphatische als auch nicht-emphatische Buchstaben mit 'u' aussprechen.
 
 ### Beispiele
 

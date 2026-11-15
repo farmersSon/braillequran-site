@@ -12,8 +12,8 @@ Lorsque les lettres [ا], [و] et [ي] sont vocalisées, elles servent de lettre
 [و] (Waw) en 'uu' et [ي] (Ya) en 'ii'.
 
 De plus, il existe dans le texte coranique certains endroits non visibles mais qui doivent être allongés. On les appelle allongements cachés. [ٰ] (Alif caché) ⠈(point 4) est allongé en 'aa',
-[ِ] (Ya caché) ⠘(points 4,5) est allongé en 'ii'
-et [ُ] (Waw caché) ⠬(points 2,4,5,6) est allongé en 'uu' d'une mesure d'Alif.
+[ِ] (Ya caché) ⠘(points 4 5) est allongé en 'ii'
+et [ُ] (Waw caché) ⠬(points 2 4 5 6) est allongé en 'uu' d'une mesure d'Alif.
 
 ### Exemples d'allongement Alif ouvert et caché
 

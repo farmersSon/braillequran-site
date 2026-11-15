@@ -8,11 +8,11 @@ summary: "Four types of Hamza and their representation in the Braille alphabet."
 
 When the letter Alif in the Arabic alphabet is vowelized, it is called Hamza. According to their appearance in a word, there are four types of Hamza:
 
-*  Hamza-Alif: [إ] ⠌ (dots 3,4)
+*  Hamza-Alif: [إ] ⠌ (dots 3 4)
 
-*  Waw-Hamza: [ؤ] ⠳ (dots 1,2,5,6)
+*  Waw-Hamza: [ؤ] ⠳ (dots 1 2 5 6)
 
-*  Ya-Hamza: [ئ] ⠽ (dots 1,3,4,5,6) and
+*  Ya-Hamza: [ئ] ⠽ (dots 1 3 4 5 6) and
 
 *  Hamza: [ء] ⠄ (dot 3)
 

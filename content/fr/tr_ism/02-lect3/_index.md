@@ -16,7 +16,7 @@ Fatha : Le signe ⠂(point 2) placé après la lettre. Il fait prononcer les let
 
 ## Kasra
 
-Kasra : Le signe ⠑(points 1,5) placé après la lettre. Il fait prononcer les lettres emphatiques avec un son proche de 'ı' et les non-emphatiques avec 'i'.
+Kasra : Le signe ⠑(points 1 5) placé après la lettre. Il fait prononcer les lettres emphatiques avec un son proche de 'ı' et les non-emphatiques avec 'i'.
 
 ### Exemples
 

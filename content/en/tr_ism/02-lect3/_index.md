@@ -16,7 +16,7 @@ Fatha: The sign ⠂(dot 2) placed after the letter. It makes emphatic letters so
 
 ## Kasra
 
-Kasra: The sign ⠑(dots 1,5) placed after the letter. It makes emphatic letters sound close to 'ı' and non-emphatic letters as 'i'.
+Kasra: The sign ⠑(dots 1 5) placed after the letter. It makes emphatic letters sound close to 'ı' and non-emphatic letters as 'i'.
 
 ### Examples
 
@@ -24,7 +24,7 @@ Kasra: The sign ⠑(dots 1,5) placed after the letter. It makes emphatic letters
 
 ## Damma
 
-Damma: The sign ⠥(dots 1,3,6) placed after the letter. It makes both emphatic and non-emphatic letters sound as 'u'.
+Damma: The sign ⠥(dots 1 3 6) placed after the letter. It makes both emphatic and non-emphatic letters sound as 'u'.
 
 ### Examples
 

@@ -8,11 +8,11 @@ summary: "Vier Hamza-Varianten und ihre Darstellung im Braille-Alphabet."
 
 Wenn der Buchstabe Alif im arabischen Alphabet vokalisiert wird, wird er als Hamza bezeichnet. Je nach Position im Wort gibt es vier Arten von Hamza:
 
-*  Hamza-Alif: [إ] ⠌ (Punkte 3,4)
+*  Hamza-Alif: [إ] ⠌ (Punkte 3 4)
 
-*  Waw-Hamza: [ؤ] ⠳ (Punkte 1,2,5,6)
+*  Waw-Hamza: [ؤ] ⠳ (Punkte 1 2 5 6)
 
-*  Ya-Hamza: [ئ] ⠽ (Punkte 1,3,4,5,6) und
+*  Ya-Hamza: [ئ] ⠽ (Punkte 1 3 4 5 6) und
 
 *  Hamza: [ء] ⠄ (Punkt 3)
 

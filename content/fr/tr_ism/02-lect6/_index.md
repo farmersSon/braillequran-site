@@ -8,11 +8,11 @@ summary: "Quatre variantes de Hamza et leur représentation dans l'alphabet Brai
 
 Lorsque la lettre Alif de l'alphabet arabe est vocalisée, elle est appelée Hamza. Selon sa position dans le mot, il existe quatre types de Hamza :
 
-*  Hamza-Alif : [إ] ⠌ (points 3,4)
+*  Hamza-Alif : [إ] ⠌ (points 3 4)
 
-*  Waw-Hamza : [ؤ] ⠳ (points 1,2,5,6)
+*  Waw-Hamza : [ؤ] ⠳ (points 1 2 5 6)
 
-*  Ya-Hamza : [ئ] ⠽ (points 1,3,4,5,6) et
+*  Ya-Hamza : [ئ] ⠽ (points 1 3 4 5 6) et
 
 *  Hamza : [ء] ⠄ (point 3)
 

@@ -9,7 +9,7 @@ summary: "Alif-Dehnungen: Alif-Madd, Alif Maqsura und Waw-Alif Braille-Zeichen."
 
 ## Alif-Madd
 
-Im Mushaf ist es ein Alif mit einem aufrechten Fatha darüber. In Braille ist es das Zeichen ⠜(Punkte 3,4,5), es wird um ein Alif-Maß als 'aa' gedehnt ausgesprochen.
+Im Mushaf ist es ein Alif mit einem aufrechten Fatha darüber. In Braille ist es das Zeichen ⠜(Punkte 3 4 5), es wird um ein Alif-Maß als 'aa' gedehnt ausgesprochen.
 
 ### Alif-Madd Beispiele
 
@@ -17,7 +17,7 @@ Im Mushaf ist es ein Alif mit einem aufrechten Fatha darüber. In Braille ist es
 
 ## Alif Maqsura
 
-Im Mushaf erscheint es als offenes Ya oder als Strich mit einem darüberliegenden Zeichen. In Braille wird es mit ⠕(Punkte 1,3,5) dargestellt. Es dehnt den vorangehenden Buchstaben um ein Alif-Maß als 'aa'.
+Im Mushaf erscheint es als offenes Ya oder als Strich mit einem darüberliegenden Zeichen. In Braille wird es mit ⠕(Punkte 1 3 5) dargestellt. Es dehnt den vorangehenden Buchstaben um ein Alif-Maß als 'aa'.
 
 ### Alif Maqsura Beispiele
 
@@ -25,7 +25,7 @@ Im Mushaf erscheint es als offenes Ya oder als Strich mit einem darüberliegende
 
 ## Waw-Alif
 
-Im Mushaf wird es als Waw mit einem darüberliegenden Zeichen geschrieben; es dehnt den vorangehenden Buchstaben als 'aa' und wird als ⠼(Punkte 3,4,5,6) geschrieben. Es wird in wenigen Wörtern verwendet.
+Im Mushaf wird es als Waw mit einem darüberliegenden Zeichen geschrieben; es dehnt den vorangehenden Buchstaben als 'aa' und wird als ⠼(Punkte 3 4 5 6) geschrieben. Es wird in wenigen Wörtern verwendet.
 
 ### Waw-Alif Beispiele
 

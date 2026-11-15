@@ -7,7 +7,7 @@ summary: "Ta Marbuta: Braille-Schreibung des runden Ta."
 
 ## Lektion 8: Ta Marbuta (rundes Ta)
 
-Es steht am Wortende und zeigt an, dass das Wort weiblich (feminin) ist. In Braille wird es mit ⠡(Punkte 1,6) dargestellt. Anders als das offene Ta verwandelt es sich am Wortende beim Anhalten in ein stilles Ha; beim Weiterleiten übernimmt es die Funktion eines vokalisierten Ta.
+Es steht am Wortende und zeigt an, dass das Wort weiblich (feminin) ist. In Braille wird es mit ⠡(Punkte 1 6) dargestellt. Anders als das offene Ta verwandelt es sich am Wortende beim Anhalten in ein stilles Ha; beim Weiterleiten übernimmt es die Funktion eines vokalisierten Ta.
 
 ### Beispiele
 
