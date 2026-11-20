@@ -25,6 +25,7 @@
           href="/{{ .Language.Lang }}/"
           {{ if $isCurrent }}aria-current="true"{{ end }}
           lang="{{ .Language.Lang }}"
+          data-lang="{{ .Language.Lang }}"
         >{{ .Language.Label }}</a>
       </li>
     {{ end }}
@@ -36,6 +37,13 @@
     var btn = wrap.querySelector('button');
     var menu = wrap.querySelector('[role="menu"]');
     var items = menu.querySelectorAll('[role="menuitem"]');
+
+    menu.addEventListener('click', function(e){
+      var link = e.target.closest('[data-lang]');
+      if(link){
+        try { localStorage.setItem('preferred-lang', link.getAttribute('data-lang')); } catch (err) {}
+      }
+    });
 
     function open(){
       btn.setAttribute('aria-expanded','true');

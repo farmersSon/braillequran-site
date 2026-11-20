@@ -7,12 +7,19 @@
     {{ if eq .Page.Kind "home" }}
     <script>
       var supported = [{{ range $i, $s := hugo.Sites }}{{ if $i }},{{ end }}"{{ $s.Language.Lang }}"{{ end }}];
-      var langs = navigator.languages || [navigator.language || "en"];
       var match = "{{ .Page.Site.Language.Lang }}";
-      for (var i = 0; i < langs.length; i++) {
-        var code = langs[i].split("-")[0].toLowerCase();
-        if (supported.indexOf(code) !== -1) { match = code; break; }
+      var stored = null;
+      try { stored = localStorage.getItem('preferred-lang'); } catch (e) {}
+      if (stored && supported.indexOf(stored) !== -1) {
+        match = stored;
+      } else {
+        var langs = navigator.languages || [navigator.language || "en"];
+        for (var i = 0; i < langs.length; i++) {
+          var code = langs[i].split("-")[0].toLowerCase();
+          if (supported.indexOf(code) !== -1) { match = code; break; }
+        }
       }
+      try { localStorage.setItem('preferred-lang', match); } catch (e) {}
       window.location.replace("/" + match + "/");
     </script>
     {{ else }}
