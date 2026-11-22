@@ -44,6 +44,9 @@ params:
   background_color_class: "bg-dark-blue"
   ananke:
     show_recent_posts: false
+    social:
+      share:
+        disable_share: true
 
 outputs:
   home:
