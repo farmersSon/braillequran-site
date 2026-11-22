@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 11
 title: 'Lektion 11: Wichtige Erläuterungen'

@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 3
 title: 'Lektion 3: Vokalisierungszeichen'

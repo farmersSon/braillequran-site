@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 6
 draft: false 
 title: 'Ders 6: Hemzeler'

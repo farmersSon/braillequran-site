@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 11
 draft: false 
 title: 'Ders 11: Önemli açıklamalar'

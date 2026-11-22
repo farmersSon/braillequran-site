@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 2
 title: 'Lesson 2: Articulation Points'

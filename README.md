@@ -139,6 +139,7 @@ The `{{</* sections */>}}` shortcode auto-lists all child sections and pages. Us
 | `weight`      | No       | Sort order (lower = first)           |
 | `description` | No       | Meta description / subtitle          |
 | `draft`       | No       | Set `true` to exclude from builds    |
+| `reviewed`    | No       | Set `true` to hide the AI-translation badge; default `false` shows it |
 
 ### Removing content
 
@@ -150,10 +151,11 @@ The following layouts override the Ananke theme:
 
 | File | Purpose |
 |------|---------|
-| `layouts/baseof.html` | Injects breadcrumbs, dark mode styles and the dark mode / table-list toggle scripts into every page |
+| `layouts/baseof.html` | Injects breadcrumbs, the AI-translation badge, dark mode styles and the dark mode / table-list toggle scripts into every page |
 | `layouts/partials/site-footer.html` | Custom footer with "© {year} umektumacademy.com" |
 | `layouts/partials/i18nlist.html` | Language switcher showing all languages (not just translated pages) |
 | `layouts/partials/breadcrumb.html` | Accessible breadcrumb trail |
+| `layouts/partials/review-notice.html` | Badge shown when `reviewed` is not `true`, with localized wording |
 | `layouts/shortcodes/ar.html` | Wraps Arabic text in `<span lang="ar" dir="rtl">` so screen readers use an Arabic voice. Usage: `{{</* ar */>}}بسم الله{{</* /ar */>}}` |
 | `layouts/partials/lesson-nav.html` | Previous/next links below each lesson, ordered by `weight` |
 | `layouts/partials/lesson-bookmark.html` | Remembers the lesson last opened, in `localStorage` |

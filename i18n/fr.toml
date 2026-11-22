@@ -54,3 +54,9 @@ other = "Afficher les points Braille"
 
 [hide_dots]
 other = "Masquer les points Braille"
+
+[review_notice_label]
+other = "Statut de la vérification de la traduction"
+
+[review_notice_text]
+other = "Traduit par IA — pas encore vérifié par une personne"

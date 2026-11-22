@@ -179,6 +179,7 @@ All content files are Markdown with YAML front matter:
 title: "Translated Title"    ← TRANSLATE this
 weight: 1                    ← KEEP as-is
 description: "Optional"      ← TRANSLATE if present
+reviewed: false              ← KEEP as-is until a human checks the page
 ---
 
 Translated body text here.
@@ -189,6 +190,8 @@ Translated body text here.
 ## Tips
 
 - Use the English content as the source of truth. When in doubt, match the English structure.
+- AI-generated translations start with `reviewed: false`, which displays the "not yet reviewed" badge. Set it to `true` only after a human has checked the page.
+
 - File and folder names are never translated — only the content inside the files.
 - You can preview your work locally by running `hugo server --environment development` and navigating to `http://localhost:1313/<lang>/`.
 - If a page is not yet translated, it simply won't appear in that language's navigation. There is no need for placeholder files.

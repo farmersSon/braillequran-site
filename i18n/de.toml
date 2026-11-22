@@ -54,3 +54,9 @@ other = "Braille-Punkte anzeigen"
 
 [hide_dots]
 other = "Braille-Punkte ausblenden"
+
+[review_notice_label]
+other = "Status der Übersetzungsprüfung"
+
+[review_notice_text]
+other = "KI-übersetzt — noch nicht von einem Menschen geprüft"

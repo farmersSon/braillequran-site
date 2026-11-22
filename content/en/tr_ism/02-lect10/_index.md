@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 10
 title: 'Lesson 10: [ال] (Alif-Lam) Article (Definite Article)'

@@ -1,4 +1,5 @@
 ---
+reviewed: false
 weight: 6
 draft: false
 title: 'Leçon 6 : Variantes de Hamza'

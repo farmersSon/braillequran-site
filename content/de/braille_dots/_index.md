@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 title: 'Braille-Punkte'
 summary: "Das Braille-Sechs-Punkte-System und die Tabelle der Punktnummerierung."

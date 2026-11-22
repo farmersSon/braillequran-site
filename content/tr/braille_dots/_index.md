@@ -1,4 +1,5 @@
 ---
+reviewed: true
 draft: false 
 title: 'Braille noktalar'
 summary: "Braille altı nokta sistemi ve nokta numaralandırma tablosu."

@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 title: 'Reading Notes'
 summary: "Quran Braille reading rules: direction, vowel writing and important notes."

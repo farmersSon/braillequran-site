@@ -1,0 +1,6 @@
+{{- if and .File (not .Params.reviewed) }}
+<aside class="review-notice" role="note" aria-label="{{ i18n "review_notice_label" }}">
+  <span class="review-notice-icon" aria-hidden="true">⚠</span>
+  <span>{{ i18n "review_notice_text" }}</span>
+</aside>
+{{- end }}

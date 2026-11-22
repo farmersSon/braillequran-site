@@ -1,4 +1,5 @@
 ---
+reviewed: true
 title: "Hakkında"
 weight: 1
 description: "BrailleQuran projesi hakkında bilgi – misyonumuz ve ekibimiz."

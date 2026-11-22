@@ -1,4 +1,5 @@
 ---
+reviewed: true
 title: Bütün Braille Semboller
 summary: "Kur'an Braille yazısında kullanılan tüm semboller ve nokta numaraları."
 ---

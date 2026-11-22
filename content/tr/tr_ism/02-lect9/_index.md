@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 9
 draft: false 
 title: 'Ders 9: Elif Uzatmalar'

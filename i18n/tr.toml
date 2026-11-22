@@ -54,3 +54,9 @@ other = "Braille noktalarını göster"
 
 [hide_dots]
 other = "Braille noktalarını gizle"
+
+[review_notice_label]
+other = "Çeviri inceleme durumu"
+
+[review_notice_text]
+other = "Yapay zekâ ile çevrildi — henüz bir insan tarafından kontrol edilmedi"

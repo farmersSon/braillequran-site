@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 6
 title: 'Lektion 6: Hamza-Varianten'

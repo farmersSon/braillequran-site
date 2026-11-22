@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 7
 draft: false 
 title: 'Ders 7: Tenvinler'

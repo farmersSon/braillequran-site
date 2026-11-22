@@ -1,4 +1,5 @@
 ---
+reviewed: true
 draft: false
 title: 'Okuma Notları'
 summary: "Braille Kur'an okuma kuralları: yön, hareke yazımı ve önemli notlar."

@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 title: 'Lesehinweise'
 summary: "Regeln zum Lesen des Korans in Braille: Leserichtung, Schreibung der Vokalzeichen und wichtige Hinweise."

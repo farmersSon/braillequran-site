@@ -1,4 +1,5 @@
 ---
+reviewed: false
 title: All Braille Symbols
 summary: "All symbols and dot numbers used in Quran Braille script."
 ---

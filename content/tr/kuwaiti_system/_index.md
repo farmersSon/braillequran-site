@@ -1,4 +1,5 @@
 ---
+reviewed: true
 date: '2025-10-26T11:19:28+01:00'
 draft: false 
 title: 'Kuveyt Sistemi'

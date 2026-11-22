@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 3
 draft: false 
 title: 'Ders 3: Harekeler'

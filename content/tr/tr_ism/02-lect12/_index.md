@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 12
 draft: false 
 title: 'Ders 12: Durak işaretleri'

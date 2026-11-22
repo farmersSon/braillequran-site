@@ -1,4 +1,5 @@
 ---
+reviewed: false
 title: "À propos"
 weight: 1
 description: "Informations sur le projet BrailleQuran – notre mission et notre équipe."

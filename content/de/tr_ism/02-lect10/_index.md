@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 10
 title: 'Lektion 10: [ال] (Alif-Lam) Artikel (Bestimmungswort)'

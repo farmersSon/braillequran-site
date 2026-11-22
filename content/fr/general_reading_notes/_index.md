@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 title: 'Notes de lecture'
 summary: "Règles de lecture du Coran en Braille : sens de lecture, écriture des voyelles et notes importantes."

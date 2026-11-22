@@ -1,4 +1,5 @@
 ---
+reviewed: true
 draft: false
 title: 'Önsöz'
 summary: "Braillequran'ın amacı: görme engellilerin Kur'an'ı Braille ile öğrenebilmesi."

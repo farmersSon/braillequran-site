@@ -1,4 +1,5 @@
 ---
+reviewed: false
 draft: false
 weight: 12
 title: 'Lektion 12: Pausenzeichen'

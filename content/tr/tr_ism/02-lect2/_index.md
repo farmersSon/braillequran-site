@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 2
 draft: false 
 title: 'Ders 2: Mahreçler'

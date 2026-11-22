@@ -54,3 +54,9 @@ other = "Show Braille dots"
 
 [hide_dots]
 other = "Hide Braille dots"
+
+[review_notice_label]
+other = "Translation review status"
+
+[review_notice_text]
+other = "AI-translated — not yet reviewed by a human"

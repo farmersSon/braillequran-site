@@ -1,4 +1,5 @@
 ---
+reviewed: false
 title: Tous les symboles Braille
 summary: "Tous les symboles et numéros de points utilisés dans l'écriture Braille coranique."
 ---

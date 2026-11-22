@@ -1,4 +1,5 @@
 ---
+reviewed: true
 weight: 8
 draft: false 
 title: 'Ders 8: Te-i Merbuta (yuvarlak te)'
