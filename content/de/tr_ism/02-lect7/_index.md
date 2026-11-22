@@ -13,6 +13,10 @@ Tanwin bedeutet Nunation. Es kommt nur am Wortende vor und zeigt an, dass das Wo
 
 Fatha-Tanwin: (Doppel-Fatha) Das Zeichen ([اً]) ⠁⠆(Punkte 2 3). Wenn der vorangehende Buchstabe emphatisch ist, wird das Wort mit 'an' abgeschlossen, wenn nicht-emphatisch mit 'en'.
 
+#### Hinweis
+
+In einigen Absätzen wurden in der Braille-Ausgabe des Elif-Juz Wörter geschrieben, die nicht zum Thema gehören. Um auf diesen Punkt aufmerksam zu machen und zugleich die Anordnung in der Braille-Ausgabe nicht zu stören, wurde das in diesem Fall arabisch geschriebene Wort gelb markiert.
+
 ### Fatha-Tanwin Beispiele
 
 {{< datatable listable="true" src="tr_ism/02-lect7/ustun_tenvin" headers="Arabisch|Braille" >}}

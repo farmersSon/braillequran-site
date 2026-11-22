@@ -13,6 +13,10 @@ Tanwin signifie nunation. Il n'apparaît qu'en fin de mot et indique que le mot 
 
 Tanwin Fatha : (Double Fatha) Le signe ([اً]) ⠁⠆(points 2 3). Si la lettre précédente est emphatique, le mot se termine par 'an' ; si non-emphatique, par 'en'.
 
+#### Remarque
+
+Dans certains paragraphes, des mots sans rapport avec le sujet ont été écrits dans l'édition Braille du juz Elif. Pour attirer l'attention sur ce point et en même temps ne pas perturber la disposition dans l'édition Braille, le mot écrit en arabe dans ce cas a été marqué en jaune.
+
 ### Exemples Tanwin Fatha
 
 {{< datatable listable="true" src="tr_ism/02-lect7/ustun_tenvin" headers="Arabe|Braille" >}}

@@ -20,9 +20,15 @@ vardır:
 
 
 ile belirtilir. Hepsi de harekelerine göre 'e ', 'i ', 'u ' şeklinde
-okunur. **NOT:** Arapça'da duruma göre elifin üstüne yada altına hemze
-yazılır. Kolaylıkla okunması için Braille alfabesinde bu fark
-edinmemektir ve yukarıda belirtildiği şekilde yazılır.
+okunur.
+
+#### Notlar
+
+1.  Arapça'da duruma göre elifin üstüne yada altına hemze
+    yazılır. Kolaylıkla okunması için Braille alfabesinde bu fark
+    edinmemektir ve yukarıda belirtildiği şekilde yazılır.
+
+2.  Bazı paragraflarda konuyla ilgili olmayan kelimeler Elif cüz'ünün Braille baskısında yazılmıştır. Bu hususa dikkat çekmek ve aynı zamanda Braille baskıdaki düzeni bozmamak için, bu durumda Arapça yazılan kelime sarı renkle işaretlenmiştir.
 
 ### Hemzeelif örnekler
 

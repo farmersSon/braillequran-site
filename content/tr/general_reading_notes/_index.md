@@ -13,13 +13,6 @@ summary: "Braille Kur'an okuma kuralları: yön, hareke yazımı ve önemli notl
   [لَ] yazdığında, üstün Braille alfabesinde lam harfinin
   arkasına yazılır.
 
-- Bazı paragraflarda konularla ilgili olmayan kelimeler Elif cüz'ün
-  Braille baskısında yazılmıştır. Örneğin, hemzeler konuyu işleyen
-  paragraf'da tenvinli örnek bulunmaktadır. Halbuki tenvinler tertib
-  açısından hemzelerden sonra işlenmektedir. Bu hususa dikkat çekmek ve
-  aynı zamanda Braille baskıda ki düzeni bozmamak için, bu durumda
-  Arapça yazılan kelime sarı renk ile işaretlendirildi.
-
 - Arapçada harfın şekli bir kelimede alan yerine göre değişiyor. Braille
   de ise *her daim* harfın tek bir şekli bulunmaktadır.
 

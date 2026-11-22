@@ -17,7 +17,13 @@ Wenn der Buchstabe Alif im arabischen Alphabet vokalisiert wird, wird er als Ham
 *  Hamza: [ء] ⠄ (Punkt 3)
 
 
-werden so dargestellt. Alle werden je nach Vokalisierung als 'e', 'i' oder 'u' ausgesprochen. **HINWEIS:** Im Arabischen wird die Hamza je nach Situation über oder unter das Alif geschrieben. Zur leichteren Lesbarkeit wird dieser Unterschied im Braille-Alphabet nicht berücksichtigt und wie oben angegeben geschrieben.
+werden so dargestellt. Alle werden je nach Vokalisierung als 'e', 'i' oder 'u' ausgesprochen.
+
+#### Hinweise
+
+1.  Im Arabischen wird die Hamza je nach Situation über oder unter das Alif geschrieben. Zur leichteren Lesbarkeit wird dieser Unterschied im Braille-Alphabet nicht berücksichtigt und wie oben angegeben geschrieben.
+
+2.  In einigen Absätzen wurden in der Braille-Ausgabe des Elif-Juz Wörter geschrieben, die nicht zum Thema gehören. Um auf diesen Punkt aufmerksam zu machen und zugleich die Anordnung in der Braille-Ausgabe nicht zu stören, wurde das in diesem Fall arabisch geschriebene Wort gelb markiert.
 
 ### Hamza-Alif Beispiele
 

@@ -11,6 +11,10 @@ summary: "Allongements Alif : signes Braille Alif-Madd, Alif Maqsura et Waw-Alif
 
 Dans le Mushaf, c'est un Alif avec un Fatha vertical au-dessus. En Braille, c'est le signe ⠜(points 3 4 5), il se prononce allongé d'une mesure d'Alif en 'aa'.
 
+#### Remarque
+
+Dans certains paragraphes, des mots sans rapport avec le sujet ont été écrits dans l'édition Braille du juz Elif. Pour attirer l'attention sur ce point et en même temps ne pas perturber la disposition dans l'édition Braille, le mot écrit en arabe dans ce cas a été marqué en jaune.
+
 ### Exemples Alif-Madd
 
 {{< datatable listable="true" src="tr_ism/02-lect9/elifmed" headers="Arabe|Braille" >}}

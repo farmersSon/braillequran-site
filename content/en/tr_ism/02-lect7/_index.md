@@ -13,6 +13,10 @@ Tanwin means nunation. It only occurs at the end of words and indicates that the
 
 Fatha Tanwin: (Double Fatha) The sign ([اً]) ⠁⠆(dots 2 3). If the preceding letter is emphatic, the word ends with 'an'; if non-emphatic, with 'en'.
 
+#### Note
+
+In some paragraphs, words unrelated to the topic have been written in the Braille edition of the Elif juz. To draw attention to this point and at the same time not to disrupt the layout in the Braille edition, the word written in Arabic in this case has been marked in yellow.
+
 ### Fatha Tanwin Examples
 
 {{< datatable listable="true" src="tr_ism/02-lect7/ustun_tenvin" headers="Arabic|Braille" >}}

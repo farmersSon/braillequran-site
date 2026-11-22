@@ -11,6 +11,10 @@ summary: "Alif elongations: Alif-Madd, Alif Maqsura and Waw-Alif Braille signs."
 
 In the Mushaf it is an Alif with an upright Fatha above it. In Braille it is the sign ⠜(dots 3 4 5), it is pronounced elongated by one Alif measure as 'aa'.
 
+#### Note
+
+In some paragraphs, words unrelated to the topic have been written in the Braille edition of the Elif juz. To draw attention to this point and at the same time not to disrupt the layout in the Braille edition, the word written in Arabic in this case has been marked in yellow.
+
 ### Alif-Madd Examples
 
 {{< datatable listable="true" src="tr_ism/02-lect9/elifmed" headers="Arabic|Braille" >}}

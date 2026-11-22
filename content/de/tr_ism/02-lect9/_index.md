@@ -11,6 +11,10 @@ summary: "Alif-Dehnungen: Alif-Madd, Alif Maqsura und Waw-Alif Braille-Zeichen."
 
 Im Mushaf ist es ein Alif mit einem aufrechten Fatha darüber. In Braille ist es das Zeichen ⠜(Punkte 3 4 5), es wird um ein Alif-Maß als 'aa' gedehnt ausgesprochen.
 
+#### Hinweis
+
+In einigen Absätzen wurden in der Braille-Ausgabe des Elif-Juz Wörter geschrieben, die nicht zum Thema gehören. Um auf diesen Punkt aufmerksam zu machen und zugleich die Anordnung in der Braille-Ausgabe nicht zu stören, wurde das in diesem Fall arabisch geschriebene Wort gelb markiert.
+
 ### Alif-Madd Beispiele
 
 {{< datatable listable="true" src="tr_ism/02-lect9/elifmed" headers="Arabisch|Braille" >}}

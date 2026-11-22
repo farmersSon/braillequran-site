@@ -17,7 +17,13 @@ Lorsque la lettre Alif de l'alphabet arabe est vocalisée, elle est appelée Ham
 *  Hamza : [ء] ⠄ (point 3)
 
 
-sont représentées ainsi. Toutes se prononcent 'e', 'i' ou 'u' selon leur vocalisation. **NOTE :** En arabe, la Hamza est écrite au-dessus ou au-dessous de l'Alif selon la situation. Pour faciliter la lecture, cette distinction n'est pas faite dans l'alphabet Braille et elle est écrite comme indiqué ci-dessus.
+sont représentées ainsi. Toutes se prononcent 'e', 'i' ou 'u' selon leur vocalisation.
+
+#### Remarques
+
+1.  En arabe, la Hamza est écrite au-dessus ou au-dessous de l'Alif selon la situation. Pour faciliter la lecture, cette distinction n'est pas faite dans l'alphabet Braille et elle est écrite comme indiqué ci-dessus.
+
+2.  Dans certains paragraphes, des mots sans rapport avec le sujet ont été écrits dans l'édition Braille du juz Elif. Pour attirer l'attention sur ce point et en même temps ne pas perturber la disposition dans l'édition Braille, le mot écrit en arabe dans ce cas a été marqué en jaune.
 
 ### Exemples Hamza-Alif
 

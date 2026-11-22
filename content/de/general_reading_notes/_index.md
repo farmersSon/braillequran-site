@@ -14,13 +14,6 @@ summary: "Regeln zum Lesen des Korans in Braille: Leserichtung, Schreibung der V
   Beispiel: Wenn [لَ] geschrieben wird, wird die Fatha im Braille-Alphabet hinter den
   Buchstaben Lam gesetzt.
 
-- In einigen Absätzen wurden in der Braille-Ausgabe des Elif-Juz Wörter geschrieben, die
-  nicht zum Thema gehören. Zum Beispiel findet sich im Absatz, der die Hamza behandelt,
-  ein Beispiel mit Tanwin. Hinsichtlich der Reihenfolge wird das Tanwin jedoch erst nach
-  der Hamza behandelt. Um auf diesen Punkt aufmerksam zu machen und zugleich die Anordnung
-  in der Braille-Ausgabe nicht zu stören, wurde das in diesem Fall arabisch geschriebene
-  Wort gelb markiert.
-
 - Im Arabischen ändert sich die Form eines Buchstabens je nach seiner Position in einem
   Wort. In Braille hingegen hat jeder Buchstabe *stets* nur eine einzige Form.
 

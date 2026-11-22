@@ -16,6 +16,10 @@ kelimenin belirsiz (nekeri) isim olduğunu ifade eder. Üç çeşittir:
 arkasına geldiği harf kalın ise kelimeyi 'an 'ince ise 'en 'şeklinde
 tamamlar.
 
+#### Not
+
+Bazı paragraflarda konuyla ilgili olmayan kelimeler Elif cüz'ünün Braille baskısında yazılmıştır. Bu hususa dikkat çekmek ve aynı zamanda Braille baskıdaki düzeni bozmamak için, bu durumda Arapça yazılan kelime sarı renkle işaretlenmiştir.
+
 ### Üstün tenvinler örnekler
 
 {{< datatable listable="true" src="tr_ism/02-lect7/ustun_tenvin" headers="Arapca|Braille" >}}

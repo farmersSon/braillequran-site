@@ -13,13 +13,6 @@ summary: "Quran Braille reading rules: direction, vowel writing and important no
   when [لَ] is written, the Fatha is placed after the letter Lam in the Braille
   alphabet.
 
-- In some paragraphs, words unrelated to the topic have been written in the Braille
-  edition of the Elif juz. For example, in the paragraph dealing with the Hamza there
-  is an example with Tanwin. However, in terms of ordering, Tanwin is covered after the
-  Hamza. To draw attention to this point and at the same time not to disrupt the layout
-  in the Braille edition, the word written in Arabic in this case has been marked in
-  yellow.
-
 - In Arabic, the shape of a letter changes according to its position in a word. In
   Braille, however, each letter *always* has a single shape.
 

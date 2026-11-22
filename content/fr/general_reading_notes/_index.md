@@ -14,13 +14,6 @@ summary: "Règles de lecture du Coran en Braille : sens de lecture, écriture de
   Exemple : lorsque [لَ] est écrit, la Fatha est placée après la lettre Lam dans
   l'alphabet Braille.
 
-- Dans certains paragraphes, des mots sans rapport avec le sujet ont été écrits dans
-  l'édition Braille du juz Elif. Par exemple, dans le paragraphe traitant de la Hamza se
-  trouve un exemple avec Tanwin. Or, du point de vue de l'ordre, le Tanwin est traité
-  après la Hamza. Pour attirer l'attention sur ce point et en même temps ne pas perturber
-  la disposition dans l'édition Braille, le mot écrit en arabe dans ce cas a été marqué en
-  jaune.
-
 - En arabe, la forme d'une lettre change selon sa position dans un mot. En Braille, en
   revanche, chaque lettre a *toujours* une seule forme.
 

@@ -17,7 +17,13 @@ When the letter Alif in the Arabic alphabet is vowelized, it is called Hamza. Ac
 *  Hamza: [ء] ⠄ (dot 3)
 
 
-are represented as such. All are pronounced as 'e', 'i', or 'u' according to their vowels. **NOTE:** In Arabic, the Hamza is written above or below the Alif depending on the situation. For easier reading, this distinction is not made in the Braille alphabet and is written as indicated above.
+are represented as such. All are pronounced as 'e', 'i', or 'u' according to their vowels.
+
+#### Notes
+
+1.  In Arabic, the Hamza is written above or below the Alif depending on the situation. For easier reading, this distinction is not made in the Braille alphabet and is written as indicated above.
+
+2.  In some paragraphs, words unrelated to the topic have been written in the Braille edition of the Elif juz. To draw attention to this point and at the same time not to disrupt the layout in the Braille edition, the word written in Arabic in this case has been marked in yellow.
 
 ### Hamza-Alif Examples
 

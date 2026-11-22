@@ -12,6 +12,10 @@ summary: "Elif uzatmaları: elifmed, elif-i maksure ve vavelif Braille işaretle
 Mushafta elif üzerinde dik üstündür. Kabartmada ⠜(noktalar 3 4 5)
 işaretidir, bir elif miktarı 'aa 'diye uzatılarak okunur.
 
+#### Not
+
+Bazı paragraflarda konuyla ilgili olmayan kelimeler Elif cüz'ünün Braille baskısında yazılmıştır. Bu hususa dikkat çekmek ve aynı zamanda Braille baskıdaki düzeni bozmamak için, bu durumda Arapça yazılan kelime sarı renkle işaretlenmiştir.
+
 ### Elifmed örnekler
 
 {{< datatable listable="true" src="tr_ism/02-lect9/elifmed" headers="Arapca|Braille" >}}
