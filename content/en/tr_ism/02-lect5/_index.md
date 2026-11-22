@@ -5,7 +5,6 @@ weight: 5
 title: 'Lesson 5: Elongations (Madd)'
 summary: "Elongation letters: Braille writing of Alif, Waw and Ya elongations."
 ---
-## Lesson 5: Elongations (Madd)
 
 When the letters [ا], [و] and [ي] are vowelized, they serve as independent letters. However, if they come after a letter without a vowel, they elongate it.
 

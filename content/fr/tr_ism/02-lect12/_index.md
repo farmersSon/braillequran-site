@@ -5,7 +5,6 @@ weight: 12
 title: 'Leçon 12 : Signes de pause'
 summary: "Signes de pause coraniques : Waqf Lazim, Mutlaq, Jaiz et autres."
 ---
-## Leçon 12 : Signes de pause
 
 Lors de la lecture du Coran, les savants ont déterminé où et combien de temps il faut s'arrêter ou non. Dans les éditions du Coran suivant la récitation d'Asim, se trouvent des signes déterminés par l'Imam Sajawandi, écrits en petites lettres à la fin des mots.
 

@@ -5,7 +5,6 @@ weight: 12
 title: 'Lektion 12: Pausenzeichen'
 summary: "Koran-Pausenzeichen: Waqf Lazim, Mutlaq, Jaiz und weitere."
 ---
-## Lektion 12: Pausenzeichen
 
 Beim Koranlesen wurde von Gelehrten festgelegt, wo und wie lange pausiert werden soll oder nicht. In Koranausgaben, die der Asim-Leseweise entsprechen, befinden sich von Imam Sajawandi festgelegte Zeichen, die am Wortende als kleine Buchstaben geschrieben sind.
 

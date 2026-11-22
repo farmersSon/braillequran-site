@@ -6,7 +6,6 @@ title: 'Ders 9: Elif Uzatmalar'
 summary: "Elif uzatmaları: elifmed, elif-i maksure ve vavelif Braille işaretleri."
 ---
 
-## Ders 9: Elif Uzatmalar
 
 ## Elifmed
 

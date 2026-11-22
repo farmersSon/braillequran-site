@@ -5,7 +5,6 @@ weight: 11
 title: 'Lektion 11: Wichtige Erläuterungen'
 summary: "Wasl, Waqf, Tanwin und Sonderfälle – Regeln zum Lesen des Korans in Braille."
 ---
-## Lektion 11: Wichtige Erläuterungen
 
 1.  Wasl: Weiterleiten, mit dem Lesen fortfahren; Waqf: am Wortende anhalten. Beim Waqf fallen alle Vokale und Tanwin weg und werden zu Sukun. Fatha-Tanwin wird mit Alif-Dehnung ausgesprochen. Beispiel:
     [عالَمينَ] [أَحَدٌ] [فَلَقِ]

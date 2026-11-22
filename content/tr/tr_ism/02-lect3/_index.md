@@ -5,7 +5,6 @@ draft: false
 title: 'Ders 3: Harekeler'
 summary: "Braille'de harekeler: üstün, esre ve ötre işaretleri."
 ---
-## Ders 3: Harekeler
 
 ## Üstün
 

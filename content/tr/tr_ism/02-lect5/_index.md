@@ -5,7 +5,6 @@ draft: false
 title: 'Ders 5: Medler'
 summary: "Med harfleri: elif, vav ve ye uzatmalarının Braille yazımı."
 ---
-## Ders 5: Medler (Uzatmalar)
 
 [ا], [و] ve [ي] harfleri hareke
 almışlarsa asli harf görevindedirler. Eğer bir harfin arkasından

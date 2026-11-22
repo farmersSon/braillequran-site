@@ -5,7 +5,6 @@ weight: 11
 title: 'Lesson 11: Important Notes'
 summary: "Wasl, Waqf, Tanwin and special cases – Quran Braille reading rules."
 ---
-## Lesson 11: Important Notes
 
 1.  Wasl: continuing, proceeding with reading; Waqf: stopping at the end of a word. When stopping (Waqf), all vowels and Tanwin are dropped and become Sukun. Fatha Tanwin is pronounced with Alif elongation. Example:
     [عالَمينَ] [أَحَدٌ] [فَلَقِ]

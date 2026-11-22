@@ -5,7 +5,6 @@ weight: 5
 title: 'Lektion 5: Dehnungen (Madd)'
 summary: "Dehnungsbuchstaben: Braille-Schreibung der Alif-, Waw- und Ya-Dehnungen."
 ---
-## Lektion 5: Dehnungen (Madd)
 
 Wenn die Buchstaben [ا], [و] und [ي] vokalisiert sind, dienen sie als eigenständige Buchstaben. Wenn sie jedoch ohne Vokal nach einem Buchstaben stehen, dehnen sie ihn.
 

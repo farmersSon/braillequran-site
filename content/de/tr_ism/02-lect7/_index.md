@@ -6,7 +6,6 @@ title: 'Lektion 7: Tanwin'
 summary: "Tanwin: Fatha-, Kasra- und Damma-Tanwin Braille-Zeichen."
 ---
 
-## Lektion 7: Tanwin
 
 Tanwin bedeutet Nunation. Es kommt nur am Wortende vor und zeigt an, dass das Wort ein unbestimmtes Substantiv ist. Es gibt drei Arten:
 

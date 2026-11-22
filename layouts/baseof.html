@@ -106,6 +106,18 @@
     <div class="ph3 ph4-ns flex flex-wrap justify-between items-center">
       {{ partial "breadcrumb.html" . }}
     </div>
+    {{ block "page-heading" . }}
+      {{ if or (not .IsHome) .Params.description }}
+        <div class="tc-l ph3 ph4-ns pt2 pb3">
+          {{ if not .IsHome }}
+            <h1 class="f2 f-subheadline-l fw2 near-black mb0 lh-title">{{ .Title | compare.Default .Site.Title }}</h1>
+          {{ end }}
+          {{ with .Params.description }}
+            <h2 class="fw1 f5 f3-l mid-gray measure-wide-l center lh-copy mt3">{{ . }}</h2>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
     <div class="ph3 ph4-ns">
       {{ partial "review-notice.html" . }}
     </div>

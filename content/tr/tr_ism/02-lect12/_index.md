@@ -5,7 +5,6 @@ draft: false
 title: 'Ders 12: Durak işaretleri'
 summary: "Kur'an durak işaretleri: vakf-ı lazım, mutlak, caiz ve diğerleri."
 ---
-## Ders 12: Durak işaretleri
 
 Kur'an okunurken nerede ne kadar durulması veya durulmaması gerektiği
 alimler tarafından belirlenmiş ve belli harflerle gösterilmiştir.

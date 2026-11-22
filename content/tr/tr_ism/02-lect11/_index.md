@@ -5,7 +5,6 @@ draft: false
 title: 'Ders 11: Önemli açıklamalar'
 summary: "Vasıl, vakf, tenvin ve özel durumlar – Kur'an Braille okuma kuralları."
 ---
-## Ders 11: Önemli açıklamalar
 
 1.  Vasıl: geçmek, okumaya devam etmek; vakf: kelime sonunda durmak
     demektir. Vakf halinde bütün hareke ve tenvinler düşer, sükuna

@@ -5,7 +5,6 @@ draft: false
 title: 'Ders 10: ﺎﻟ (elif-lam) takısı (harfi tarif)'
 summary: "Elif-lam takısı: kameri ve şemsi harflerin Braille'de gösterimi."
 ---
-## Ders 10: [ال] (elif-lam) takısı (harfi tarif) {#ders10}
 
 Kelime başında bulunur. O kelimenin belirli (marife) olduğunu gösterir.
 Elif cümle başlarında her zaman okunur, kendinden önceki kelime veya
@@ -20,7 +19,7 @@ Diğerleri şemsidir. Harf-i tarifle başlayan kelimenin ilk harfi kameri
 ise [ل] mutlaka cezimlidir; şemsi ise [ل]
 harekesiz, ilk harf şeddelidir.
 
-### Kameri harfler örnekler
+### Kameri harfler örnekler {#ders10}
 
 {{< datatable listable="true" src="tr_ism/02-lect10/kameri" headers="Arapca|Braille" >}}
 

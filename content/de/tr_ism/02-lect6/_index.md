@@ -5,7 +5,6 @@ weight: 6
 title: 'Lektion 6: Hamza-Varianten'
 summary: "Vier Hamza-Varianten und ihre Darstellung im Braille-Alphabet."
 ---
-## Lektion 6: Hamza-Varianten
 
 Wenn der Buchstabe Alif im arabischen Alphabet vokalisiert wird, wird er als Hamza bezeichnet. Je nach Position im Wort gibt es vier Arten von Hamza:
 

@@ -5,7 +5,6 @@ weight: 11
 title: 'Leçon 11 : Notes importantes'
 summary: "Wasl, Waqf, Tanwin et cas particuliers – règles de lecture du Coran en Braille."
 ---
-## Leçon 11 : Notes importantes
 
 1.  Wasl : continuer, poursuivre la lecture ; Waqf : s'arrêter en fin de mot. Lors du Waqf, toutes les voyelles et Tanwin disparaissent et deviennent Sukun. Le Tanwin Fatha se prononce avec un allongement Alif. Exemple :
     [عالَمينَ] [أَحَدٌ] [فَلَقِ]

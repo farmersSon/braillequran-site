@@ -5,7 +5,6 @@ weight: 12
 title: 'Lesson 12: Pause Signs'
 summary: "Quran pause signs: Waqf Lazim, Mutlaq, Jaiz and others."
 ---
-## Lesson 12: Pause Signs
 
 When reading the Quran, scholars have determined where and for how long one should pause or not. In Quran editions following the Asim recitation, signs determined by Imam Sajawandi are written as small letters at the end of words.
 

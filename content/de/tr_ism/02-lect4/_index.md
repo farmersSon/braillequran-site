@@ -5,7 +5,6 @@ weight: 4
 title: 'Lektion 4: Sukun und Schadda'
 summary: "Sukun und Schadda: Zeichen für ruhende und verdoppelte Buchstaben in Braille."
 ---
-## Lektion 4: Sukun und Schadda
 
 Sukun: Das Zeichen ⠠(Punkte 2 5), das nach dem Buchstaben gesetzt wird. Es verbindet den Buchstaben mit dem vorherigen und lässt ihn ohne Vokal (ruhend) aussprechen.
 

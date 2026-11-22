@@ -6,7 +6,6 @@ title: 'Lesson 7: Tanwin'
 summary: "Tanwin: Fatha, Kasra and Damma Tanwin Braille signs."
 ---
 
-## Lesson 7: Tanwin
 
 Tanwin means nunation. It only occurs at the end of words and indicates that the word is an indefinite noun. There are three types:
 

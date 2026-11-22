@@ -5,7 +5,6 @@ weight: 6
 title: 'Lesson 6: Hamza Variants'
 summary: "Four types of Hamza and their representation in the Braille alphabet."
 ---
-## Lesson 6: Hamza Variants
 
 When the letter Alif in the Arabic alphabet is vowelized, it is called Hamza. According to their appearance in a word, there are four types of Hamza:
 

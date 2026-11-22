@@ -5,7 +5,6 @@ draft: false
 title: 'Leçon 5 : Allongements (Madd)'
 summary: "Lettres d'allongement : écriture Braille des allongements Alif, Waw et Ya."
 ---
-## Leçon 5 : Allongements (Madd)
 
 Lorsque les lettres [ا], [و] et [ي] sont vocalisées, elles servent de lettres indépendantes. Cependant, si elles suivent une lettre sans voyelle, elles l'allongent.
 

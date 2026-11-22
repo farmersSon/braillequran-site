@@ -5,7 +5,6 @@ draft: false
 title: 'Ders 6: Hemzeler'
 summary: "Dört çeşit hemzenin Braille alfabesindeki gösterimi."
 ---
-## Ders 6: Hemzeler
 
 Arap alfabesindeki elif harfi hareke aldığında hemze olarak
 adlandırılır. Kelime içindeki görünümlerine göre dört çeşit hemze

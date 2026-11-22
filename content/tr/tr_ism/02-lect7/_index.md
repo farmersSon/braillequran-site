@@ -6,7 +6,6 @@ title: 'Ders 7: Tenvinler'
 summary: "Tenvinler: üstün, esre ve ötre tenvin Braille işaretleri."
 ---
 
-## Ders 7: Tenvinler
 
 Tenvin, nunlanmak demektir. Yalnız kelime sonlarında bulunur ve o
 kelimenin belirsiz (nekeri) isim olduğunu ifade eder. Üç çeşittir:

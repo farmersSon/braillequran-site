@@ -6,7 +6,6 @@ title: 'Leçon 9 : Allongements Alif'
 summary: "Allongements Alif : signes Braille Alif-Madd, Alif Maqsura et Waw-Alif."
 ---
 
-## Leçon 9 : Allongements Alif
 
 ## Alif-Madd
 

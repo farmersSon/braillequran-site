@@ -6,7 +6,6 @@ title: 'Leçon 7 : Tanwin'
 summary: "Tanwin : signes Braille des Tanwin Fatha, Kasra et Damma."
 ---
 
-## Leçon 7 : Tanwin
 
 Tanwin signifie nunation. Il n'apparaît qu'en fin de mot et indique que le mot est un nom indéfini. Il en existe trois types :
 

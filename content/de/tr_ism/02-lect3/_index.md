@@ -5,7 +5,6 @@ weight: 3
 title: 'Lektion 3: Vokalisierungszeichen'
 summary: "Vokalisierungszeichen in Braille: Fatha, Kasra und Damma."
 ---
-## Lektion 3: Vokalisierungszeichen
 
 ## Fatha
 
