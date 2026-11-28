@@ -4,7 +4,7 @@ description: "BrailleQuran – Accessible Quran Resources"
 ---
 
 {{< ar >}}رَبِّ يَسِّرْ وَلَا تُعَسِّرْ، رَبِّ تَمِّمْ بِالْخَيْرِ{{< /ar >}}\
-*Rabbi yessir velâ tuassir, Rabbi temmim bi'l-hayr.*\
+*Rabbi yessir velâ tuassir, Rabbi temmim bil-hayr.*\
 My Lord, make it easy and do not make it difficult. My Lord, complete it with good.
 
 [Preface: Why BrailleQuran?](/en/onsoz)
@@ -38,3 +38,4 @@ This shows in particular the Quran Braille alphabet and signs used in Türkiye. 
 - [Lesson 11: Important Notes](/en/tr_ism/02-lect11)
 
 - [Lesson 12: Pause Signs](/en/tr_ism/02-lect12)
+{.lesson-list role="list"}

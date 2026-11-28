@@ -1,0 +1,8 @@
+{{- /*
+  Wraps Arabic text in lang="ar" dir="rtl" so screen readers switch to an
+  Arabic voice. A vowel mark shown on its own (e.g. kasra) has no letter to sit
+  on and renders as a box, so it gets a tatweel (ـ) as its base.
+*/ -}}
+{{- $s := string . -}}
+{{- if findRE `^[\x{064B}-\x{065F}\x{0670}]` $s 1 -}}{{- $s = printf "ـ%s" $s -}}{{- end -}}
+<span lang="ar" dir="rtl">{{ $s }}</span>

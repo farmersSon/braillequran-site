@@ -4,7 +4,7 @@ description: "BrailleQuran – Ressources Coraniques Accessibles"
 ---
 
 {{< ar >}}رَبِّ يَسِّرْ وَلَا تُعَسِّرْ، رَبِّ تَمِّمْ بِالْخَيْرِ{{< /ar >}}\
-*Rabbi yessir velâ tuassir, Rabbi temmim bi'l-hayr.*\
+*Rabbi yessir velâ tuassir, Rabbi temmim bil-hayr.*\
 Mon Seigneur, facilite et ne rends pas difficile. Mon Seigneur, achève dans le bien.
 
 [Préface : Pourquoi BrailleQuran ?](/fr/onsoz)
@@ -41,3 +41,4 @@ tel qu'indiqué ci-dessous.
 - [Leçon 11 : Notes importantes](/fr/tr_ism/02-lect11)
 
 - [Leçon 12 : Signes de pause](/fr/tr_ism/02-lect12)
+{.lesson-list role="list"}

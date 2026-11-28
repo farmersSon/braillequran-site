@@ -4,7 +4,7 @@ description: "BrailleQuran – Barrierefreie Koran-Ressourcen"
 ---
 
 {{< ar >}}رَبِّ يَسِّرْ وَلَا تُعَسِّرْ، رَبِّ تَمِّمْ بِالْخَيْرِ{{< /ar >}}\
-*Rabbi yessir velâ tuassir, Rabbi temmim bi'l-hayr.*\
+*Rabbi yessir velâ tuassir, Rabbi temmim bil-hayr.*\
 Mein Herr, mach es leicht und mach es nicht schwer. Mein Herr, vollende es im Guten.
 
 [Vorwort: Warum BrailleQuran?](/de/onsoz)
@@ -41,3 +41,4 @@ Sechs-Punkte-Braille-System ist wie unten angegeben.
 - [Lektion 11: Wichtige Erläuterungen](/de/tr_ism/02-lect11)
 
 - [Lektion 12: Pausenzeichen](/de/tr_ism/02-lect12)
+{.lesson-list role="list"}
