@@ -41,3 +41,4 @@ Sechs-Punkte-Braille-System ist wie unten angegeben.
 - [Lektion 11: Wichtige Erläuterungen](/de/tr_ism/02-lect11)
 
 - [Lektion 12: Pausenzeichen](/de/tr_ism/02-lect12)
+{.lesson-list role="list"}

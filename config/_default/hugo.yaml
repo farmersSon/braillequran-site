@@ -57,3 +57,7 @@ markup:
   goldmark:
     renderer:
       unsafe: false
+    parser:
+      attribute:
+        # Lets Markdown add a class to a block, e.g. {.lesson-list} under a list.
+        block: true

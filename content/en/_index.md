@@ -38,3 +38,4 @@ This shows in particular the Quran Braille alphabet and signs used in Türkiye. 
 - [Lesson 11: Important Notes](/en/tr_ism/02-lect11)
 
 - [Lesson 12: Pause Signs](/en/tr_ism/02-lect12)
+{.lesson-list role="list"}

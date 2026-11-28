@@ -61,6 +61,10 @@
       .toggle-col-btn { display: none; }
       .js .toggle-col-btn:not([hidden]) { display: inline-block; }
 
+      /* Markers hidden visually only; role="list" in the Markdown keeps the
+         list announced in Safari/VoiceOver, which drops it without markers. */
+      .lesson-list { list-style: none; padding-left: 0; }
+
       /* Arabic script looks smaller than Latin text at the same size. */
       [lang="ar"] { font-size: 1.6em; }
 

@@ -43,3 +43,4 @@ belirtilen şekildedir.
 - [Ders 11: Önemli açıklamalar](/tr/tr_ism/02-lect11)
 
 - [Ders 12: Durak işaretleri](/tr/tr_ism/02-lect12)
+{.lesson-list role="list"}

@@ -41,3 +41,4 @@ tel qu'indiqué ci-dessous.
 - [Leçon 11 : Notes importantes](/fr/tr_ism/02-lect11)
 
 - [Leçon 12 : Signes de pause](/fr/tr_ism/02-lect12)
+{.lesson-list role="list"}
