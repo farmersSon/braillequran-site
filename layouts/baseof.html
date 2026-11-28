@@ -65,6 +65,15 @@
          list announced in Safari/VoiceOver, which drops it without markers. */
       .lesson-list { list-style: none; padding-left: 0; }
 
+      /* Rows the source marks (see the note in lesson 6): a soft tint plus a
+         bar, readable in both themes instead of a hard yellow fill. */
+      .row-marked td, li.row-marked { background-color: #fff3c4; }
+      .row-marked td:first-child { box-shadow: -5px 0 0 #c99400; }
+      li.row-marked { box-shadow: inset 4px 0 0 #c99400; padding-left: .6rem; }
+      html.dark .row-marked td, html.dark li.row-marked { background-color: #3b3218; }
+      html.dark .row-marked td:first-child { box-shadow: -5px 0 0 #e0b440; }
+      html.dark li.row-marked { box-shadow: inset 4px 0 0 #e0b440; }
+
       /* Arabic script looks smaller than Latin text at the same size. */
       [lang="ar"] { font-size: 1.6em; }
 
@@ -208,7 +217,7 @@
               if(last&&last.textContent.trim()){
                 var li=document.createElement('li');
                 li.textContent=last.textContent;
-                if(tr.style.backgroundColor) li.style.backgroundColor=tr.style.backgroundColor;
+                if(tr.classList.contains('row-marked')) li.className='row-marked';
                 ul.appendChild(li);
               }
             });
