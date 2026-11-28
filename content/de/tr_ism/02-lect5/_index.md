@@ -11,9 +11,9 @@ Wenn die Buchstaben [ا], [و] und [ي] vokalisiert sind, dienen sie als eigenst
 [ا] (Alif) dehnt den vorherigen Buchstaben um ein Alif-Maß als 'aa',
 [و] (Waw) als 'uu' und [ي] (Ya) als 'ii'.
 
-Außerdem gibt es im Korantext einige Stellen, die nicht sichtbar sind, aber gedehnt werden müssen. Diese werden verborgene Dehnungen genannt. [ٰ] (verborgenes Alif) ⠈(Punkt 4) wird als 'aa' gedehnt,
-[ِ] (verborgenes Ya) ⠘(Punkte 4 5) wird als 'ii' gedehnt
-und [ُ] (verborgenes Waw) ⠬(Punkte 2 4 5 6) wird als 'uu' um ein Alif-Maß gedehnt.
+Außerdem gibt es im Korantext einige Stellen, die nicht sichtbar sind, aber gedehnt werden müssen. Diese werden verborgene Dehnungen genannt. [{{< ar >}}ٰ{{< /ar >}}] (verborgenes Alif) ⠈(Punkt 4) wird als 'aa' gedehnt,
+[{{< ar >}}ِ{{< /ar >}}] (verborgenes Ya) ⠘(Punkte 4 5) wird als 'ii' gedehnt
+und [{{< ar >}}ُ{{< /ar >}}] (verborgenes Waw) ⠬(Punkte 2 4 5 6) wird als 'uu' um ein Alif-Maß gedehnt.
 
 ### Beispiele für offene und verborgene Alif-Dehnung
 

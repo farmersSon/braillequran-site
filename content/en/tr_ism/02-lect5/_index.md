@@ -11,9 +11,9 @@ When the letters [ا], [و] and [ي] are vowelized, they serve as independent le
 [ا] (Alif) elongates the preceding letter by one Alif measure as 'aa',
 [و] (Waw) as 'uu' and [ي] (Ya) as 'ii'.
 
-Additionally, there are some places in the Quran text that are not visible but must be elongated. These are called hidden elongations. [ٰ] (hidden Alif) ⠈(dot 4) is elongated as 'aa',
-[ِ] (hidden Ya) ⠘(dots 4 5) is elongated as 'ii'
-and [ُ] (hidden Waw) ⠬(dots 2 4 5 6) is elongated as 'uu' by one Alif measure.
+Additionally, there are some places in the Quran text that are not visible but must be elongated. These are called hidden elongations. [{{< ar >}}ٰ{{< /ar >}}] (hidden Alif) ⠈(dot 4) is elongated as 'aa',
+[{{< ar >}}ِ{{< /ar >}}] (hidden Ya) ⠘(dots 4 5) is elongated as 'ii'
+and [{{< ar >}}ُ{{< /ar >}}] (hidden Waw) ⠬(dots 2 4 5 6) is elongated as 'uu' by one Alif measure.
 
 ### Examples of open and hidden Alif elongation
 

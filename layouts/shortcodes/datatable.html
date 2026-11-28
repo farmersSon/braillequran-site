@@ -37,7 +37,7 @@
 {{- /* Any highlight marks the row; the colour in the data is not used, so the mark stays readable in dark mode. */}}
 <tr{{ with $color }} class="row-marked"{{ end }}>
 {{- range $j, $cell := $row }}
-<td>{{ with $cell }}{{ if findRE `[\x{0600}-\x{06FF}]` (string .) 1 }}<span lang="ar" dir="rtl">{{ . }}</span>{{ else }}{{ . }}{{ end }}{{ end }}</td>
+<td>{{ with $cell }}{{ if findRE `[\x{0600}-\x{06FF}]` (string .) 1 }}{{ partial "arabic.html" . }}{{ else }}{{ . }}{{ end }}{{ end }}</td>
 {{- end }}
 </tr>
 {{- end }}
