@@ -4,7 +4,7 @@ description: "BrailleQuran – Accessible Quran Resources"
 ---
 
 {{< ar >}}رَبِّ يَسِّرْ وَلَا تُعَسِّرْ، رَبِّ تَمِّمْ بِالْخَيْرِ{{< /ar >}}\
-*Rabbi yessir velâ tuassir, Rabbi temmim bi'l-hayr.*\
+*Rabbi yessir velâ tuassir, Rabbi temmim bil-hayr.*\
 My Lord, make it easy and do not make it difficult. My Lord, complete it with good.
 
 [Preface: Why BrailleQuran?](/en/onsoz)
